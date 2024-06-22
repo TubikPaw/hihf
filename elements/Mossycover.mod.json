@@ -1,0 +1,118 @@
+{
+  "_fv": 57,
+  "_type": "biome",
+  "definition": {
+    "name": "Mossy cover",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -9965743,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -15305971,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -16241151,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:zvuk_mshystogo_pokrova"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:muzyka_mshstogo_pokrova"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.9,
+    "temperature": 1.0,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.28666666666666674,
+      "max": 0.9533333333333333
+    },
+    "genHumidity": {
+      "min": 0.18000000000000005,
+      "max": 1.42
+    },
+    "genContinentalness": {
+      "min": -0.10999999999999999,
+      "max": 1.13
+    },
+    "genErosion": {
+      "min": 0.18000000000000005,
+      "max": 1.42
+    },
+    "genWeirdness": {
+      "min": -0.19977230754113184,
+      "max": 1.0402276924588683
+    },
+    "treesPerChunk": 7,
+    "vanillaTreeType": "Big trees",
+    "treeType": 1,
+    "minHeight": 6,
+    "treeStem": {
+      "value": "Blocks.JUNGLE_WOOD"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#3"
+    },
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "ExtraEmeraldOre",
+      "ExtraGoldOre",
+      "AmethystGeodes",
+      "Lakes",
+      "ForestGrass",
+      "DefaultFlowers"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

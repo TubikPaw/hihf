@@ -1,0 +1,12 @@
+{
+  "type": "hota:structure_feature",
+  "config": {
+    "structure": "hota:vishnay",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

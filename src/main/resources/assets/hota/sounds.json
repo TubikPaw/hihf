@@ -1,0 +1,42 @@
+{
+  "forest_of_the_ancients": {
+    "sounds": [
+      {
+        "name": "hota:biom_music",
+        "stream": false
+      }
+    ]
+  },
+  "concert_of_the_ancients": {
+    "sounds": [
+      {
+        "name": "hota:57c327156d964fb6.wav--online-audio-convert.com",
+        "stream": false
+      }
+    ]
+  },
+  "wasteland_of_the_ancients": {
+    "sounds": [
+      {
+        "name": "hota:983a0eda9e104d1d.wav--online-audio-convert.com",
+        "stream": false
+      }
+    ]
+  },
+  "zvuk_mshystogo_pokrova": {
+    "sounds": [
+      {
+        "name": "hota:1094ccbc36715b93",
+        "stream": false
+      }
+    ]
+  },
+  "muzyka_mshstogo_pokrova": {
+    "sounds": [
+      {
+        "name": "hota:659a2c1840d40e0e",
+        "stream": false
+      }
+    ]
+  }
+}

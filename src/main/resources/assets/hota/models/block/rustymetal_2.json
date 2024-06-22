@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hota:block/jgytf",
+    "up": "hota:block/jgytf",
+    "north": "hota:block/jgytf",
+    "east": "hota:block/jgytf",
+    "south": "hota:block/jgytf",
+    "west": "hota:block/jgytf",
+    "particle": "hota:block/jgytf"
+  },
+  "render_type": "solid"
+}

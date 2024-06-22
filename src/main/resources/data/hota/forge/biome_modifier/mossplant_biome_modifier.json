@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hota:mossycover",
+  "features": "hota:mossplant",
+  "step": "vegetal_decoration"
+}

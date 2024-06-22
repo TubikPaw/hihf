@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hota:block/crystal_planks",
+    "particle": "hota:block/crystal_planks"
+  },
+  "render_type": "solid"
+}

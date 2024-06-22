@@ -1,0 +1,38 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "0374e314d8f66647",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Vampireblade",
+    "specialInformation": {
+      "fixedValue": [
+        "Человек обладающий этим клинком может похищать жизни врагов. Осторожно неправильная техника вы можете умереть!"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Relics"
+    },
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 10.0,
+    "enchantability": 0,
+    "damageVsEntity": 10.0,
+    "usageCount": 15000,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "U9"
+    }
+  }
+}

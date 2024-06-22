@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "hota:vampirebiome",
+  "spawners": {
+    "type": "hota:thedarkmonk",
+    "weight": 1,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

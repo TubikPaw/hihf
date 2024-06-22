@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ufd:blocks/109_20230617143903",
+    "particle": "ufd:blocks/109_20230617143903"
+  }
+}

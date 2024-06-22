@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " a ",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brick"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    },
+    "d": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "hota:test",
+    "count": 1
+  }
+}

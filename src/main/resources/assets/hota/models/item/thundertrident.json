@@ -1,0 +1,14 @@
+{
+  "parent": "hota:custom/23f11714bee4b386",
+  "textures": {
+    "0": "hota:block/3123123",
+    "1": "hota:block/texture_1",
+    "2": "hota:block/312",
+    "3": "hota:block/1_1",
+    "4": "hota:block/texture_2",
+    "5": "hota:block/3",
+    "6": "hota:block/4_1",
+    "7": "hota:block/5_1",
+    "particle": "hota:item/3cb9a3ba9936afc1"
+  }
+}

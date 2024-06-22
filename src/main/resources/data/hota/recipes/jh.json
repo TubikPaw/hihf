@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hota:strawberry"
+    },
+    {
+      "item": "hota:raspberry"
+    },
+    {
+      "item": "hota:blackberry"
+    },
+    {
+      "item": "hota:cherry"
+    },
+    {
+      "item": "hota:blueberries"
+    },
+    {
+      "item": "hota:currant"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "hota:berrysalad",
+    "count": 1
+  }
+}

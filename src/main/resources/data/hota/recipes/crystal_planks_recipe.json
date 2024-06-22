@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:crystal_log"
+    }
+  ],
+  "result": {
+    "item": "hota:crystal_planks",
+    "count": 4
+  }
+}

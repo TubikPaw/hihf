@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hota:berryplain",
+  "features": "hota:fdssa_feature",
+  "step": "surface_structures"
+}

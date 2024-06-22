@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "hota:textures/screens/dsfe.png",
+    "icon": {
+      "item": "minecraft:light"
+    },
+    "title": {
+      "translate": "advancements.helloworld.title"
+    },
+    "description": {
+      "translate": "advancements.helloworld.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "helloworld": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "3f3f3f3f3f_3f3f3f_je3_be3-export",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Losfolitepickaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Upgrademod"
+    },
+    "harvestLevel": 4,
+    "efficiency": 10.5,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 12,
+    "damageVsEntity": 1.9,
+    "usageCount": 1560,
+    "blocksAffected": [],
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "hota:heavenlymetal"
+    },
+    "b": {
+      "item": "hota:stickstonegth"
+    }
+  },
+  "result": {
+    "item": "hota:heavenlyhammer",
+    "count": 1
+  }
+}

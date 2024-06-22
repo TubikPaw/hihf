@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "hota:infernalmetal"
+    },
+    "b": {
+      "item": "hota:stickstonegth"
+    }
+  },
+  "result": {
+    "item": "hota:infernalhammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "hota:block/crystal_planks",
+    "top": "hota:block/crystal_planks",
+    "side": "hota:block/crystal_planks"
+  },
+  "render_type": "solid"
+}

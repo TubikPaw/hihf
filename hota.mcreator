@@ -1,0 +1,5061 @@
+{
+  "mod_elements": [
+    {
+      "name": "Craftbluestrenght",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbluestrenght",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftbluestrenght.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkmetalingot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmetalingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/darkmetalingot.json",
+          "src/main/java/net/mcreator/ufd/item/DarkmetalingotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Craftdarkmetalingot",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftdarkmetalingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftdarkmetalingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Oldredstoun",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldredstoun",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/OldredstounItem.java",
+          "src/main/resources/assets/hota/models/item/oldredstoun.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkmetalsword",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmetalsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/darkmetalsword.json",
+          "src/main/java/net/mcreator/ufd/item/DarkmetalswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Craftdarkmetalsword",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftdarkmetalsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftdarkmetalsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkmetalhamer",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmetalhamer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/DarkmetalhamerItem.java",
+          "src/main/resources/assets/hota/models/item/darkmetalhamer.json"
+        ]
+      }
+    },
+    {
+      "name": "Darkmetalshovel",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmetalshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/DarkmetalshovelItem.java",
+          "src/main/resources/assets/hota/models/item/darkmetalshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftdarkmetalhammer",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftdarkmetalhammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftdarkmetalhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftdarkmetalshovel",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftdarkmetalshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftdarkmetalshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Infernalmetal",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infernalmetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/infernalmetal.json",
+          "src/main/java/net/mcreator/ufd/item/InfernalmetalItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Craftinfernalmetal",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftinfernalmetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftinfernalmetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Oldredstounsworld",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldredstounsworld",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/oldredstounsworld.json",
+          "src/main/java/net/mcreator/ufd/item/OldredstounsworldItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Oldredstounshovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldredstounshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/oldredstounshovel.json",
+          "src/main/java/net/mcreator/ufd/item/OldredstounshovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Oldredstounhammer",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldredstounhammer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/OldredstounhammerItem.java",
+          "src/main/resources/assets/hota/models/item/oldredstounhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftoldredstounsworld",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftoldredstounsworld",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftoldredstounsworld.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftoldredstounshovel",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftoldredstounshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftoldredstounshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftoldredstounhammer",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftoldredstounhammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftoldredstounhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Bluestrengthsword",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluestrengthsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BluestrengthswordItem.java",
+          "src/main/resources/assets/hota/models/item/bluestrengthsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftbluestrengthsword",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbluestrengthsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftbluestrengthsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Bluestrengthshovel",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluestrengthshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BluestrengthshovelItem.java",
+          "src/main/resources/assets/hota/models/item/bluestrengthshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftbluestrengthshovel",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbluestrengthshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftbluestrengthshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Bluestrengthhammer",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluestrengthhammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/bluestrengthhammer.json",
+          "src/main/java/net/mcreator/ufd/item/BluestrengthhammerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Craftbluestrengthhammer",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbluestrengthhammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftbluestrengthhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Heavenlymetal",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavenlymetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/heavenlymetal.json",
+          "src/main/java/net/mcreator/ufd/item/HeavenlymetalItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Craftheavenlymetal",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftheavenlymetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftheavenlymetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Bluestrenght",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluestrenght",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BluestrenghtItem.java",
+          "src/main/resources/assets/hota/models/item/bluestrenght.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftoldredstone",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftoldredstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftoldredstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Upgrademod",
+      "type": "tab",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgrademod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Working",
+      "type": "painting",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "working",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Thewrathofheaven",
+      "type": "enchantment",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thewrathofheaven",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/enchantment/ThewrathofheavenEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Thewrathofheaven1",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thewrathofheaven_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/Thewrathofheaven1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frfrfr",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frfrfr",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/FrfrfrProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thewrathofhell",
+      "type": "enchantment",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thewrathofhell",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/enchantment/ThewrathofhellEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Stonegth",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonegth",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/StonegthItem.java",
+          "src/main/resources/assets/hota/models/item/stonegth.json"
+        ]
+      }
+    },
+    {
+      "name": "R",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/r.json"
+        ]
+      }
+    },
+    {
+      "name": "Stickstonegth",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stickstonegth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/stickstonegth.json",
+          "src/main/java/net/mcreator/ufd/item/StickstonegthItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Tr",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/tr.json"
+        ]
+      }
+    },
+    {
+      "name": "Stonegthhammer",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonegthhammer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/StonegthhammerItem.java",
+          "src/main/resources/assets/hota/models/item/stonegthhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Ytr",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Stonegthsword",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonegthsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/StonegthswordItem.java",
+          "src/main/resources/assets/hota/models/item/stonegthsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Uytr",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/uytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Stonegthshovel",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonegthshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/StonegthshovelItem.java",
+          "src/main/resources/assets/hota/models/item/stonegthshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Iuytr",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iuytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/iuytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Heavenlysword",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavenlysword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/HeavenlyswordItem.java",
+          "src/main/resources/assets/hota/models/item/heavenlysword.json"
+        ]
+      }
+    },
+    {
+      "name": "Oiuytr",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oiuytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/oiuytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Heavenlyhammer",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavenlyhammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/heavenlyhammer.json",
+          "src/main/java/net/mcreator/ufd/item/HeavenlyhammerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Poiuytr",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poiuytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/poiuytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Infernalsword",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infernalsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/infernalsword.json",
+          "src/main/java/net/mcreator/ufd/item/InfernalswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Apoiuytr",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apoiuytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/apoiuytr.json"
+        ]
+      }
+    },
+    {
+      "name": "Infernalhammer",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infernalhammer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/InfernalhammerItem.java",
+          "src/main/resources/assets/hota/models/item/infernalhammer.json"
+        ]
+      }
+    },
+    {
+      "name": "Sapoiuytr",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapoiuytr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/sapoiuytr.json"
+        ]
+      }
+    },
+    {
+      "name": "U9",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/U9Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tryh",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tryh",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/TryhProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Godblood",
+      "type": "enchantment",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "godblood",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/enchantment/GodbloodEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Arp",
+      "type": "biome",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/placed_feature/arp_tree.json",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpTrunkDecorator.java",
+          "src/main/resources/data/hota/worldgen/biome/arp.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/arp_tree.json",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpLeaveDecorator.java"
+        ]
+      }
+    },
+    {
+      "name": "Concertoftheancients",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "concertoftheancients",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/ConcertoftheancientsItem.java",
+          "src/main/resources/assets/hota/models/item/concertoftheancients.json"
+        ]
+      }
+    },
+    {
+      "name": "Orpa",
+      "type": "biome",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orpa",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/orpa.json"
+        ]
+      }
+    },
+    {
+      "name": "Rustymetal",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rustymetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/rustymetal.json",
+          "src/main/resources/assets/hota/models/block/rustymetal.json",
+          "src/main/java/net/mcreator/ufd/block/RustymetalBlock.java",
+          "src/main/resources/assets/hota/models/item/rustymetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Rustymetal2",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rustymetal_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/rustymetal_2.json",
+          "src/main/resources/assets/hota/models/item/rustymetal_2.json",
+          "src/main/resources/assets/hota/models/block/rustymetal_2.json",
+          "src/main/java/net/mcreator/ufd/block/Rustymetal2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Mechanizedwastelandoftheancients",
+      "type": "biome",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mechanizedwastelandoftheancients",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/mechanizedwastelandoftheancients.json"
+        ]
+      }
+    },
+    {
+      "name": "Vampireblade",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vampireblade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/VampirebladeItem.java",
+          "src/main/resources/assets/hota/models/item/vampireblade.json"
+        ]
+      }
+    },
+    {
+      "name": "Vampirebiome",
+      "type": "biome",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vampirebiome",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/vampirebiome.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/vampirebiome_tree.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/vampirebiome_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "Grr",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grr",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/GrrProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KatanaofDeath",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "katanaof_death",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/KatanaofDeathItem.java",
+          "src/main/resources/assets/hota/models/item/katanaof_death.json"
+        ]
+      }
+    },
+    {
+      "name": "Gchc",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gchc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/GchcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hj",
+      "type": "potioneffect",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hj",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/potion/HjMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "Firepotion",
+      "type": "potion",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firepotion",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Craftkatanaofdeath",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftkatanaofdeath",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/craftkatanaofdeath.json"
+        ]
+      }
+    },
+    {
+      "name": "Apv",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apv",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/recipes/brewing/ApvBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "Fg",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/fg.json"
+        ]
+      }
+    },
+    {
+      "name": "Relics",
+      "type": "tab",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "relics",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Floweraxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floweraxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/floweraxe.json",
+          "src/main/java/net/mcreator/ufd/item/FloweraxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Flowerpickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flowerpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/FlowerpickaxeItem.java",
+          "src/main/resources/assets/hota/models/item/flowerpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Flowershovel",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flowershovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/flowershovel.json",
+          "src/main/java/net/mcreator/ufd/item/FlowershovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Flowersword",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flowersword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/flowersword.json",
+          "src/main/java/net/mcreator/ufd/item/FlowerswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Rg",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/rg.json"
+        ]
+      }
+    },
+    {
+      "name": "Ku",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ku",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ku.json"
+        ]
+      }
+    },
+    {
+      "name": "Pa",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pa",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/pa.json"
+        ]
+      }
+    },
+    {
+      "name": "Map",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "map",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/map.json"
+        ]
+      }
+    },
+    {
+      "name": "Metaloftheancients",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metaloftheancients",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/MetaloftheancientsItem.java",
+          "src/main/resources/assets/hota/models/item/metaloftheancients.json"
+        ]
+      }
+    },
+    {
+      "name": "Chargedmetaloftheancients",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chargedmetaloftheancients",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/ChargedmetaloftheancientsItem.java",
+          "src/main/resources/assets/hota/models/item/chargedmetaloftheancients.json"
+        ]
+      }
+    },
+    {
+      "name": "Fd",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/fd.json"
+        ]
+      }
+    },
+    {
+      "name": "Fanofcelestialstars",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fanofcelestialstars",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/FanofcelestialstarsItem.java",
+          "src/main/resources/assets/hota/models/item/fanofcelestialstars.json"
+        ]
+      }
+    },
+    {
+      "name": "Thecoreofadyingstar",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thecoreofadyingstar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/thecoreofadyingstar.json",
+          "src/main/java/net/mcreator/ufd/item/ThecoreofadyingstarItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Jrj",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jrj",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/jrj.json"
+        ]
+      }
+    },
+    {
+      "name": "Gf",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/gf.json"
+        ]
+      }
+    },
+    {
+      "name": "Thestarofinfinitespace",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thestarofinfinitespace",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/thestarofinfinitespace.json",
+          "src/main/java/net/mcreator/ufd/item/ThestarofinfinitespaceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Gfgf",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfgf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/gfgf.json"
+        ]
+      }
+    },
+    {
+      "name": "Strawberry",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/strawberry.json",
+          "src/main/java/net/mcreator/ufd/item/StrawberryItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Raspberry",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raspberry",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/RaspberryItem.java",
+          "src/main/resources/assets/hota/models/item/raspberry.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackberry",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackberry",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/blackberry.json",
+          "src/main/java/net/mcreator/ufd/item/BlackberryItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Cherry",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/cherry.json",
+          "src/main/java/net/mcreator/ufd/item/CherryItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Blueberries",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blueberries",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/blueberries.json",
+          "src/main/java/net/mcreator/ufd/item/BlueberriesItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Currant",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "currant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/CurrantItem.java",
+          "src/main/resources/assets/hota/models/item/currant.json"
+        ]
+      }
+    },
+    {
+      "name": "Berrysalad",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "berrysalad",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BerrysaladItem.java",
+          "src/main/resources/assets/hota/models/item/berrysalad.json"
+        ]
+      }
+    },
+    {
+      "name": "Feed",
+      "type": "tab",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feed",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Jh",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/jh.json"
+        ]
+      }
+    },
+    {
+      "name": "BerryPower",
+      "type": "potion",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "berry_power",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Ancientwater",
+      "type": "potion",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancientwater",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Eye",
+      "type": "livingentity",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/forge/biome_modifier/eye_biome_modifier.json",
+          "src/main/resources/assets/hota/models/item/eye_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/entity/EyeEntity.java",
+          "src/main/java/net/mcreator/ufd/client/renderer/EyeRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Thedarkmonk",
+      "type": "livingentity",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thedarkmonk",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/thedarkmonk_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/entity/ThedarkmonkEntity.java",
+          "src/main/resources/data/hota/forge/biome_modifier/thedarkmonk_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/ThedarkmonkRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Mechanicaleye",
+      "type": "livingentity",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mechanicaleye",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/mechanicaleye_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/MechanicaleyeRenderer.java",
+          "src/main/resources/data/hota/forge/biome_modifier/mechanicaleye_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/entity/MechanicaleyeEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Duhat",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duhat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/duhat.json",
+          "src/main/java/net/mcreator/ufd/item/DuhatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Avp",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "avp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/avp.json"
+        ]
+      }
+    },
+    {
+      "name": "Rpapra",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rpapra",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/rpapra.json"
+        ]
+      }
+    },
+    {
+      "name": "Ortldzh",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ortldzh",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/OrtldzhProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cherryfoliage",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherryfoliage",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/CherryfoliageBlock.java",
+          "src/main/resources/assets/hota/models/item/cherryfoliage.json",
+          "src/main/resources/assets/hota/blockstates/cherryfoliage.json",
+          "src/main/resources/assets/hota/models/block/cherryfoliage.json"
+        ]
+      }
+    },
+    {
+      "name": "BleedingKazhdyiTikVoVriemiaEffiekta",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bleeding_kazhdyi_tik_vo_vriemia_effiekta",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/BleedingKazhdyiTikVoVriemiaEffiektaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bleeding",
+      "type": "potioneffect",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bleeding",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/potion/BleedingMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "ThedarkmonkKoghdaSushchnostRaniena",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thedarkmonk_koghda_sushchnost_raniena",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/ThedarkmonkKoghdaSushchnostRanienaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crystalbiome",
+      "type": "biome",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystalbiome",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/crystalbiome.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/crystalbiome_tree.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/crystalbiome_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "Ancientworld",
+      "type": "dimension",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancientworld",
+      "metadata": {
+        "ep": true,
+        "files": [
+          "src/main/resources/assets/hota/models/item/ancientworld.json",
+          "src/main/resources/data/hota/dimension/ancientworld.json",
+          "src/main/java/net/mcreator/ufd/world/dimension/AncientworldDimension.java",
+          "src/main/resources/data/hota/dimension_type/ancientworld.json",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldPortalShape.java",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldTeleporter.java",
+          "src/main/java/net/mcreator/ufd/item/AncientworldItem.java",
+          "src/main/resources/assets/hota/models/block/ancientworld_portal_ew.json",
+          "src/main/resources/assets/hota/blockstates/ancientworld_portal.json",
+          "src/main/resources/assets/hota/models/block/ancientworld_portal_ns.json",
+          "src/main/java/net/mcreator/ufd/block/AncientworldPortalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Redstonestick",
+      "type": "tool",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstonestick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/RedstonestickItem.java",
+          "src/main/resources/assets/hota/models/item/redstonestick.json"
+        ]
+      }
+    },
+    {
+      "name": "Losfoliteberry",
+      "type": "item",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "losfoliteberry",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/LosfoliteberryItem.java",
+          "src/main/resources/assets/hota/models/item/losfoliteberry.json"
+        ]
+      }
+    },
+    {
+      "name": "Ancientmounties",
+      "type": "biome",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancientmounties",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/ancientmounties.json"
+        ]
+      }
+    },
+    {
+      "name": "Qqq",
+      "type": "biome",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qqq",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/qqq.json"
+        ]
+      }
+    },
+    {
+      "name": "Vampire",
+      "type": "livingentity",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vampire",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/VampireEntity.java",
+          "src/main/resources/assets/hota/models/item/vampire_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/VampireRenderer.java",
+          "src/main/resources/data/hota/forge/biome_modifier/vampire_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Enchantedforest",
+      "type": "biome",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedforest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/configured_feature/enchantedforest_tree.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/enchantedforest_tree.json",
+          "src/main/resources/data/hota/worldgen/biome/enchantedforest.json"
+        ]
+      }
+    },
+    {
+      "name": "Enchantedglade",
+      "type": "biome",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedglade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/enchantedglade.json"
+        ]
+      }
+    },
+    {
+      "name": "Waterenchantedbiome",
+      "type": "biome",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waterenchantedbiome",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/waterenchantedbiome.json"
+        ]
+      }
+    },
+    {
+      "name": "Ent",
+      "type": "livingentity",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ent",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/EntEntity.java",
+          "src/main/resources/assets/hota/models/item/ent_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/EntRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Entforest",
+      "type": "biome",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entforest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/entforest.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/entforest_tree.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/entforest_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "Entprocedure",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entprocedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/EntprocedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Heartent",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartent",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/heartent.json",
+          "src/main/java/net/mcreator/ufd/item/HeartentItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Ijrgiijrgijrgirgirgijrgijgrijgfijgkl",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ijrgiijrgijrgirgirgijrgijgrijgfijgkl",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ijrgiijrgijrgirgirgijrgijgrijgfijgkl.json"
+        ]
+      }
+    },
+    {
+      "name": "Splinterlosfolite",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "splinterlosfolite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/splinterlosfolite.json",
+          "src/main/java/net/mcreator/ufd/item/SplinterlosfoliteItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Crystallosfolite",
+      "type": "plant",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystallosfolite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/CrystallosfoliteBlock.java",
+          "src/main/resources/assets/hota/models/item/crystallosfolite.json",
+          "src/main/resources/assets/hota/models/block/crystallosfolite.json",
+          "src/main/resources/assets/hota/blockstates/crystallosfolite.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/crystallosfolite.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/crystallosfolite.json",
+          "src/main/resources/data/hota/forge/biome_modifier/crystallosfolite_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "EntKoghdaSushchnostUmiraiet",
+      "type": "procedure",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ent_koghda_sushchnost_umiraiet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/EntKoghdaSushchnostUmiraietProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fduh",
+      "type": "procedure",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fduh",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/FduhProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ifgji",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ifgji",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/IfgjiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bloodyfragment",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodyfragment",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BloodyfragmentItem.java",
+          "src/main/resources/assets/hota/models/item/bloodyfragment.json"
+        ]
+      }
+    },
+    {
+      "name": "Thedestroyerofnature",
+      "type": "tool",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thedestroyerofnature",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/ThedestroyerofnatureItem.java",
+          "src/main/resources/assets/hota/models/item/thedestroyerofnature.json"
+        ]
+      }
+    },
+    {
+      "name": "Dscdsd",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dscdsd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/DscdsdProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sandwich",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/sandwich.json",
+          "src/main/java/net/mcreator/ufd/item/SandwichItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Fjdjfd",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdjfd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/fjdjfd.json"
+        ]
+      }
+    },
+    {
+      "name": "Vfxcvcx",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vfxcvcx",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/vfxcvcx.json"
+        ]
+      }
+    },
+    {
+      "name": "Losfoliteingot",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "losfoliteingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/LosfoliteingotItem.java",
+          "src/main/resources/assets/hota/models/item/losfoliteingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Losfolitesword",
+      "type": "tool",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "losfolitesword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/LosfoliteswordItem.java",
+          "src/main/resources/assets/hota/models/item/losfolitesword.json"
+        ]
+      }
+    },
+    {
+      "name": "Losfolitepickaxe",
+      "type": "tool",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "losfolitepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/losfolitepickaxe.json",
+          "src/main/java/net/mcreator/ufd/item/LosfolitepickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Losfoliteshovel",
+      "type": "tool",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "losfoliteshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/losfoliteshovel.json",
+          "src/main/java/net/mcreator/ufd/item/LosfoliteshovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Htr87y",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "htr_87y",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/htr_87y.json"
+        ]
+      }
+    },
+    {
+      "name": "Gfhnhgf",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfhnhgf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/gfhnhgf.json"
+        ]
+      }
+    },
+    {
+      "name": "Fhg",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fhg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/fhg.json"
+        ]
+      }
+    },
+    {
+      "name": "Hgcjk",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hgcjk",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/hgcjk.json"
+        ]
+      }
+    },
+    {
+      "name": "Ierkn",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ierkn",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/IerknProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Apsrsp",
+      "type": "gui",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apsrsp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/world/inventory/ApsrspMenu.java",
+          "src/main/java/net/mcreator/ufd/network/ApsrspButtonMessage.java",
+          "src/main/java/net/mcreator/ufd/client/gui/ApsrspScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "TestNaBlokieNazhataPravaiaKnopkaMyshi",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_na_blokie_nazhata_pravaia_knopka_myshi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/TestNaBlokieNazhataPravaiaKnopkaMyshiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sandbricks",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandbricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/sandbricks.json",
+          "src/main/resources/assets/hota/blockstates/sandbricks.json",
+          "src/main/resources/assets/hota/models/block/sandbricks.json",
+          "src/main/java/net/mcreator/ufd/block/SandbricksBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Thundertrident",
+      "type": "tool",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thundertrident",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/ThundertridentItem.java",
+          "src/main/resources/assets/hota/models/item/thundertrident.json"
+        ]
+      }
+    },
+    {
+      "name": "Pharaoh",
+      "type": "livingentity",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pharaoh",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/PharaohEntity.java",
+          "src/main/resources/assets/hota/models/item/pharaoh_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/PharaohRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "CrystalLog",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/crystal_log.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalLogBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_log.json",
+          "src/main/resources/assets/hota/models/item/crystal_log.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalPlanks",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/CrystalPlanksBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_planks.json",
+          "src/main/resources/assets/hota/blockstates/crystal_planks.json",
+          "src/main/resources/assets/hota/models/item/crystal_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalStairs",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/crystal_stairs.json",
+          "src/main/resources/assets/hota/models/block/crystal_stairs_inner.json",
+          "src/main/resources/assets/hota/models/block/crystal_stairs_outer.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalStairsBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_stairs.json",
+          "src/main/resources/assets/hota/blockstates/crystal_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalSlab",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/CrystalSlabBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_slab_top.json",
+          "src/main/resources/assets/hota/models/block/crystal_slab.json",
+          "src/main/resources/assets/hota/models/block/crystal_slab_full.json",
+          "src/main/resources/assets/hota/blockstates/crystal_slab.json",
+          "src/main/resources/assets/hota/models/item/crystal_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalFence",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/crystal_fence.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence.json",
+          "src/main/resources/assets/hota/models/item/crystal_fence.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_inventory.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalFenceBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_fence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalFenceGate",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_open.json",
+          "src/main/resources/assets/hota/blockstates/crystal_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalFenceGateBlock.java",
+          "src/main/resources/assets/hota/models/item/crystal_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall_open.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalPressurePlate",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/crystal_pressure_plate.json",
+          "src/main/resources/assets/hota/models/block/crystal_pressure_plate_down.json",
+          "src/main/resources/assets/hota/models/block/crystal_pressure_plate.json",
+          "src/main/resources/assets/hota/models/item/crystal_pressure_plate.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalPressurePlateBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "CrystalButton",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/crystal_button_inventory.json",
+          "src/main/resources/assets/hota/models/block/crystal_button.json",
+          "src/main/resources/assets/hota/blockstates/crystal_button.json",
+          "src/main/resources/assets/hota/models/item/crystal_button.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalButtonBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_button_pressed.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalItemsTag",
+      "type": "tag",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_items_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/crystal_log.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalWoodRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalPlanksRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_planks_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalStairsRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalSlabRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalFenceRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalButtonRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrystalStickRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/crystal_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkOreSmelting",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/pink_ore_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Wood",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_wood",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/Holy_WoodBlock.java",
+          "src/main/resources/assets/hota/blockstates/holy_wood.json",
+          "src/main/resources/assets/hota/models/item/holy_wood.json",
+          "src/main/resources/assets/hota/models/block/holy_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Log",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/holy_log.json",
+          "src/main/resources/assets/hota/blockstates/holy_log.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_LogBlock.java",
+          "src/main/resources/assets/hota/models/item/holy_log.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Planks",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/holy_planks.json",
+          "src/main/resources/assets/hota/models/item/holy_planks.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_PlanksBlock.java",
+          "src/main/resources/assets/hota/blockstates/holy_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Leaves",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/holy_leaves.json",
+          "src/main/resources/assets/hota/models/block/holy_leaves.json",
+          "src/main/resources/assets/hota/blockstates/holy_leaves.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_LeavesBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Stairs",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/holy_stairs.json",
+          "src/main/resources/assets/hota/models/block/holy_stairs_inner.json",
+          "src/main/resources/assets/hota/models/block/holy_stairs_outer.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_StairsBlock.java",
+          "src/main/resources/assets/hota/blockstates/holy_stairs.json",
+          "src/main/resources/assets/hota/models/block/holy_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Slab",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/holy_slab.json",
+          "src/main/resources/assets/hota/models/block/holy_slab_full.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_SlabBlock.java",
+          "src/main/resources/assets/hota/models/item/holy_slab.json",
+          "src/main/resources/assets/hota/blockstates/holy_slab.json",
+          "src/main/resources/assets/hota/models/block/holy_slab_top.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Fence",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/holy_fence.json",
+          "src/main/resources/assets/hota/blockstates/holy_fence.json",
+          "src/main/resources/assets/hota/models/block/holy_fence.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_FenceBlock.java",
+          "src/main/resources/assets/hota/models/block/holy_fence_inventory.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_FenceGate",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/Holy_FenceGateBlock.java",
+          "src/main/resources/assets/hota/models/item/holy_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_open.json",
+          "src/main/resources/assets/hota/blockstates/holy_fence_gate.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall_open.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_PressurePlate",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/holy_pressure_plate.json",
+          "src/main/resources/assets/hota/models/item/holy_pressure_plate.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_PressurePlateBlock.java",
+          "src/main/resources/assets/hota/blockstates/holy_pressure_plate.json",
+          "src/main/resources/assets/hota/models/block/holy_pressure_plate_down.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_Button",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/holy_button.json",
+          "src/main/resources/assets/hota/models/block/holy_button.json",
+          "src/main/resources/assets/hota/models/block/holy_button_pressed.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_ButtonBlock.java",
+          "src/main/resources/assets/hota/models/item/holy_button.json",
+          "src/main/resources/assets/hota/models/block/holy_button_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_ItemsTag",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_items_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/holy__log.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_WoodRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_PlanksRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_planks_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_StairsRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_SlabRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_FenceRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_ButtonRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Holy_StickRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/holy_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Edibleroots",
+      "type": "item",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "edibleroots",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/EdiblerootsItem.java",
+          "src/main/resources/assets/hota/models/item/edibleroots.json"
+        ]
+      }
+    },
+    {
+      "name": "Boilededibleroots",
+      "type": "item",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boilededibleroots",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/BoiledediblerootsItem.java",
+          "src/main/resources/assets/hota/models/item/boilededibleroots.json"
+        ]
+      }
+    },
+    {
+      "name": "Snowbricks",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snowbricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/snowbricks.json",
+          "src/main/resources/assets/hota/models/block/snowbricks.json",
+          "src/main/resources/assets/hota/models/item/snowbricks.json",
+          "src/main/java/net/mcreator/ufd/block/SnowbricksBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Icebricks",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icebricks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/IcebricksBlock.java",
+          "src/main/resources/assets/hota/models/item/icebricks.json",
+          "src/main/resources/assets/hota/blockstates/icebricks.json",
+          "src/main/resources/assets/hota/models/block/icebricks.json"
+        ]
+      }
+    },
+    {
+      "name": "Hgujh",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hgujh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/hgujh.json"
+        ]
+      }
+    },
+    {
+      "name": "Fghd",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fghd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/fghd.json"
+        ]
+      }
+    },
+    {
+      "name": "Carnivorousflower",
+      "type": "livingentity",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carnivorousflower",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/CarnivorousflowerEntity.java",
+          "src/main/resources/assets/hota/models/item/carnivorousflower_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/CarnivorousflowerRenderer.java",
+          "src/main/resources/data/hota/forge/biome_modifier/carnivorousflower_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Mosscobblestone",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosscobblestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/mosscobblestone.json",
+          "src/main/resources/assets/hota/models/block/mosscobblestone.json",
+          "src/main/resources/assets/hota/models/item/mosscobblestone.json",
+          "src/main/java/net/mcreator/ufd/block/MosscobblestoneBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Mossycover",
+      "type": "biome",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossycover",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/MossycoverTrunkDecorator.java",
+          "src/main/resources/data/hota/worldgen/placed_feature/mossycover_tree.json",
+          "src/main/resources/data/hota/worldgen/biome/mossycover.json",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/MossycoverLeaveDecorator.java",
+          "src/main/resources/data/hota/worldgen/configured_feature/mossycover_tree.json",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/MossycoverFruitDecorator.java"
+        ]
+      }
+    },
+    {
+      "name": "Lavastone",
+      "type": "item",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lavastone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/lavastone.json",
+          "src/main/java/net/mcreator/ufd/item/LavastoneItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Sachis",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sachis",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/sachis.json"
+        ]
+      }
+    },
+    {
+      "name": "Avpiar",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "avpiar",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/avpiar.json"
+        ]
+      }
+    },
+    {
+      "name": "Thunderstone",
+      "type": "item",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thunderstone",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/ThunderstoneItem.java",
+          "src/main/resources/assets/hota/models/item/thunderstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Dfdfsfsdfds",
+      "type": "procedure",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dfdfsfsdfds",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/DfdfsfsdfdsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gfd",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/gfd.json"
+        ]
+      }
+    },
+    {
+      "name": "Tln",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tln",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/tln.json"
+        ]
+      }
+    },
+    {
+      "name": "Mossplant",
+      "type": "plant",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossplant",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/mossplant.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/mossplant.json",
+          "src/main/java/net/mcreator/ufd/block/MossplantBlock.java",
+          "src/main/resources/data/hota/worldgen/placed_feature/mossplant.json",
+          "src/main/resources/assets/hota/models/block/mossplant.json",
+          "src/main/resources/data/hota/forge/biome_modifier/mossplant_biome_modifier.json",
+          "src/main/resources/assets/hota/blockstates/mossplant.json"
+        ]
+      }
+    },
+    {
+      "name": "Mossypig",
+      "type": "livingentity",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossypig",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/MossypigEntity.java",
+          "src/main/resources/data/hota/forge/biome_modifier/mossypig_biome_modifier.json",
+          "src/main/resources/assets/hota/models/item/mossypig_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/MossypigRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Swarmoffireflies",
+      "type": "livingentity",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "swarmoffireflies",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/SwarmoffirefliesEntity.java",
+          "src/main/resources/data/hota/forge/biome_modifier/swarmoffireflies_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/SwarmoffirefliesRenderer.java",
+          "src/main/resources/assets/hota/models/item/swarmoffireflies_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Helloworld",
+      "type": "achievement",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "helloworld",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/advancements/helloworld.json"
+        ]
+      }
+    },
+    {
+      "name": "Thelandofmoss",
+      "type": "achievement",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thelandofmoss",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/advancements/thelandofmoss.json"
+        ]
+      }
+    },
+    {
+      "name": "Apvp",
+      "type": "procedure",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apvp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/ApvpProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghf",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ghf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ghf.json"
+        ]
+      }
+    },
+    {
+      "name": "Theoldworld",
+      "type": "achievement",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theoldworld",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/advancements/theoldworld.json"
+        ]
+      }
+    },
+    {
+      "name": "Thepowerofheaven",
+      "type": "achievement",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thepowerofheaven",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/advancements/thepowerofheaven.json"
+        ]
+      }
+    },
+    {
+      "name": "VayfObnovitTakt",
+      "type": "procedure",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vayf_obnovit_takt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/VayfObnovitTaktProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vayf",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vayf",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/vayf.json",
+          "src/main/resources/assets/hota/models/item/vayf.json",
+          "src/main/resources/assets/hota/blockstates/vayf.json",
+          "src/main/java/net/mcreator/ufd/block/VayfBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Xy",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/xy.json",
+          "src/main/resources/assets/hota/models/block/xy.json",
+          "src/main/resources/assets/hota/blockstates/xy.json",
+          "src/main/java/net/mcreator/ufd/block/XyBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Penic",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penic",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/PenicBlock.java",
+          "src/main/resources/assets/hota/models/item/penic.json",
+          "src/main/resources/assets/hota/blockstates/penic.json",
+          "src/main/resources/assets/hota/models/block/penic.json"
+        ]
+      }
+    },
+    {
+      "name": "Dfsdfds",
+      "type": "procedure",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dfsdfds",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/DfsdfdsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PenicKoghdaBlokRazrushienIghrokom",
+      "type": "procedure",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penic_koghda_blok_razrushien_ighrokom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/PenicKoghdaBlokRazrushienIghrokomProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bliat",
+      "type": "procedure",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bliat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/BliatProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jopamalina",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jopamalina",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/JopamalinaBlock.java",
+          "src/main/resources/assets/hota/models/item/jopamalina.json",
+          "src/main/resources/assets/hota/blockstates/jopamalina.json",
+          "src/main/resources/assets/hota/models/block/jopamalina.json"
+        ]
+      }
+    },
+    {
+      "name": "Lohmalina",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lohmalina",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/lohmalina.json",
+          "src/main/resources/assets/hota/blockstates/lohmalina.json",
+          "src/main/java/net/mcreator/ufd/block/LohmalinaBlock.java",
+          "src/main/resources/assets/hota/models/block/lohmalina.json"
+        ]
+      }
+    },
+    {
+      "name": "Sukamalina",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sukamalina",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/sukamalina.json",
+          "src/main/resources/assets/hota/models/block/sukamalina.json",
+          "src/main/java/net/mcreator/ufd/block/SukamalinaBlock.java",
+          "src/main/resources/assets/hota/models/item/sukamalina.json"
+        ]
+      }
+    },
+    {
+      "name": "Xyi",
+      "type": "procedure",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xyi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/XyiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pisun",
+      "type": "procedure",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pisun",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/PisunProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ahvychiernika",
+      "type": "procedure",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ahvychiernika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/AhvychiernikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gfdij",
+      "type": "block",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfdij",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/gfdij.json",
+          "src/main/java/net/mcreator/ufd/block/GfdijBlock.java",
+          "src/main/resources/assets/hota/models/item/gfdij.json",
+          "src/main/resources/assets/hota/blockstates/gfdij.json"
+        ]
+      }
+    },
+    {
+      "name": "Dhsdgychiernika",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dhsdgychiernika",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/dhsdgychiernika.json",
+          "src/main/resources/assets/hota/models/block/dhsdgychiernika.json",
+          "src/main/resources/assets/hota/models/item/dhsdgychiernika.json",
+          "src/main/java/net/mcreator/ufd/block/DhsdgychiernikaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Fgdrgchiernika",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fgdrgchiernika",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/fgdrgchiernika.json",
+          "src/main/java/net/mcreator/ufd/block/FgdrgchiernikaBlock.java",
+          "src/main/resources/assets/hota/blockstates/fgdrgchiernika.json",
+          "src/main/resources/assets/hota/models/block/fgdrgchiernika.json"
+        ]
+      }
+    },
+    {
+      "name": "Fdgdchiernika",
+      "type": "procedure",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdgdchiernika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/FdgdchiernikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dsadchiernika",
+      "type": "procedure",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dsadchiernika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/DsadchiernikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rrergholubika",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rrergholubika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/RrergholubikaBlock.java",
+          "src/main/resources/assets/hota/models/item/rrergholubika.json",
+          "src/main/resources/assets/hota/blockstates/rrergholubika.json",
+          "src/main/resources/assets/hota/models/block/rrergholubika.json"
+        ]
+      }
+    },
+    {
+      "name": "Fsdfgholubika",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fsdfgholubika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/FsdfgholubikaBlock.java",
+          "src/main/resources/assets/hota/blockstates/fsdfgholubika.json",
+          "src/main/resources/assets/hota/models/block/fsdfgholubika.json",
+          "src/main/resources/assets/hota/models/item/fsdfgholubika.json"
+        ]
+      }
+    },
+    {
+      "name": "Vcvxvgholubika",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vcvxvgholubika",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/block/vcvxvgholubika.json",
+          "src/main/resources/assets/hota/models/item/vcvxvgholubika.json",
+          "src/main/resources/assets/hota/blockstates/vcvxvgholubika.json",
+          "src/main/java/net/mcreator/ufd/block/VcvxvgholubikaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Fdsfdsgholubika",
+      "type": "procedure",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdsfdsgholubika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/FdsfdsgholubikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fdsfsdgholubika",
+      "type": "procedure",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdsfsdgholubika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/FdsfsdgholubikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dfsfgolubika",
+      "type": "procedure",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dfsfgolubika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/DfsfgolubikaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gfdfdgiezhievika",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfdfdgiezhievika",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/models/item/gfdfdgiezhievika.json",
+          "src/main/java/net/mcreator/ufd/block/GfdfdgiezhievikaBlock.java",
+          "src/main/resources/assets/hota/blockstates/gfdfdgiezhievika.json",
+          "src/main/resources/assets/hota/models/block/gfdfdgiezhievika.json"
+        ]
+      }
+    },
+    {
+      "name": "Fdsfsiezhievika",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdsfsiezhievika",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/FdsfsiezhievikaBlock.java",
+          "src/main/resources/assets/hota/models/block/fdsfsiezhievika.json",
+          "src/main/resources/assets/hota/models/item/fdsfsiezhievika.json",
+          "src/main/resources/assets/hota/blockstates/fdsfsiezhievika.json"
+        ]
+      }
+    },
+    {
+      "name": "Sdfdfdsiezhievika",
+      "type": "block",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sdfdfdsiezhievika",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hota/blockstates/sdfdfdsiezhievika.json",
+          "src/main/resources/assets/hota/models/block/sdfdfdsiezhievika.json",
+          "src/main/java/net/mcreator/ufd/block/SdfdfdsiezhievikaBlock.java",
+          "src/main/resources/assets/hota/models/item/sdfdfdsiezhievika.json"
+        ]
+      }
+    },
+    {
+      "name": "Rewrewr",
+      "type": "procedure",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rewrewr",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/RewrewrProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sdfsdfsd",
+      "type": "procedure",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sdfsdfsd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/SdfsdfsdProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ewrgf",
+      "type": "procedure",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ewrgf",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/EwrgfProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Berryplain",
+      "type": "biome",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "berryplain",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/berryplain.json"
+        ]
+      }
+    },
+    {
+      "name": "Misi",
+      "type": "procedure",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "misi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/MisiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/block/TestBlock.java",
+          "src/main/java/net/mcreator/ufd/block/entity/TestBlockEntity.java",
+          "src/main/resources/assets/hota/models/block/test.json",
+          "src/main/resources/assets/hota/models/item/test.json",
+          "src/main/resources/assets/hota/blockstates/test.json"
+        ]
+      }
+    },
+    {
+      "name": "Ukayv",
+      "type": "gui",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ukayv",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/network/UkayvButtonMessage.java",
+          "src/main/java/net/mcreator/ufd/client/gui/UkayvScreen.java",
+          "src/main/java/net/mcreator/ufd/world/inventory/UkayvMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "Ayv",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ayv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ayv.json"
+        ]
+      }
+    },
+    {
+      "name": "Iceologer",
+      "type": "livingentity",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iceologer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/IceologerEntity.java",
+          "src/main/java/net/mcreator/ufd/client/renderer/IceologerRenderer.java",
+          "src/main/resources/assets/hota/models/item/iceologer_spawn_egg.json",
+          "src/main/resources/data/hota/forge/biome_modifier/iceologer_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Projectileiceologer",
+      "type": "livingentity",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "projectileiceologer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/client/renderer/ProjectileiceologerRenderer.java",
+          "src/main/java/net/mcreator/ufd/entity/ProjectileiceologerEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "IceologerPriObnovlieniiTaktaSushchnosti",
+      "type": "procedure",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iceologer_pri_obnovlienii_takta_sushchnosti",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/IceologerPriObnovlieniiTaktaSushchnostiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BrokentowerFeature",
+      "type": "feature",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brokentower_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/placed_feature/brokentower_feature.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/brokentower_feature.json",
+          "src/main/resources/data/hota/forge/biome_modifier/brokentower_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "FalentowerFeature",
+      "type": "feature",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "falentower_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/configured_feature/falentower_feature.json",
+          "src/main/resources/data/hota/forge/biome_modifier/falentower_feature_biome_modifier.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/falentower_feature.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "TruewoodenswordProjectile",
+      "type": "projectile",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "truewoodensword_projectile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/TruewoodenswordProjectileEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Truewoodensword",
+      "type": "item",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "truewoodensword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/TruewoodenswordItem.java",
+          "src/main/resources/assets/hota/models/item/truewoodensword.json"
+        ]
+      }
+    },
+    {
+      "name": "CherrytreeFeature",
+      "type": "feature",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherrytree_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/forge/biome_modifier/cherrytree_feature_biome_modifier.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/cherrytree_feature.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/cherrytree_feature.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "HomeentFeature",
+      "type": "feature",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "homeent_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/configured_feature/homeent_feature.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/homeent_feature.json",
+          "src/main/resources/data/hota/forge/biome_modifier/homeent_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "DeserdpiramideFeature",
+      "type": "feature",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deserdpiramide_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/configured_feature/deserdpiramide_feature.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/deserdpiramide_feature.json",
+          "src/main/resources/data/hota/forge/biome_modifier/deserdpiramide_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "StrongiglooFeature",
+      "type": "feature",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strongigloo_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/forge/biome_modifier/strongigloo_feature_biome_modifier.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/strongigloo_feature.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/strongigloo_feature.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "SparklingswordProjectile",
+      "type": "projectile",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sparklingsword_projectile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/SparklingswordProjectileEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Sparklingsword",
+      "type": "item",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sparklingsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/SparklingswordItem.java",
+          "src/main/resources/assets/hota/models/item/sparklingsword.json"
+        ]
+      }
+    },
+    {
+      "name": "FdssaFeature",
+      "type": "feature",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdssa_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/forge/biome_modifier/fdssa_feature_biome_modifier.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/fdssa_feature.json",
+          "src/main/resources/data/hota/worldgen/configured_feature/fdssa_feature.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "Plainsofabyss",
+      "type": "biome",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plainsofabyss",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/worldgen/biome/plainsofabyss.json"
+        ]
+      }
+    },
+    {
+      "name": "Abyss",
+      "type": "dimension",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyss",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/dimension/abyss.json",
+          "src/main/java/net/mcreator/ufd/world/dimension/AbyssDimension.java",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AbyssPortalShape.java",
+          "src/main/resources/assets/hota/models/item/abyss.json",
+          "src/main/resources/data/hota/dimension_type/abyss.json",
+          "src/main/resources/assets/hota/blockstates/abyss_portal.json",
+          "src/main/resources/assets/hota/models/block/abyss_portal_ew.json",
+          "src/main/java/net/mcreator/ufd/item/AbyssItem.java",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AbyssTeleporter.java",
+          "src/main/java/net/mcreator/ufd/block/AbyssPortalBlock.java",
+          "src/main/resources/assets/hota/models/block/abyss_portal_ns.json"
+        ]
+      }
+    },
+    {
+      "name": "Trasher",
+      "type": "item",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trasher",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/item/TrasherItem.java",
+          "src/main/resources/assets/hota/models/item/trasher.json"
+        ]
+      }
+    },
+    {
+      "name": "Avpvap",
+      "type": "procedure",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "avpvap",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/procedures/AvpvapProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MossyHorror",
+      "type": "livingentity",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_horror",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ufd/entity/MossyHorrorEntity.java",
+          "src/main/java/net/mcreator/ufd/client/renderer/MossyHorrorRenderer.java",
+          "src/main/resources/data/hota/forge/biome_modifier/mossy_horror_biome_modifier.json",
+          "src/main/resources/assets/hota/models/item/mossy_horror_spawn_egg.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "forest_of_the_ancients",
+      "files": [
+        "biom_music"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "concert_of_the_ancients",
+      "files": [
+        "57c327156d964fb6.wav--online-audio-convert.com"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "wasteland_of_the_ancients",
+      "files": [
+        "983a0eda9e104d1d.wav--online-audio-convert.com"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "zvuk_mshystogo_pokrova",
+      "files": [
+        "1094ccbc36715b93"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "muzyka_mshstogo_pokrova",
+      "files": [
+        "659a2c1840d40e0e"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "item.hota.pharaoh_spawn_egg": "Яйцо спавна фараона",
+      "block.upgrade.crystalleaves": "Crystalleaves",
+      "item.minecraft.potion.effect.berry_power": "Potion of Berry Power",
+      "biome.hota.entforest": "Ent forest",
+      "block.hota.crystal_fence": "Кристальный забор",
+      "item.hota.eye_spawn_egg": "Яйцо спавна глаза",
+      "biome.upgrade.vampirebiome": "Vampirebiome",
+      "effect.hj": "fire",
+      "item.upgrade.infernalmetal": "Infernalmetal",
+      "item.minecraft.lingering_potion.effect.firepotion": "Lingering Potion of Firepotion",
+      "item.hota.heavenlymetal": "Небесный металл",
+      "block.hota.holy_wood": "Святое дерево",
+      "entity.hota.thedarkmonk": "Кровавый монах",
+      "block.hota.holy_stairs": "Святые ступеньки",
+      "item.upgrade.heavenlymetal": "Heavenlymetal",
+      "painting.hota.working.title": "Working",
+      "item.hota.metaloftheancient": "Металл древних",
+      "item.hota.thedarkmonk_spawn_egg": "Яйцо спавна кровавого монаха",
+      "block.hota.holy_button": "Святая кнопка",
+      "item.upgrade.bluestrengthsword": "Bluestrengthsword",
+      "block.hota.rustymetal_2": "Ржавый металл",
+      "block.hota.crystal_pressure_plate": "Кристальная нажимная плита",
+      "item.minecraft.lingering_potion.effect.berry_power": "Lingering Potion of Berry Power",
+      "item.upgrade.darkmetalingot": "Darkmetalingot",
+      "block.hota.cherryfoliage": "Листва вишни",
+      "item.hota.losfolitepickaxe": "Топор из лосфолита",
+      "block.hota.xy": "Vayf",
+      "subtitles.wasteland_of_the_ancients": "",
+      "block.hota.crystal_button": "Кристальная кнопка",
+      "item.upgrade.stickstonegth": "Stickstonegth",
+      "entity.upgrade.vampire": "Vampire",
+      "block.hota.crystal_planks": "Кристальные доски",
+      "biome.hota.plainsofabyss": "Plainsofabyss",
+      "entity.upgrade.eye": "Eye",
+      "biome.hota.vampirebiome": "Vampire biome",
+      "item.ufd.stickstonegth": "Stickstonegth",
+      "enchantment.hota.godblood": "Кровь богов",
+      "item.ufd.bluestrengthshovel": "Bluestrengthshovel",
+      "item.hota.infernalmetal": "Адский металл",
+      "item.hota.chargedmetaloftheancients": "Заряженный металл древних",
+      "item.ufd.infernalmetal": "Infernalmetal",
+      "entity.hota.ent": "Энт",
+      "biome.upgrade.qqq": "Qqq",
+      "biome.upgrade.enchantedglade": "Enchanted glade",
+      "biome.upgrade.arp": "forest of the ancients",
+      "item.hota.stickstonegth": "Палка из стоунжа",
+      "item.ufd.heavenlymetal": "Heavenlymetal",
+      "item.hota.katanaof_death": "Катана смерти",
+      "item.hota.heavenlyhammer": "Небесный молот",
+      "item.hota.darkmetalhamer": "Молот из тёмной стали",
+      "biome.hota.enchantedforest": "Enchanted forest",
+      "gui.hota.ukayv.button_cook": "Cook",
+      "entity.upgrade.thedarkmonk": "Thedarkmonk",
+      "block.hota.fdsfsiezhievika": "Vayf",
+      "item.minecraft.splash_potion.effect.firepotion": "Splash Potion of Firepotion",
+      "item.hota.swarmoffireflies_spawn_egg": "Яйцо спавна роя светлячков",
+      "item.hota.blackberry": "Смородина",
+      "block.hota.holy_planks": "Святые доски",
+      "block.upgrade.crystalwood": "Crystal wood",
+      "advancements.theoldworld.descr": "Enter the ancient world",
+      "item.hota.oldredstounsworld": "меч из древнего редстоуна",
+      "biome.hota.coalbeach": "Qqq",
+      "biome.hota.berryplain": "Berryplain",
+      "biome.ufd.arp": "forest of the ancients",
+      "item.hota.oldredstounhammer": "Молот из древнего редстоуна",
+      "item.hota.stonegthhammer": "Молот из стоунжа",
+      "item.ufd.fanofcelestialstars": "Fanofcelestialstars",
+      "entity.hota.mechanicaleye": "Механизированный глаз",
+      "enchantment.ufd.thewrathofheaven": "Thewrathofheaven",
+      "block.hota.holy_slab": "Святой полублок",
+      "item.upgrade.darkmetalshovel": "Darkmetalshovel",
+      "item.minecraft.splash_potion.effect.berry_power": "Splash Potion of Berry Power",
+      "item.hota.berrysalad": "Ягодный салат",
+      "item.hota.oldredstounshovel": "Лопата из древнего редстоуна",
+      "item.hota.bloodyfragment": "Кровавый фрагмент",
+      "item.hota.abyss": "Totem of abyss",
+      "item.ufd.infernalsword": "Infernalsword",
+      "item.upgrade.stonegthhammer": "Stonegthhammer",
+      "item.upgrade.bluestrengthhammer": "Bluestrengthhammer",
+      "item.upgrade.eye_spawn_egg": "Eye Spawn Egg",
+      "item.upgrade.ent_spawn_egg": "Ent Spawn Egg",
+      "block.hota.icebricks": "Ледяные кирпичи",
+      "item.hota.carnivorousflower_spawn_egg": "Яйцо спавна плотоядного растения",
+      "item.hota.cherry": "Вишня",
+      "block.hota.vcvxvgholubika": "Vayf",
+      "item.upgrade.ancientworld": "Ancientworld Portal Igniter",
+      "item.ufd.concertoftheancients.desc": "the concert of the ancients is recorded on this record",
+      "item.hota.duhat": "Духат",
+      "block.hota.crystal_slab": "Кристальный полублок",
+      "item.hota.flowerpickaxe": "Цветочная кирка",
+      "block.hota.snowbricks": "Снежные кирпичи",
+      "subtitles.concert_of_the_ancients": "",
+      "item.ufd.darkmetalsword": "Darkmetalsword",
+      "item.ufd.heavenlyhammer": "Heavenlyhammer",
+      "effect.bleeding": "bleeding",
+      "biome.hota.ancientmounties": "Ancient mounties",
+      "item.hota.vampire_spawn_egg": "Яйцо спавна вампира",
+      "item.hota.redstonestick": "Редстоуновая палка",
+      "item.hota.losfoliteberry": "Лосфолитовая ягода",
+      "item.ufd.oldredstounhammer": "Oldredstounhammer",
+      "item.upgrade.concertoftheancients": "Concertoftheancients",
+      "block.hota.crystal_log": "Кристальное бревно",
+      "item.hota.infernalsword": "Меч из адского металла",
+      "biome.hota.orpa": "wasteland of the ancients",
+      "item.upgrade.duhat": "Duhat",
+      "item.hota.iceologer_spawn_egg": "Iceologer Spawn Egg",
+      "item.ufd.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.upgrade.flowershovel": "Flowershovel",
+      "item.minecraft.potion.effect.ancientwater": "Бутылка древней воды",
+      "item.ufd.bluestrengthsword": "Bluestrengthsword",
+      "painting.hota.working.author": "Unknown",
+      "item.upgrade.vampireblade": "Vampireblade",
+      "item.upgrade.infernalsword": "Infernalsword",
+      "item.hota.thestarofinfinitespace": "Звезда бесконечного космоса",
+      "item.upgrade.flowerpickaxe": "Flowerpickaxe",
+      "biome.hota.crystalbiome": "Crystal biome",
+      "item.hota.heartent": "Сердце энта",
+      "item.hota.darkmetalingot": "слиток тёмной стали",
+      "enchantment.hota.thewrathofhell": "Гнев ада",
+      "block.hota.crystallosfolite": "Кристал лосфолита",
+      "item_group.hota.upgrademod": "Upgrademod",
+      "item.upgrade.mechanicaleye_spawn_egg": "Mechanicaleye Spawn Egg",
+      "item.ufd.oldredstoun": "Oldredstoun",
+      "item.upgrade.floweraxe": "Flower axe",
+      "item.upgrade.darkmetalsword": "Darkmetalsword",
+      "item.upgrade.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.hota.thundertrident": "Громовой трезубец",
+      "item.hota.mossypig_spawn_egg": "Яйцо спавна мшистой свиньи",
+      "item_group.hota.relics": "Relics",
+      "item.hota.edibleroots": "Съедобные корни",
+      "enchantment.hota.thewrathofheaven": "Гнев небес",
+      "item.ufd.bluestrengthhammer": "Bluestrengthhammer",
+      "item.hota.bluestrengthshovel": "Лопата из блюстренжа",
+      "item.hota.bluestrenght": "Блюстренж",
+      "block.hota.mossplant": "Мшистое растение",
+      "entity.hota.iceologer": "Iceologer",
+      "item.ufd.bluestrenght": "Bluestrenght",
+      "item.hota.truewoodensword": "Истиный деревянный ммеч",
+      "item.ufd.infernalhammer": "Infernalhammer",
+      "item.upgrade.cherry": "Cherry",
+      "block.hota.holy_pressure_plate": "Святая нажимная плита",
+      "item.ufd.oldredstounsworld": "Oldredstounsworld",
+      "block.hota.lohmalina": "Vayf",
+      "item.hota.sparklingsword": "Искромётный меч",
+      "item.minecraft.tipped_arrow.effect.berry_power": "Arrow of Berry Power",
+      "entity.hota.projectileiceologer": "Projectile iceologer",
+      "subtitles.muzyka_mshstogo_pokrova": "",
+      "item.minecraft.potion.effect.firepotion": "Зелье огня",
+      "itemGroup.tabupgrademod": "HotA",
+      "item.hota.losfolitesword": "Меч из лосфолита",
+      "item.ufd.flowerpickaxe": "Flowerpickaxe",
+      "item.ufd.flowersword": "Flowersword",
+      "item.ufd.darkmetalhamer": "Darkmetalhammer",
+      "block.hota.gfdfdgiezhievika": "Vayf",
+      "biome.upgrade.ancientmounties": "Ancientmounties",
+      "item.upgrade.stonegthsword": "Stonegthsword",
+      "block.upgrade.rustymetal": "Rustymetal",
+      "item.upgrade.concertoftheancients.desc": "the concert of the ancients is recorded on this record",
+      "item.hota.stonegthsword": "Меч из стоунжа",
+      "item.hota.raspberry": "Малина",
+      "block.hota.crystal_fence_gate": "Кристальная калитка",
+      "item.ufd.metaloftheancients": "Metaloftheancients",
+      "item.ufd.stonegthhammer": "Stonegthhammer",
+      "item.upgrade.currant": "Currant",
+      "block.hota.rrergholubika": "Vayf",
+      "item.hota.flowersword": "Цветочный меч",
+      "item.hota.losfoliteshovel": "Лопата из лосфолита",
+      "item.hota.strawberry": "Клубника",
+      "effect.hota.hj": "fire",
+      "item.upgrade.bluestrengthshovel": "Bluestrengthshovel",
+      "item.ufd.concertoftheancients": "Concertoftheancients",
+      "item.minecraft.tipped_arrow.effect.ancientwater": "Arrow of Ancientwater",
+      "item.upgrade.infernalhammer": "Infernalhammer",
+      "advancements.thepowerofheaven.title": "Сила небес",
+      "block.hota.penic": "Vayf",
+      "item.hota.splinterlosfolite": "Осколок из лосфолита",
+      "item.hota.trasher": "Trasher",
+      "block.hota.fgdrgchiernika": "Vayf",
+      "item.hota.stonegthshovel": "Лопата из стоунжа",
+      "block.hota.dhsdgychiernika": "Vayf",
+      "entity.hota.pharaoh": "Pharaoh",
+      "advancements.helloworld.title": "Привет мир!",
+      "biome.upgrade.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "item.upgrade.oldredstounhammer": "Oldredstounhammer",
+      "item.hota.fanofcelestialstars": "Веер небесных звёзд",
+      "item.hota.concertoftheancients": "Концерт древних",
+      "item.ufd.darkmetalshovel": "Darkmetalshovel",
+      "block.hota.holy_leaves": "Святая листва",
+      "block.hota.mosscobblestone": "Мшистый булыжник",
+      "item.hota.lavastone": "Лавовый камень",
+      "block.ufd.rustymetal_2": "Rustymetal",
+      "subtitles.zvuk_mshystogo_pokrova": "",
+      "item.hota.oldredstoun": "Древний редстоун",
+      "item.hota.stonegth": "Стоунж",
+      "item.hota.vampireblade": "Вампирский клинок",
+      "biome.hota.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "block.hota.vayf": "Vayf",
+      "item.hota.ancientworld": "Первый том книги закленаний",
+      "itemGroup.tabfeed": "Еда",
+      "block.upgrade.rustymetal_2": "Rustymetal",
+      "block.ufd.rustymetal": "Rustymetal",
+      "biome.hota.enchantedglade": "Enchanted glade",
+      "item.hota.bluestrengthsword": "Меч из блюстренжа",
+      "block.hota.gfdij": "Vayf",
+      "effect.hota.bleeding": "Кровотечение",
+      "advancements.thelandofmoss.title": "Страна мха",
+      "enchantment.upgrade.thewrathofhell": "Thewrathofhell",
+      "item.hota.losfoliteingot": "Лосфолитовый слиток",
+      "biome.upgrade.entforest": "Entforest",
+      "item.ufd.floweraxe": "Flower axe",
+      "biome.upgrade.enchantedforest": "Enchanted forest",
+      "biome.ufd.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "block.hota.sukamalina": "Vayf",
+      "biome.upgrade.crystalbiome": "Crystal biome",
+      "item.ufd.stonegthsword": "Stonegthsword",
+      "item.upgrade.thedarkmonk_spawn_egg": "Thedarkmonk Spawn Egg",
+      "item.upgrade.thestarofinfinitespace": "Thestarofinfinitespace",
+      "item.upgrade.heavenlyhammer": "Heavenlyhammer",
+      "biome.hota.arp": "forest of the ancients",
+      "item.hota.currant": "Черника",
+      "itemGroup.tabrelics": "Реликвии",
+      "item.upgrade.redstonestick": "Redstonestick",
+      "item.ufd.thestarofinfinitespace": "Thestarofinfinitespace",
+      "block.hota.sandbricks": "Песчаные кирпичи",
+      "item_group.hota.feed": "Food",
+      "biome.hota.qqq": "Qqq",
+      "item.upgrade.blackberry": "Blackberry",
+      "enchantment.ufd.godblood": "god blood",
+      "gui.hota.ukayv.label_beta": "BETA",
+      "block.hota.holy_log": "Святое бревно",
+      "item.hota.thedestroyerofnature": "Уничтожитель природы",
+      "block.hota.fsdfgholubika": "Vayf",
+      "item.hota.ent_spawn_egg": "Яйцо спавна Энта",
+      "item.upgrade.thecoreofadyingstar": "Thecoreofadyingstar",
+      "item.upgrade.darkmetalhamer": "Darkmetalhammer",
+      "item.ufd.thecoreofadyingstar": "Thecoreofadyingstar",
+      "biome.ufd.vampirebiome": "Vampirebiome",
+      "block.upgrade.cherryfoliage": "Cherryfoliage",
+      "entity.upgrade.ent": "Ent",
+      "item.upgrade.blueberries": "Blueberries",
+      "entity.upgrade.mechanicaleye": "Mechanicaleye",
+      "enchantment.upgrade.thewrathofheaven": "Thewrathofheaven",
+      "item.upgrade.oldredstounsworld": "Oldredstounsworld",
+      "enchantment.upgrade.godblood": "god blood",
+      "item.hota.boilededibleroots": "Приготовленные съедобные корни",
+      "item.hota.mossy_horror_spawn_egg": "Mossy Horror Spawn Egg",
+      "item.hota.metaloftheancients": "Древний металл",
+      "item.upgrade.stonegthshovel": "Stonegthshovel",
+      "item.upgrade.berrysalad": "Berrysalad",
+      "item.upgrade.flowersword": "Flowersword",
+      "block.hota.test": "Test",
+      "biome.upgrade.waterenchantedbiome": "water enchanted biome",
+      "item.ufd.stonegth": "Stonegth",
+      "item.upgrade.oldredstounshovel": "Oldredstounshovel",
+      "item.upgrade.fanofcelestialstars": "Fanofcelestialstars",
+      "advancements.thepowerofheaven.descr": "Get the heavenly metal",
+      "item.upgrade.stonegth": "Stonegth",
+      "advancements.helloworld.descr": "Enter the world",
+      "item.hota.heavenlysword": "Меч из небесного металла",
+      "item.hota.infernalhammer": "Молот из адского металла",
+      "block.hota.rustymetal": "Ржавый металл",
+      "item.ufd.vampireblade": "Vampireblade",
+      "item.hota.thunderstone": "Гром камень",
+      "entity.hota.vampire": "Вампир",
+      "entity.hota.mossy_horror": "Mossy Horror",
+      "item.upgrade.heavenlysword": "Heavenlysword",
+      "item.minecraft.lingering_potion.effect.ancientwater": "Lingering Potion of Ancientwater",
+      "item.upgrade.katanaof_death": "Katana of Death",
+      "enchantment.ufd.thewrathofhell": "Thewrathofhell",
+      "biome.hota.wasteland": "wasteland of the ancients",
+      "biome.hota.waterenchantedbiome": "water enchanted biome",
+      "block.hota.sdfdfdsiezhievika": "Vayf",
+      "block.hota.holy_fence": "Святой забор",
+      "block.hota.holy_fence_gate": "Святая калитка",
+      "item.hota.thecoreofadyingstar": "Ядро угасающей звезды",
+      "entity.hota.swarmoffireflies": "Swarm of fireflies",
+      "block.hota.crystal_stairs": "Кристальные сткпеньки",
+      "entity.hota.carnivorousflower": "Плотоядный цветок",
+      "subtitles.forest_of_the_ancients": "",
+      "entity.hota.eye": "Глаз",
+      "item.hota.mechanicaleye_spawn_egg": "Яйцо спавна механизированного глаза",
+      "item.minecraft.tipped_arrow.effect.firepotion": "Arrow of Fire",
+      "item.ufd.stonegthshovel": "Stonegthshovel",
+      "item.hota.darkmetalshovel": "Лопата из тёмной стали",
+      "entity.hota.mossypig": "Mossy pig",
+      "advancements.theoldworld.title": "Древний мир",
+      "item.hota.blueberries": "Голубика",
+      "block.hota.jopamalina": "Vayf",
+      "item.upgrade.strawberry": "Strawberry",
+      "item.hota.concertoftheancients.desc": "Древняя пластинка",
+      "item.ufd.katanaof_death": "Katana of Death",
+      "item.upgrade.losfoliteberry": "Losfoliteberry",
+      "biome.upgrade.orpa": "wasteland of the ancients",
+      "item.upgrade.metaloftheancients": "Metaloftheancients",
+      "item.hota.flowershovel": "Цветочная лопата",
+      "item.ufd.oldredstounshovel": "Oldredstounshovel",
+      "biome.ufd.orpa": "wasteland of the ancients",
+      "item.hota.floweraxe": "Цветочный топор",
+      "item.hota.bluestrengthhammer": "Молот из блюстренжа",
+      "biome.hota.mossycover": "Mossy cover",
+      "item.ufd.heavenlysword": "Heavenlysword",
+      "item.hota.sandwich": "Сэндвич",
+      "item.ufd.darkmetalingot": "Darkmetalingot",
+      "item.ufd.flowershovel": "Flowershovel",
+      "item.upgrade.vampire_spawn_egg": "Vampire Spawn Egg",
+      "advancements.thelandofmoss.descr": "Enter the mossy cover",
+      "item.upgrade.oldredstoun": "Oldredstoun",
+      "item.upgrade.bluestrenght": "Bluestrenght",
+      "item.minecraft.splash_potion.effect.ancientwater": "Splash Potion of Ancientwater",
+      "item.upgrade.raspberry": "Raspberry",
+      "gui.hota.apsrsp.button_prighotovit": "Приготовить",
+      "item.hota.darkmetalsword": "Меч из тёмной стали"
+    },
+    "en_us": {
+      "item.hota.pharaoh_spawn_egg": "Pharaoh Spawn Egg",
+      "block.upgrade.crystalleaves": "Crystalleaves",
+      "biome.hota.entforest": "Entforest",
+      "item.minecraft.potion.effect.berry_power": "Potion of Berry Power",
+      "block.hota.crystal_fence": "Crystal Fence",
+      "biome.upgrade.vampirebiome": "Vampirebiome",
+      "item.hota.eye_spawn_egg": "Eye Spawn Egg",
+      "effect.hj": "fire",
+      "item.upgrade.infernalmetal": "Infernalmetal",
+      "item.minecraft.lingering_potion.effect.firepotion": "Lingering Potion of Firepotion",
+      "item.hota.heavenlymetal": "Heavenlymetal",
+      "block.hota.holy_wood": "Holy_ Wood",
+      "entity.hota.thedarkmonk": "Thedarkmonk",
+      "block.hota.holy_stairs": "Holy_ Stairs",
+      "item.upgrade.heavenlymetal": "Heavenlymetal",
+      "painting.hota.working.title": "Working",
+      "item.hota.thedarkmonk_spawn_egg": "Thedarkmonk Spawn Egg",
+      "block.hota.holy_button": "Holy_ Button",
+      "item.upgrade.bluestrengthsword": "Bluestrengthsword",
+      "block.hota.rustymetal_2": "Rustymetal",
+      "block.hota.crystal_pressure_plate": "Crystal Pressure Plate",
+      "item.minecraft.lingering_potion.effect.berry_power": "Lingering Potion of Berry Power",
+      "item.upgrade.darkmetalingot": "Darkmetalingot",
+      "item.hota.losfolitepickaxe": "Losfolitepickaxe",
+      "block.hota.cherryfoliage": "Cherryfoliage",
+      "block.hota.xy": "Vayf",
+      "subtitles.wasteland_of_the_ancients": "",
+      "block.hota.crystal_button": "Crystal Button",
+      "item.upgrade.stickstonegth": "Stickstonegth",
+      "entity.upgrade.vampire": "Vampire",
+      "block.hota.crystal_planks": "Crystal Planks",
+      "biome.hota.plainsofabyss": "Plainsofabyss",
+      "entity.upgrade.eye": "Eye",
+      "biome.hota.vampirebiome": "Vampirebiome",
+      "item.ufd.stickstonegth": "Stickstonegth",
+      "enchantment.hota.godblood": "god blood",
+      "item.hota.infernalmetal": "Infernalmetal",
+      "item.ufd.bluestrengthshovel": "Bluestrengthshovel",
+      "item.hota.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.ufd.infernalmetal": "Infernalmetal",
+      "entity.hota.ent": "Ent",
+      "biome.upgrade.qqq": "Qqq",
+      "biome.upgrade.enchantedglade": "Enchanted glade",
+      "biome.upgrade.arp": "forest of the ancients",
+      "item.hota.stickstonegth": "Stickstonegth",
+      "item.ufd.heavenlymetal": "Heavenlymetal",
+      "item.hota.katanaof_death": "Katana of Death",
+      "item.hota.heavenlyhammer": "Heavenlyhammer",
+      "item.hota.darkmetalhamer": "Darkmetalhammer",
+      "biome.hota.enchantedforest": "Enchanted forest",
+      "gui.hota.ukayv.button_cook": "Cook",
+      "entity.upgrade.thedarkmonk": "Thedarkmonk",
+      "block.hota.fdsfsiezhievika": "Vayf",
+      "item.minecraft.splash_potion.effect.firepotion": "Splash Potion of Firepotion",
+      "item.hota.swarmoffireflies_spawn_egg": "Swarm of fireflies Spawn Egg",
+      "item.hota.blackberry": "Blackberry",
+      "block.hota.holy_planks": "Holy_ Planks",
+      "block.upgrade.crystalwood": "Crystal wood",
+      "advancements.theoldworld.descr": "Enter the ancient world",
+      "item.hota.oldredstounsworld": "Oldredstounsworld",
+      "biome.hota.berryplain": "Berryplain",
+      "biome.ufd.arp": "forest of the ancients",
+      "item.hota.oldredstounhammer": "Oldredstounhammer",
+      "item.hota.stonegthhammer": "Stonegthhammer",
+      "item.ufd.fanofcelestialstars": "Fanofcelestialstars",
+      "entity.hota.mechanicaleye": "Mechanicaleye",
+      "enchantment.ufd.thewrathofheaven": "Thewrathofheaven",
+      "block.hota.holy_slab": "Holy_ Slab",
+      "item.upgrade.darkmetalshovel": "Darkmetalshovel",
+      "item.minecraft.splash_potion.effect.berry_power": "Splash Potion of Berry Power",
+      "item.hota.berrysalad": "Berrysalad",
+      "item.hota.oldredstounshovel": "Oldredstounshovel",
+      "item.hota.bloodyfragment": "Bloodyfragment",
+      "item.hota.abyss": "Totem of abyss",
+      "item.ufd.infernalsword": "Infernalsword",
+      "item.upgrade.bluestrengthhammer": "Bluestrengthhammer",
+      "item.upgrade.stonegthhammer": "Stonegthhammer",
+      "item.upgrade.eye_spawn_egg": "Eye Spawn Egg",
+      "item.upgrade.ent_spawn_egg": "Ent Spawn Egg",
+      "block.hota.icebricks": "Icebricks",
+      "item.hota.carnivorousflower_spawn_egg": "Carnivorous flower Spawn Egg",
+      "item.hota.cherry": "Cherry",
+      "block.hota.vcvxvgholubika": "Vayf",
+      "item.upgrade.ancientworld": "Ancientworld Portal Igniter",
+      "item.ufd.concertoftheancients.desc": "the concert of the ancients is recorded on this record",
+      "item.hota.duhat": "Duhat",
+      "block.hota.crystal_slab": "Crystal Slab",
+      "item.hota.flowerpickaxe": "Flowerpickaxe",
+      "block.hota.snowbricks": "Snowbricks",
+      "subtitles.concert_of_the_ancients": "",
+      "item.ufd.darkmetalsword": "Darkmetalsword",
+      "item.ufd.heavenlyhammer": "Heavenlyhammer",
+      "effect.bleeding": "bleeding",
+      "biome.hota.ancientmounties": "Ancientmounties",
+      "item.hota.vampire_spawn_egg": "Vampire Spawn Egg",
+      "item.hota.redstonestick": "Redstonestick",
+      "item.hota.losfoliteberry": "Losfoliteberry",
+      "item.ufd.oldredstounhammer": "Oldredstounhammer",
+      "item.upgrade.concertoftheancients": "Concertoftheancients",
+      "block.hota.crystal_log": "Crystal Log",
+      "item.hota.infernalsword": "Infernalsword",
+      "biome.hota.orpa": "wasteland of the ancients",
+      "item.upgrade.duhat": "Duhat",
+      "item.hota.iceologer_spawn_egg": "Iceologer Spawn Egg",
+      "item.ufd.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.upgrade.flowershovel": "Flowershovel",
+      "item.minecraft.potion.effect.ancientwater": "Bottle of Ancient water",
+      "item.ufd.bluestrengthsword": "Bluestrengthsword",
+      "painting.hota.working.author": "Unknown",
+      "item.upgrade.vampireblade": "Vampireblade",
+      "item.upgrade.infernalsword": "Infernalsword",
+      "item.hota.thestarofinfinitespace": "Thestarofinfinitespace",
+      "item.upgrade.flowerpickaxe": "Flowerpickaxe",
+      "biome.hota.crystalbiome": "Crystal biome",
+      "item.hota.heartent": "Heart ent",
+      "item.hota.darkmetalingot": "Darkmetalingot",
+      "enchantment.hota.thewrathofhell": "Thewrathofhell",
+      "block.hota.crystallosfolite": "Crystallosfolite",
+      "item_group.hota.upgrademod": "Upgrademod",
+      "item.upgrade.mechanicaleye_spawn_egg": "Mechanicaleye Spawn Egg",
+      "item.ufd.oldredstoun": "Oldredstoun",
+      "item.upgrade.floweraxe": "Flower axe",
+      "item.upgrade.darkmetalsword": "Darkmetalsword",
+      "item.upgrade.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.hota.thundertrident": "Thundertrident",
+      "item.hota.mossypig_spawn_egg": "Mossy pig Spawn Egg",
+      "item_group.hota.relics": "Relics",
+      "item.hota.edibleroots": "Edible roots",
+      "enchantment.hota.thewrathofheaven": "Thewrathofheaven",
+      "item.ufd.bluestrengthhammer": "Bluestrengthhammer",
+      "item.hota.bluestrengthshovel": "Bluestrengthshovel",
+      "item.hota.bluestrenght": "Bluestrenght",
+      "block.hota.mossplant": "Moss plant",
+      "entity.hota.iceologer": "Iceologer",
+      "item.ufd.bluestrenght": "Bluestrenght",
+      "item.hota.truewoodensword": "Truewoodensword",
+      "item.ufd.infernalhammer": "Infernalhammer",
+      "item.upgrade.cherry": "Cherry",
+      "block.hota.holy_pressure_plate": "Holy_ Pressure Plate",
+      "item.ufd.oldredstounsworld": "Oldredstounsworld",
+      "block.hota.lohmalina": "Vayf",
+      "item.hota.sparklingsword": "Sparkling иsword",
+      "item.minecraft.tipped_arrow.effect.berry_power": "Arrow of Berry Power",
+      "entity.hota.projectileiceologer": "Projectile iceologer",
+      "subtitles.muzyka_mshstogo_pokrova": "",
+      "item.minecraft.potion.effect.firepotion": "Potion of Fire",
+      "itemGroup.tabupgrademod": "Upgrademod",
+      "item.hota.losfolitesword": "Losfolitesword",
+      "item.ufd.flowerpickaxe": "Flowerpickaxe",
+      "item.ufd.flowersword": "Flowersword",
+      "item.ufd.darkmetalhamer": "Darkmetalhammer",
+      "block.hota.gfdfdgiezhievika": "Vayf",
+      "biome.upgrade.ancientmounties": "Ancientmounties",
+      "item.upgrade.stonegthsword": "Stonegthsword",
+      "block.upgrade.rustymetal": "Rustymetal",
+      "item.upgrade.concertoftheancients.desc": "the concert of the ancients is recorded on this record",
+      "item.hota.stonegthsword": "Stonegthsword",
+      "item.hota.raspberry": "Raspberry",
+      "block.hota.crystal_fence_gate": "Crystal Fence Gate",
+      "item.ufd.metaloftheancients": "Metaloftheancients",
+      "item.ufd.stonegthhammer": "Stonegthhammer",
+      "item.upgrade.currant": "Currant",
+      "block.hota.rrergholubika": "Vayf",
+      "item.hota.flowersword": "Flowersword",
+      "item.hota.losfoliteshovel": "Losfoliteshovel",
+      "item.hota.strawberry": "Strawberry",
+      "effect.hota.hj": "fire",
+      "item.upgrade.bluestrengthshovel": "Bluestrengthshovel",
+      "item.ufd.concertoftheancients": "Concertoftheancients",
+      "item.minecraft.tipped_arrow.effect.ancientwater": "Arrow of Ancientwater",
+      "item.upgrade.infernalhammer": "Infernalhammer",
+      "advancements.thepowerofheaven.title": "The power of heaven",
+      "block.hota.penic": "Vayf",
+      "item.hota.splinterlosfolite": "Splinterlosfolite",
+      "item.hota.trasher": "Trasher",
+      "block.hota.fgdrgchiernika": "Vayf",
+      "item.hota.stonegthshovel": "Stonegthshovel",
+      "block.hota.dhsdgychiernika": "Vayf",
+      "entity.hota.pharaoh": "Pharaoh",
+      "advancements.helloworld.title": "Hello world!",
+      "biome.upgrade.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "item.upgrade.oldredstounhammer": "Oldredstounhammer",
+      "item.hota.fanofcelestialstars": "Fanofcelestialstars",
+      "item.hota.concertoftheancients": "Concertoftheancients",
+      "item.ufd.darkmetalshovel": "Darkmetalshovel",
+      "block.hota.holy_leaves": "Holy_ Leaves",
+      "block.hota.mosscobblestone": "Mosscobblestone",
+      "item.hota.lavastone": "Lava stone",
+      "block.ufd.rustymetal_2": "Rustymetal",
+      "subtitles.zvuk_mshystogo_pokrova": "",
+      "item.hota.oldredstoun": "Oldredstoun",
+      "item.hota.stonegth": "Stonegth",
+      "item.hota.vampireblade": "Vampireblade",
+      "biome.hota.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "block.hota.vayf": "Vayf",
+      "item.hota.ancientworld": "Ancientworld Portal Igniter",
+      "itemGroup.tabfeed": "Food",
+      "block.upgrade.rustymetal_2": "Rustymetal",
+      "block.ufd.rustymetal": "Rustymetal",
+      "biome.hota.enchantedglade": "Enchanted glade",
+      "item.hota.bluestrengthsword": "Bluestrengthsword",
+      "block.hota.gfdij": "Vayf",
+      "effect.hota.bleeding": "bleeding",
+      "advancements.thelandofmoss.title": "The land of moss",
+      "enchantment.upgrade.thewrathofhell": "Thewrathofhell",
+      "item.hota.losfoliteingot": "Losfolite ingot",
+      "biome.upgrade.entforest": "Entforest",
+      "item.ufd.floweraxe": "Flower axe",
+      "biome.upgrade.enchantedforest": "Enchanted forest",
+      "biome.ufd.mechanizedwastelandoftheancients": "wasteland of the ancients",
+      "block.hota.sukamalina": "Vayf",
+      "biome.upgrade.crystalbiome": "Crystal biome",
+      "item.ufd.stonegthsword": "Stonegthsword",
+      "item.upgrade.thedarkmonk_spawn_egg": "Thedarkmonk Spawn Egg",
+      "item.upgrade.thestarofinfinitespace": "Thestarofinfinitespace",
+      "item.upgrade.heavenlyhammer": "Heavenlyhammer",
+      "biome.hota.arp": "forest of the ancients",
+      "item.hota.currant": "Currant",
+      "itemGroup.tabrelics": "Relics",
+      "item.upgrade.redstonestick": "Redstonestick",
+      "item.ufd.thestarofinfinitespace": "Thestarofinfinitespace",
+      "block.hota.sandbricks": "Sandbricks",
+      "item_group.hota.feed": "Food",
+      "biome.hota.qqq": "Qqq",
+      "item.upgrade.blackberry": "Blackberry",
+      "enchantment.ufd.godblood": "god blood",
+      "gui.hota.ukayv.label_beta": "BETA",
+      "block.hota.holy_log": "Holy_ Log",
+      "item.hota.thedestroyerofnature": "The destroyer of nature",
+      "block.hota.fsdfgholubika": "Vayf",
+      "item.hota.ent_spawn_egg": "Ent Spawn Egg",
+      "item.upgrade.thecoreofadyingstar": "Thecoreofadyingstar",
+      "item.upgrade.darkmetalhamer": "Darkmetalhammer",
+      "item.ufd.thecoreofadyingstar": "Thecoreofadyingstar",
+      "biome.ufd.vampirebiome": "Vampirebiome",
+      "block.upgrade.cherryfoliage": "Cherryfoliage",
+      "entity.upgrade.ent": "Ent",
+      "item.upgrade.blueberries": "Blueberries",
+      "entity.upgrade.mechanicaleye": "Mechanicaleye",
+      "enchantment.upgrade.thewrathofheaven": "Thewrathofheaven",
+      "item.upgrade.oldredstounsworld": "Oldredstounsworld",
+      "enchantment.upgrade.godblood": "god blood",
+      "item.hota.boilededibleroots": "Boiled edible roots",
+      "item.hota.mossy_horror_spawn_egg": "Mossy Horror Spawn Egg",
+      "item.hota.metaloftheancients": "Metaloftheancients",
+      "item.upgrade.stonegthshovel": "Stonegthshovel",
+      "item.upgrade.berrysalad": "Berrysalad",
+      "item.upgrade.flowersword": "Flowersword",
+      "block.hota.test": "Test",
+      "biome.upgrade.waterenchantedbiome": "water enchanted biome",
+      "item.ufd.stonegth": "Stonegth",
+      "item.upgrade.oldredstounshovel": "Oldredstounshovel",
+      "item.upgrade.fanofcelestialstars": "Fanofcelestialstars",
+      "advancements.thepowerofheaven.descr": "Get the heavenly metal",
+      "item.upgrade.stonegth": "Stonegth",
+      "advancements.helloworld.descr": "Enter the world",
+      "item.hota.heavenlysword": "Heavenlysword",
+      "item.hota.infernalhammer": "Infernalhammer",
+      "block.hota.rustymetal": "Rustymetal",
+      "item.ufd.vampireblade": "Vampireblade",
+      "item.hota.thunderstone": "Thunderstone",
+      "entity.hota.vampire": "Vampire",
+      "entity.hota.mossy_horror": "Mossy Horror",
+      "item.upgrade.heavenlysword": "Heavenlysword",
+      "item.minecraft.lingering_potion.effect.ancientwater": "Lingering Potion of Ancientwater",
+      "item.upgrade.katanaof_death": "Katana of Death",
+      "enchantment.ufd.thewrathofhell": "Thewrathofhell",
+      "biome.hota.waterenchantedbiome": "water enchanted biome",
+      "block.hota.sdfdfdsiezhievika": "Vayf",
+      "block.hota.holy_fence": "Holy_ Fence",
+      "block.hota.holy_fence_gate": "Holy_ Fence Gate",
+      "item.hota.thecoreofadyingstar": "Thecoreofadyingstar",
+      "entity.hota.swarmoffireflies": "Swarm of fireflies",
+      "block.hota.crystal_stairs": "Crystal Stairs",
+      "entity.hota.carnivorousflower": "Carnivorous flower",
+      "subtitles.forest_of_the_ancients": "",
+      "entity.hota.eye": "Eye",
+      "item.hota.mechanicaleye_spawn_egg": "Mechanicaleye Spawn Egg",
+      "item.minecraft.tipped_arrow.effect.firepotion": "Arrow of Fire",
+      "item.ufd.stonegthshovel": "Stonegthshovel",
+      "item.hota.darkmetalshovel": "Darkmetalshovel",
+      "entity.hota.mossypig": "Mossy pig",
+      "advancements.theoldworld.title": "The ancient world",
+      "item.hota.blueberries": "Blueberries",
+      "block.hota.jopamalina": "Vayf",
+      "item.upgrade.strawberry": "Strawberry",
+      "item.hota.concertoftheancients.desc": "the concert of the ancients is recorded on this record",
+      "item.ufd.katanaof_death": "Katana of Death",
+      "item.upgrade.losfoliteberry": "Losfoliteberry",
+      "biome.upgrade.orpa": "wasteland of the ancients",
+      "item.upgrade.metaloftheancients": "Metaloftheancients",
+      "item.hota.flowershovel": "Flowershovel",
+      "item.ufd.oldredstounshovel": "Oldredstounshovel",
+      "biome.ufd.orpa": "wasteland of the ancients",
+      "item.hota.floweraxe": "Flower axe",
+      "item.hota.bluestrengthhammer": "Bluestrengthhammer",
+      "biome.hota.mossycover": "Mossy cover",
+      "item.ufd.heavenlysword": "Heavenlysword",
+      "item.hota.sandwich": "Sandwich",
+      "item.ufd.darkmetalingot": "Darkmetalingot",
+      "item.ufd.flowershovel": "Flowershovel",
+      "item.upgrade.vampire_spawn_egg": "Vampire Spawn Egg",
+      "advancements.thelandofmoss.descr": "Enter the mossy cover",
+      "item.upgrade.oldredstoun": "Oldredstoun",
+      "item.upgrade.bluestrenght": "Bluestrenght",
+      "item.minecraft.splash_potion.effect.ancientwater": "Splash Potion of Ancientwater",
+      "item.upgrade.raspberry": "Raspberry",
+      "gui.hota.apsrsp.button_prighotovit": "Приготовить",
+      "item.hota.darkmetalsword": "Darkmetalsword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hota",
+    "modName": "HotA",
+    "version": "1.1",
+    "author": "TubikPaw",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.ufd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

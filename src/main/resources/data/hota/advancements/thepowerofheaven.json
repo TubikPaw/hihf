@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "hota:heavenlymetal"
+    },
+    "title": {
+      "translate": "advancements.thepowerofheaven.title"
+    },
+    "description": {
+      "translate": "advancements.thepowerofheaven.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thepowerofheaven": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hota:heavenlymetal"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "hota:helloworld"
+}

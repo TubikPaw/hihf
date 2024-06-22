@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hota:block/holy_slab"
+    },
+    "type=top": {
+      "model": "hota:block/holy_slab_top"
+    },
+    "type=double": {
+      "model": "hota:block/holy_slab_full"
+    }
+  }
+}

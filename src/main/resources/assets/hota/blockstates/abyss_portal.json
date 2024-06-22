@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "hota:block/abyss_portal_ew"
+    },
+    "axis=x": {
+      "model": "hota:block/abyss_portal_ns"
+    }
+  }
+}

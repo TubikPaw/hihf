@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Concertoftheancients",
+    "rarity": "RARE",
+    "texture": "the_plate_of_the_ancients",
+    "description": "the concert of the ancients is recorded on this record",
+    "creativeTab": {
+      "value": "CUSTOM:Relics"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:concert_of_the_ancients"
+    },
+    "lengthInTicks": 0,
+    "analogOutput": 0
+  }
+}

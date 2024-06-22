@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Duhat"
+    },
+    "name": "avp",
+    "namespace": "mod"
+  }
+}

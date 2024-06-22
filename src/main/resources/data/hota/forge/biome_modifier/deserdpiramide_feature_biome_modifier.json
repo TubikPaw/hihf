@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "hota:deserdpiramide_feature",
+  "step": "surface_structures"
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 10.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Bluestrenght"
+    },
+    "name": "craftbluestrenght",
+    "namespace": "mod"
+  }
+}

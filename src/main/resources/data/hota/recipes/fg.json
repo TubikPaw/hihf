@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:bloodyfragment"
+    },
+    "b": {
+      "item": "minecraft:ghast_tear"
+    },
+    "c": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "hota:vampireblade",
+    "count": 1
+  }
+}

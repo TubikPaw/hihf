@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:holy__log"
+    }
+  ],
+  "result": {
+    "item": "hota:holy_planks",
+    "count": 4
+  }
+}

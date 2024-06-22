@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hota:block/holy__leaves",
+    "particle": "hota:block/holy__leaves"
+  }
+}

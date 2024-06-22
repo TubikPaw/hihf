@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "hota:bluestrenght"
+    },
+    "b": {
+      "item": "hota:oldredstounhammer"
+    }
+  },
+  "result": {
+    "item": "hota:bluestrengthhammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hota:block/holy__planks",
+    "particle": "hota:block/holy__planks"
+  },
+  "render_type": "solid"
+}

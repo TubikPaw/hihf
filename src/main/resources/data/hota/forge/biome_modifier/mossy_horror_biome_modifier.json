@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "hota:mossycover",
+  "spawners": {
+    "type": "hota:mossy_horror",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

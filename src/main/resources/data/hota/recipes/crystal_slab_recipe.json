@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:crystal_planks"
+    }
+  },
+  "result": {
+    "item": "hota:crystal_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "hota:block/1f145479c2703988",
+    "particle": "hota:block/1f145479c2703988"
+  },
+  "render_type": "cutout_mipped"
+}

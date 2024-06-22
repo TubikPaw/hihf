@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hota:holy_planks"
+    }
+  ],
+  "result": {
+    "item": "hota:holy_button",
+    "count": 1
+  }
+}

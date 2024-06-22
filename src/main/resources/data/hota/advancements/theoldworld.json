@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "hota:crystallosfolite"
+    },
+    "title": {
+      "translate": "advancements.theoldworld.title"
+    },
+    "description": {
+      "translate": "advancements.theoldworld.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "theoldworld": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "hota:ancientworld"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "hota:helloworld"
+}

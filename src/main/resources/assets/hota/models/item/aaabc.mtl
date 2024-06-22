@@ -1,0 +1,13 @@
+newmtl m_21a85016-7f17-c762-fa49-85cb3465eac2
+Ns 100.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd hota:block/glinanyi_kotelok_tekstura
+newmtl none
+Ns 100.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0

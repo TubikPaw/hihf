@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdc",
+    "cce"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:green_dye"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "minecraft:paper"
+    },
+    "d": {
+      "item": "hota:heartent"
+    },
+    "e": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "hota:ancientworld",
+    "count": 1
+  }
+}

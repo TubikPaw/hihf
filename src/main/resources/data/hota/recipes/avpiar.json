@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "b": {
+      "item": "minecraft:magma_block"
+    },
+    "c": {
+      "item": "minecraft:lava_bucket"
+    },
+    "d": {
+      "item": "minecraft:blackstone"
+    },
+    "e": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "hota:lavastone",
+    "count": 1
+  }
+}

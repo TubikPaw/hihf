@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hota:block/eq1",
+    "up": "hota:block/eq1",
+    "north": "hota:block/eq1",
+    "east": "hota:block/eq1",
+    "south": "hota:block/eq1",
+    "west": "hota:block/eq1",
+    "particle": "hota:block/eq1"
+  },
+  "render_type": "solid"
+}

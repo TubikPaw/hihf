@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Duhat"
+      },
+      {
+        "value": "CUSTOM:Metaloftheancients"
+      },
+      {
+        "value": "CUSTOM:Duhat"
+      },
+      {
+        "value": "CUSTOM:Metaloftheancients"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:Metaloftheancients"
+      },
+      {
+        "value": "CUSTOM:Duhat"
+      },
+      {
+        "value": "CUSTOM:Metaloftheancients"
+      },
+      {
+        "value": "CUSTOM:Duhat"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Chargedmetaloftheancients"
+    },
+    "name": "fd",
+    "namespace": "mod"
+  }
+}

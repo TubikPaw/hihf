@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hota:orpa",
+  "features": "hota:falentower_feature",
+  "step": "surface_structures"
+}

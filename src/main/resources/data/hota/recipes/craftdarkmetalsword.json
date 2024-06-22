@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:darkmetalingot"
+    },
+    "b": {
+      "item": "hota:oldredstoun"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hota:darkmetalsword",
+    "count": 1
+  }
+}

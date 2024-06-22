@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hota:block/ceccb7d7031d31c6",
+    "up": "hota:block/ceccb7d7031d31c6",
+    "north": "hota:block/ceccb7d7031d31c6",
+    "east": "hota:block/ceccb7d7031d31c6",
+    "south": "hota:block/ceccb7d7031d31c6",
+    "west": "hota:block/ceccb7d7031d31c6",
+    "particle": "hota:block/ceccb7d7031d31c6"
+  },
+  "render_type": "solid"
+}

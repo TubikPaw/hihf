@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "acd",
+    "edd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "hota:bluestrenght"
+    },
+    "c": {
+      "item": "hota:thecoreofadyingstar"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "hota:oldredstoun"
+    }
+  },
+  "result": {
+    "item": "hota:thestarofinfinitespace",
+    "count": 1
+  }
+}

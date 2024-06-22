@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "hota:item/3f3f3f3f3f_3f3f3f_je2_be2-export"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:holy_planks"
+    }
+  },
+  "result": {
+    "item": "hota:holy_slab",
+    "count": 6
+  }
+}

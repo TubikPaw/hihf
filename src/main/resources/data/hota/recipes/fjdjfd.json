@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:truewoodensword"
+    },
+    "b": {
+      "item": "hota:vampireblade"
+    },
+    "c": {
+      "item": "hota:heartent"
+    }
+  },
+  "result": {
+    "item": "hota:thedestroyerofnature",
+    "count": 1
+  }
+}

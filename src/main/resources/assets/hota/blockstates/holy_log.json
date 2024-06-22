@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hota:block/holy_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hota:block/holy_log"
+    },
+    "axis=z": {
+      "model": "hota:block/holy_log",
+      "x": 90
+    }
+  }
+}

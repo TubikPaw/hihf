@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hota:crystal_planks"
+    }
+  ],
+  "result": {
+    "item": "hota:crystal_button",
+    "count": 1
+  }
+}

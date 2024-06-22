@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hota:crystalbiome",
+  "features": "hota:crystallosfolite",
+  "step": "vegetal_decoration"
+}

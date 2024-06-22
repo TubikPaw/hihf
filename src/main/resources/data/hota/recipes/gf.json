@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "deb",
+    "fda"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:darkmetalingot"
+    },
+    "b": {
+      "item": "minecraft:nether_star"
+    },
+    "c": {
+      "item": "hota:thestarofinfinitespace"
+    },
+    "d": {
+      "item": "hota:chargedmetaloftheancients"
+    },
+    "e": {
+      "item": "hota:thecoreofadyingstar"
+    },
+    "f": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "hota:fanofcelestialstars",
+    "count": 1
+  }
+}

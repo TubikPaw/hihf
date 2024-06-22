@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hota:block/crystal_log_top",
+    "up": "hota:block/crystal_log_top",
+    "north": "hota:block/crystal_log_side",
+    "east": "hota:block/crystal_log_side",
+    "south": "hota:block/crystal_log_side",
+    "west": "hota:block/crystal_log_side",
+    "particle": "hota:block/crystal_log_top"
+  },
+  "render_type": "solid"
+}

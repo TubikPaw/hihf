@@ -1,0 +1,73 @@
+{
+  "_fv": 57,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Crystalbiome"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "CUSTOM:Ancientmounties"
+      },
+      {
+        "value": "CUSTOM:Qqq"
+      },
+      {
+        "value": "CUSTOM:Arp"
+      },
+      {
+        "value": "CUSTOM:Enchantedforest"
+      },
+      {
+        "value": "CUSTOM:Enchantedglade"
+      },
+      {
+        "value": "CUSTOM:Waterenchantedbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "portalParticles": {
+      "value": "SPELL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "Ancientworld Portal Igniter",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "zaghruzhieno_1",
+    "portalTexture": "nhuyigui",
+    "enablePortal": true
+  }
+}

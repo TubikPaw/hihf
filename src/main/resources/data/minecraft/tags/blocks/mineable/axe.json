@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "hota:crystal_log",
+    "hota:crystal_planks",
+    "hota:holy_wood",
+    "hota:holy_log",
+    "hota:holy_planks"
+  ]
+}

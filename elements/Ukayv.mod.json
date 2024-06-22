@@ -1,0 +1,145 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 178,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "untitled_03-29-2024_10-15-30.png",
+          "use1Xscale": false,
+          "x": 125,
+          "y": -51
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "untitled_03-28-2024_07-51-56_1.png",
+          "use1Xscale": false,
+          "x": 149,
+          "y": -15
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 263,
+          "y": 36
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fcge8.png",
+          "use1Xscale": false,
+          "x": 264,
+          "y": 37
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fcge8.png",
+          "use1Xscale": false,
+          "x": 139,
+          "y": 37
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fcge8.png",
+          "use1Xscale": false,
+          "x": 205,
+          "y": 18
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_beta",
+          "text": {
+            "fixedValue": "BETA"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 202,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_cook",
+          "text": "Cook",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Misi"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 187,
+          "y": 93
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 138,
+          "y": 36
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 204,
+          "y": 17
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

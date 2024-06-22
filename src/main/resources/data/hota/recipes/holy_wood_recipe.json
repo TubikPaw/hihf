@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:holy_log"
+    }
+  },
+  "result": {
+    "item": "hota:holy_wood",
+    "count": 3
+  }
+}

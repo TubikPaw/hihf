@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    " c ",
+    "b a"
+  ],
+  "key": {
+    "a": {
+      "item": "hota:bluestrenght"
+    },
+    "b": {
+      "item": "hota:oldredstoun"
+    },
+    "c": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "hota:stonegth",
+    "count": 1
+  }
+}

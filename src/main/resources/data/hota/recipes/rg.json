@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dandelion"
+    },
+    "b": {
+      "item": "minecraft:allium"
+    },
+    "c": {
+      "item": "minecraft:wooden_sword"
+    },
+    "d": {
+      "item": "minecraft:poppy"
+    },
+    "e": {
+      "item": "minecraft:oxeye_daisy"
+    }
+  },
+  "result": {
+    "item": "hota:flowersword",
+    "count": 1
+  }
+}

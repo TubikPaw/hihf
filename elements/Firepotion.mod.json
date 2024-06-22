@@ -1,0 +1,21 @@
+{
+  "_fv": 57,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Fire",
+    "splashName": "Splash Potion of Firepotion",
+    "lingeringName": "Lingering Potion of Firepotion",
+    "arrowName": "Arrow of Fire",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Hj"
+        },
+        "duration": 200,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

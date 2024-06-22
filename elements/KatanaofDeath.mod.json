@@ -1,0 +1,38 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "katana_death",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Katana of Death",
+    "specialInformation": {
+      "fixedValue": [
+        "Улучшенная версия Вампирского клинка! Вы можете украсть жизнь врага. Если неправильно использовать это оружие смерти то вы моментально попращаетесь со своей жалкой жизью!"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Relics"
+    },
+    "harvestLevel": 12,
+    "efficiency": 0.0,
+    "attackSpeed": 54.0,
+    "enchantability": 2,
+    "damageVsEntity": 50.0,
+    "usageCount": 212,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Grr"
+    }
+  }
+}

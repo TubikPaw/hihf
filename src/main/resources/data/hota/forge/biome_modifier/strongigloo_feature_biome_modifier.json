@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "snowy_plains",
+  "features": "hota:strongigloo_feature",
+  "step": "surface_structures"
+}

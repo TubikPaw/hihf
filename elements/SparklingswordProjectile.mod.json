@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "Blocks.AIR"
+    },
+    "showParticles": true,
+    "actionSound": {
+      "value": "entity.firework.shoot"
+    },
+    "igniteFire": true,
+    "power": 1.5,
+    "damage": 6.0,
+    "knockback": 0,
+    "entityModel": "Default",
+    "customModelTexture": "untitled_06-18-2024_10-54-57.png"
+  }
+}

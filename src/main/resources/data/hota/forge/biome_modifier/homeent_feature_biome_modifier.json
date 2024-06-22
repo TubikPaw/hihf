@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hota:entforest",
+  "features": "hota:homeent_feature",
+  "step": "surface_structures"
+}

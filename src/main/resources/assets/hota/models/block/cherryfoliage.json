@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hota:block/sprite-0001",
+    "up": "hota:block/sprite-0001",
+    "north": "hota:block/sprite-0001",
+    "east": "hota:block/sprite-0001",
+    "south": "hota:block/sprite-0001",
+    "west": "hota:block/sprite-0001",
+    "particle": "hota:block/sprite-0001"
+  },
+  "render_type": "solid"
+}

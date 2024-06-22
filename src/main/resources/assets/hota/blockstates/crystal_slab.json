@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hota:block/crystal_slab"
+    },
+    "type=top": {
+      "model": "hota:block/crystal_slab_top"
+    },
+    "type=double": {
+      "model": "hota:block/crystal_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 57,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"pickaxe\" type=\"MCItem\">pickaxe</variable><variable id=\"EnchtSize\" type=\"Number\">EnchtSize</variable><variable id=\"i\" type=\"Number\">i</variable><variable id=\"j\" type=\"Number\">j</variable><variable id=\"k\" type=\"Number\">k</variable></variables><block deletable=\"false\" type=\"event_trigger\" x=\"-132\" y=\"-94\"><field name=\"trigger\">entity_attacked</field><next><block collapsed=\"true\" type=\"controls_if\"><value name=\"IF0\"><block type=\"compare_mcitems\"><value name=\"a\"><block type=\"entity_iteminhand\"><value name=\"entity\"><block type=\"source_entity_from_deps\"/></value></block></value><value name=\"b\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:Thundertrident</field></block></value></block></value><statement name=\"DO0\"><block type=\"entity_execute_command\"><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">summon minecraft:lightning_bolt</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></statement></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "hota:block/ancientworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "hota:block/ancientworld_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "hota:custom/drawchili",
+  "textures": {
+    "all": "hota:block/glinanyi_kotelok_tekstura",
+    "particle": "hota:block/glinanyi_kotelok_tekstura",
+    "0": "hota:block/glinanyi_kotelok_tekstura"
+  },
+  "render_type": "cutout"
+}

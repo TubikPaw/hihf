@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "hota:icebricks",
+    "count": 1
+  }
+}
