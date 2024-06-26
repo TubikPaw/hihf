@@ -2394,12 +2394,12 @@
       "registry_name": "crystal_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/block/crystal_button_inventory.json",
           "src/main/resources/assets/hota/models/block/crystal_button.json",
-          "src/main/resources/assets/hota/blockstates/crystal_button.json",
-          "src/main/resources/assets/hota/models/item/crystal_button.json",
           "src/main/java/net/mcreator/ufd/block/CrystalButtonBlock.java",
-          "src/main/resources/assets/hota/models/block/crystal_button_pressed.json"
+          "src/main/resources/assets/hota/models/item/crystal_button.json",
+          "src/main/resources/assets/hota/models/block/crystal_button_pressed.json",
+          "src/main/resources/assets/hota/blockstates/crystal_button.json",
+          "src/main/resources/assets/hota/models/block/crystal_button_inventory.json"
         ]
       }
     },
@@ -2556,9 +2556,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/ufd/block/Holy_WoodBlock.java",
-          "src/main/resources/assets/hota/blockstates/holy_wood.json",
           "src/main/resources/assets/hota/models/item/holy_wood.json",
-          "src/main/resources/assets/hota/models/block/holy_wood.json"
+          "src/main/resources/assets/hota/models/block/holy_wood.json",
+          "src/main/resources/assets/hota/blockstates/holy_wood.json"
         ]
       }
     },
@@ -2571,10 +2571,10 @@
       "registry_name": "holy_log",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/item/holy_log.json",
           "src/main/resources/assets/hota/models/block/holy_log.json",
-          "src/main/resources/assets/hota/blockstates/holy_log.json",
           "src/main/java/net/mcreator/ufd/block/Holy_LogBlock.java",
-          "src/main/resources/assets/hota/models/item/holy_log.json"
+          "src/main/resources/assets/hota/blockstates/holy_log.json"
         ]
       }
     },
@@ -2587,10 +2587,10 @@
       "registry_name": "holy_planks",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/block/holy_planks.json",
-          "src/main/resources/assets/hota/models/item/holy_planks.json",
           "src/main/java/net/mcreator/ufd/block/Holy_PlanksBlock.java",
-          "src/main/resources/assets/hota/blockstates/holy_planks.json"
+          "src/main/resources/assets/hota/models/item/holy_planks.json",
+          "src/main/resources/assets/hota/blockstates/holy_planks.json",
+          "src/main/resources/assets/hota/models/block/holy_planks.json"
         ]
       }
     },
@@ -2603,10 +2603,10 @@
       "registry_name": "holy_leaves",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/ufd/block/Holy_LeavesBlock.java",
           "src/main/resources/assets/hota/models/item/holy_leaves.json",
           "src/main/resources/assets/hota/models/block/holy_leaves.json",
-          "src/main/resources/assets/hota/blockstates/holy_leaves.json",
-          "src/main/java/net/mcreator/ufd/block/Holy_LeavesBlock.java"
+          "src/main/resources/assets/hota/blockstates/holy_leaves.json"
         ]
       }
     },
@@ -2619,12 +2619,12 @@
       "registry_name": "holy_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/holy_stairs.json",
-          "src/main/resources/assets/hota/models/block/holy_stairs_inner.json",
+          "src/main/resources/assets/hota/models/block/holy_stairs.json",
           "src/main/resources/assets/hota/models/block/holy_stairs_outer.json",
-          "src/main/java/net/mcreator/ufd/block/Holy_StairsBlock.java",
           "src/main/resources/assets/hota/blockstates/holy_stairs.json",
-          "src/main/resources/assets/hota/models/block/holy_stairs.json"
+          "src/main/java/net/mcreator/ufd/block/Holy_StairsBlock.java",
+          "src/main/resources/assets/hota/models/block/holy_stairs_inner.json",
+          "src/main/resources/assets/hota/models/item/holy_stairs.json"
         ]
       }
     },
@@ -2637,11 +2637,11 @@
       "registry_name": "holy_slab",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/item/holy_slab.json",
+          "src/main/resources/assets/hota/blockstates/holy_slab.json",
           "src/main/resources/assets/hota/models/block/holy_slab.json",
           "src/main/resources/assets/hota/models/block/holy_slab_full.json",
           "src/main/java/net/mcreator/ufd/block/Holy_SlabBlock.java",
-          "src/main/resources/assets/hota/models/item/holy_slab.json",
-          "src/main/resources/assets/hota/blockstates/holy_slab.json",
           "src/main/resources/assets/hota/models/block/holy_slab_top.json"
         ]
       }
@@ -2655,11 +2655,11 @@
       "registry_name": "holy_fence",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/block/holy_fence.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_inventory.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_FenceBlock.java",
           "src/main/resources/assets/hota/models/item/holy_fence.json",
           "src/main/resources/assets/hota/blockstates/holy_fence.json",
-          "src/main/resources/assets/hota/models/block/holy_fence.json",
-          "src/main/java/net/mcreator/ufd/block/Holy_FenceBlock.java",
-          "src/main/resources/assets/hota/models/block/holy_fence_inventory.json",
           "src/main/resources/assets/hota/models/block/holy_fence_post.json"
         ]
       }
@@ -2675,11 +2675,11 @@
         "files": [
           "src/main/java/net/mcreator/ufd/block/Holy_FenceGateBlock.java",
           "src/main/resources/assets/hota/models/item/holy_fence_gate.json",
-          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall_open.json",
           "src/main/resources/assets/hota/models/block/holy_fence_gate.json",
-          "src/main/resources/assets/hota/models/block/holy_fence_gate_open.json",
           "src/main/resources/assets/hota/blockstates/holy_fence_gate.json",
-          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall_open.json"
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_open.json",
+          "src/main/resources/assets/hota/models/block/holy_fence_gate_wall.json"
         ]
       }
     },
@@ -2692,9 +2692,9 @@
       "registry_name": "holy_pressure_plate",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/ufd/block/Holy_PressurePlateBlock.java",
           "src/main/resources/assets/hota/models/block/holy_pressure_plate.json",
           "src/main/resources/assets/hota/models/item/holy_pressure_plate.json",
-          "src/main/java/net/mcreator/ufd/block/Holy_PressurePlateBlock.java",
           "src/main/resources/assets/hota/blockstates/holy_pressure_plate.json",
           "src/main/resources/assets/hota/models/block/holy_pressure_plate_down.json"
         ]
@@ -2710,10 +2710,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/hota/blockstates/holy_button.json",
-          "src/main/resources/assets/hota/models/block/holy_button.json",
           "src/main/resources/assets/hota/models/block/holy_button_pressed.json",
-          "src/main/java/net/mcreator/ufd/block/Holy_ButtonBlock.java",
           "src/main/resources/assets/hota/models/item/holy_button.json",
+          "src/main/java/net/mcreator/ufd/block/Holy_ButtonBlock.java",
+          "src/main/resources/assets/hota/models/block/holy_button.json",
           "src/main/resources/assets/hota/models/block/holy_button_inventory.json"
         ]
       }
