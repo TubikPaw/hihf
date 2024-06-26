@@ -8,7 +8,7 @@
     "texture": "katana_death",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
-    "name": "Katana of Death",
+    "name": "§4Katana of Death",
     "specialInformation": {
       "fixedValue": [
         "Улучшенная версия Вампирского клинка! Вы можете украсть жизнь врага. Если неправильно использовать это оружие смерти то вы моментально попращаетесь со своей жалкой жизью!"

@@ -16,7 +16,7 @@ public class ThedestroyerofnatureItem extends SwordItem {
 	public ThedestroyerofnatureItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 10;
+				return 1590;
 			}
 
 			public float getSpeed() {

@@ -22,8 +22,8 @@
       "registry_name": "darkmetalingot",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/darkmetalingot.json",
-          "src/main/java/net/mcreator/ufd/item/DarkmetalingotItem.java"
+          "src/main/java/net/mcreator/ufd/item/DarkmetalingotItem.java",
+          "src/main/resources/assets/hota/models/item/darkmetalingot.json"
         ]
       }
     },
@@ -63,8 +63,8 @@
       "registry_name": "darkmetalsword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/darkmetalsword.json",
-          "src/main/java/net/mcreator/ufd/item/DarkmetalswordItem.java"
+          "src/main/java/net/mcreator/ufd/item/DarkmetalswordItem.java",
+          "src/main/resources/assets/hota/models/item/darkmetalsword.json"
         ]
       }
     },
@@ -144,8 +144,8 @@
       "registry_name": "infernalmetal",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/infernalmetal.json",
-          "src/main/java/net/mcreator/ufd/item/InfernalmetalItem.java"
+          "src/main/java/net/mcreator/ufd/item/InfernalmetalItem.java",
+          "src/main/resources/assets/hota/models/item/infernalmetal.json"
         ]
       }
     },
@@ -185,8 +185,8 @@
       "registry_name": "oldredstounshovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/oldredstounshovel.json",
-          "src/main/java/net/mcreator/ufd/item/OldredstounshovelItem.java"
+          "src/main/java/net/mcreator/ufd/item/OldredstounshovelItem.java",
+          "src/main/resources/assets/hota/models/item/oldredstounshovel.json"
         ]
       }
     },
@@ -199,8 +199,8 @@
       "registry_name": "oldredstounhammer",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/OldredstounhammerItem.java",
-          "src/main/resources/assets/hota/models/item/oldredstounhammer.json"
+          "src/main/resources/assets/hota/models/item/oldredstounhammer.json",
+          "src/main/java/net/mcreator/ufd/item/OldredstounhammerItem.java"
         ]
       }
     },
@@ -252,8 +252,8 @@
       "registry_name": "bluestrengthsword",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/BluestrengthswordItem.java",
-          "src/main/resources/assets/hota/models/item/bluestrengthsword.json"
+          "src/main/resources/assets/hota/models/item/bluestrengthsword.json",
+          "src/main/java/net/mcreator/ufd/item/BluestrengthswordItem.java"
         ]
       }
     },
@@ -333,8 +333,8 @@
       "registry_name": "heavenlymetal",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/heavenlymetal.json",
-          "src/main/java/net/mcreator/ufd/item/HeavenlymetalItem.java"
+          "src/main/java/net/mcreator/ufd/item/HeavenlymetalItem.java",
+          "src/main/resources/assets/hota/models/item/heavenlymetal.json"
         ]
       }
     },
@@ -516,8 +516,8 @@
       "registry_name": "stickstonegth",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/stickstonegth.json",
-          "src/main/java/net/mcreator/ufd/item/StickstonegthItem.java"
+          "src/main/java/net/mcreator/ufd/item/StickstonegthItem.java",
+          "src/main/resources/assets/hota/models/item/stickstonegth.json"
         ]
       }
     },
@@ -624,8 +624,8 @@
       "registry_name": "heavenlysword",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/HeavenlyswordItem.java",
-          "src/main/resources/assets/hota/models/item/heavenlysword.json"
+          "src/main/resources/assets/hota/models/item/heavenlysword.json",
+          "src/main/java/net/mcreator/ufd/item/HeavenlyswordItem.java"
         ]
       }
     },
@@ -678,8 +678,8 @@
       "registry_name": "infernalsword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/infernalsword.json",
-          "src/main/java/net/mcreator/ufd/item/InfernalswordItem.java"
+          "src/main/java/net/mcreator/ufd/item/InfernalswordItem.java",
+          "src/main/resources/assets/hota/models/item/infernalsword.json"
         ]
       }
     },
@@ -787,11 +787,11 @@
       "registry_name": "arp",
       "metadata": {
         "files": [
-          "src/main/resources/data/hota/worldgen/placed_feature/arp_tree.json",
-          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpTrunkDecorator.java",
-          "src/main/resources/data/hota/worldgen/biome/arp.json",
           "src/main/resources/data/hota/worldgen/configured_feature/arp_tree.json",
-          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpLeaveDecorator.java"
+          "src/main/resources/data/hota/worldgen/biome/arp.json",
+          "src/main/resources/data/hota/worldgen/placed_feature/arp_tree.json",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpLeaveDecorator.java",
+          "src/main/java/net/mcreator/ufd/world/features/treedecorators/ArpTrunkDecorator.java"
         ]
       }
     },
@@ -804,8 +804,8 @@
       "registry_name": "concertoftheancients",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/ConcertoftheancientsItem.java",
-          "src/main/resources/assets/hota/models/item/concertoftheancients.json"
+          "src/main/resources/assets/hota/models/item/concertoftheancients.json",
+          "src/main/java/net/mcreator/ufd/item/ConcertoftheancientsItem.java"
         ]
       }
     },
@@ -831,10 +831,10 @@
       "registry_name": "rustymetal",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/blockstates/rustymetal.json",
-          "src/main/resources/assets/hota/models/block/rustymetal.json",
+          "src/main/resources/assets/hota/models/item/rustymetal.json",
           "src/main/java/net/mcreator/ufd/block/RustymetalBlock.java",
-          "src/main/resources/assets/hota/models/item/rustymetal.json"
+          "src/main/resources/assets/hota/models/block/rustymetal.json",
+          "src/main/resources/assets/hota/blockstates/rustymetal.json"
         ]
       }
     },
@@ -847,10 +847,10 @@
       "registry_name": "rustymetal_2",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/blockstates/rustymetal_2.json",
-          "src/main/resources/assets/hota/models/item/rustymetal_2.json",
           "src/main/resources/assets/hota/models/block/rustymetal_2.json",
-          "src/main/java/net/mcreator/ufd/block/Rustymetal2Block.java"
+          "src/main/java/net/mcreator/ufd/block/Rustymetal2Block.java",
+          "src/main/resources/assets/hota/blockstates/rustymetal_2.json",
+          "src/main/resources/assets/hota/models/item/rustymetal_2.json"
         ]
       }
     },
@@ -876,8 +876,8 @@
       "registry_name": "vampireblade",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/VampirebladeItem.java",
-          "src/main/resources/assets/hota/models/item/vampireblade.json"
+          "src/main/resources/assets/hota/models/item/vampireblade.json",
+          "src/main/java/net/mcreator/ufd/item/VampirebladeItem.java"
         ]
       }
     },
@@ -890,9 +890,9 @@
       "registry_name": "vampirebiome",
       "metadata": {
         "files": [
-          "src/main/resources/data/hota/worldgen/biome/vampirebiome.json",
           "src/main/resources/data/hota/worldgen/configured_feature/vampirebiome_tree.json",
-          "src/main/resources/data/hota/worldgen/placed_feature/vampirebiome_tree.json"
+          "src/main/resources/data/hota/worldgen/placed_feature/vampirebiome_tree.json",
+          "src/main/resources/data/hota/worldgen/biome/vampirebiome.json"
         ]
       }
     },
@@ -928,8 +928,8 @@
       "registry_name": "katanaof_death",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/KatanaofDeathItem.java",
-          "src/main/resources/assets/hota/models/item/katanaof_death.json"
+          "src/main/resources/assets/hota/models/item/katanaof_death.json",
+          "src/main/java/net/mcreator/ufd/item/KatanaofDeathItem.java"
         ]
       }
     },
@@ -1035,8 +1035,8 @@
       "registry_name": "floweraxe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/floweraxe.json",
-          "src/main/java/net/mcreator/ufd/item/FloweraxeItem.java"
+          "src/main/java/net/mcreator/ufd/item/FloweraxeItem.java",
+          "src/main/resources/assets/hota/models/item/floweraxe.json"
         ]
       }
     },
@@ -1063,8 +1063,8 @@
       "registry_name": "flowershovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/flowershovel.json",
-          "src/main/java/net/mcreator/ufd/item/FlowershovelItem.java"
+          "src/main/java/net/mcreator/ufd/item/FlowershovelItem.java",
+          "src/main/resources/assets/hota/models/item/flowershovel.json"
         ]
       }
     },
@@ -1143,8 +1143,8 @@
       "registry_name": "metaloftheancients",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/MetaloftheancientsItem.java",
-          "src/main/resources/assets/hota/models/item/metaloftheancients.json"
+          "src/main/resources/assets/hota/models/item/metaloftheancients.json",
+          "src/main/java/net/mcreator/ufd/item/MetaloftheancientsItem.java"
         ]
       }
     },
@@ -1198,8 +1198,8 @@
       "registry_name": "thecoreofadyingstar",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/thecoreofadyingstar.json",
-          "src/main/java/net/mcreator/ufd/item/ThecoreofadyingstarItem.java"
+          "src/main/java/net/mcreator/ufd/item/ThecoreofadyingstarItem.java",
+          "src/main/resources/assets/hota/models/item/thecoreofadyingstar.json"
         ]
       }
     },
@@ -1293,8 +1293,8 @@
       "registry_name": "blackberry",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/blackberry.json",
-          "src/main/java/net/mcreator/ufd/item/BlackberryItem.java"
+          "src/main/java/net/mcreator/ufd/item/BlackberryItem.java",
+          "src/main/resources/assets/hota/models/item/blackberry.json"
         ]
       }
     },
@@ -1307,8 +1307,8 @@
       "registry_name": "cherry",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/cherry.json",
-          "src/main/java/net/mcreator/ufd/item/CherryItem.java"
+          "src/main/java/net/mcreator/ufd/item/CherryItem.java",
+          "src/main/resources/assets/hota/models/item/cherry.json"
         ]
       }
     },
@@ -1409,10 +1409,10 @@
       "registry_name": "eye",
       "metadata": {
         "files": [
-          "src/main/resources/data/hota/forge/biome_modifier/eye_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/EyeRenderer.java",
           "src/main/resources/assets/hota/models/item/eye_spawn_egg.json",
-          "src/main/java/net/mcreator/ufd/entity/EyeEntity.java",
-          "src/main/java/net/mcreator/ufd/client/renderer/EyeRenderer.java"
+          "src/main/resources/data/hota/forge/biome_modifier/eye_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/entity/EyeEntity.java"
         ]
       }
     },
@@ -1425,10 +1425,10 @@
       "registry_name": "thedarkmonk",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/thedarkmonk_spawn_egg.json",
+          "src/main/java/net/mcreator/ufd/client/renderer/ThedarkmonkRenderer.java",
           "src/main/java/net/mcreator/ufd/entity/ThedarkmonkEntity.java",
           "src/main/resources/data/hota/forge/biome_modifier/thedarkmonk_biome_modifier.json",
-          "src/main/java/net/mcreator/ufd/client/renderer/ThedarkmonkRenderer.java"
+          "src/main/resources/assets/hota/models/item/thedarkmonk_spawn_egg.json"
         ]
       }
     },
@@ -1441,8 +1441,8 @@
       "registry_name": "mechanicaleye",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/mechanicaleye_spawn_egg.json",
           "src/main/java/net/mcreator/ufd/client/renderer/MechanicaleyeRenderer.java",
+          "src/main/resources/assets/hota/models/item/mechanicaleye_spawn_egg.json",
           "src/main/resources/data/hota/forge/biome_modifier/mechanicaleye_biome_modifier.json",
           "src/main/java/net/mcreator/ufd/entity/MechanicaleyeEntity.java"
         ]
@@ -1516,10 +1516,10 @@
       "registry_name": "cherryfoliage",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/block/cherryfoliage.json",
           "src/main/java/net/mcreator/ufd/block/CherryfoliageBlock.java",
           "src/main/resources/assets/hota/models/item/cherryfoliage.json",
-          "src/main/resources/assets/hota/blockstates/cherryfoliage.json",
-          "src/main/resources/assets/hota/models/block/cherryfoliage.json"
+          "src/main/resources/assets/hota/blockstates/cherryfoliage.json"
         ]
       }
     },
@@ -1603,17 +1603,17 @@
       "metadata": {
         "ep": true,
         "files": [
-          "src/main/resources/assets/hota/models/item/ancientworld.json",
-          "src/main/resources/data/hota/dimension/ancientworld.json",
-          "src/main/java/net/mcreator/ufd/world/dimension/AncientworldDimension.java",
-          "src/main/resources/data/hota/dimension_type/ancientworld.json",
-          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldPortalShape.java",
-          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldTeleporter.java",
-          "src/main/java/net/mcreator/ufd/item/AncientworldItem.java",
-          "src/main/resources/assets/hota/models/block/ancientworld_portal_ew.json",
           "src/main/resources/assets/hota/blockstates/ancientworld_portal.json",
-          "src/main/resources/assets/hota/models/block/ancientworld_portal_ns.json",
-          "src/main/java/net/mcreator/ufd/block/AncientworldPortalBlock.java"
+          "src/main/resources/assets/hota/models/block/ancientworld_portal_ew.json",
+          "src/main/java/net/mcreator/ufd/item/AncientworldItem.java",
+          "src/main/resources/data/hota/dimension_type/ancientworld.json",
+          "src/main/resources/assets/hota/models/item/ancientworld.json",
+          "src/main/java/net/mcreator/ufd/world/dimension/AncientworldDimension.java",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldPortalShape.java",
+          "src/main/resources/data/hota/dimension/ancientworld.json",
+          "src/main/java/net/mcreator/ufd/world/teleporter/AncientworldTeleporter.java",
+          "src/main/java/net/mcreator/ufd/block/AncientworldPortalBlock.java",
+          "src/main/resources/assets/hota/models/block/ancientworld_portal_ns.json"
         ]
       }
     },
@@ -1626,8 +1626,8 @@
       "registry_name": "redstonestick",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/RedstonestickItem.java",
-          "src/main/resources/assets/hota/models/item/redstonestick.json"
+          "src/main/resources/assets/hota/models/item/redstonestick.json",
+          "src/main/java/net/mcreator/ufd/item/RedstonestickItem.java"
         ]
       }
     },
@@ -1640,8 +1640,8 @@
       "registry_name": "losfoliteberry",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/LosfoliteberryItem.java",
-          "src/main/resources/assets/hota/models/item/losfoliteberry.json"
+          "src/main/resources/assets/hota/models/item/losfoliteberry.json",
+          "src/main/java/net/mcreator/ufd/item/LosfoliteberryItem.java"
         ]
       }
     },
@@ -1696,9 +1696,9 @@
       "registry_name": "enchantedforest",
       "metadata": {
         "files": [
+          "src/main/resources/data/hota/worldgen/biome/enchantedforest.json",
           "src/main/resources/data/hota/worldgen/configured_feature/enchantedforest_tree.json",
-          "src/main/resources/data/hota/worldgen/placed_feature/enchantedforest_tree.json",
-          "src/main/resources/data/hota/worldgen/biome/enchantedforest.json"
+          "src/main/resources/data/hota/worldgen/placed_feature/enchantedforest_tree.json"
         ]
       }
     },
@@ -1737,9 +1737,9 @@
       "registry_name": "ent",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/entity/EntEntity.java",
+          "src/main/java/net/mcreator/ufd/client/renderer/EntRenderer.java",
           "src/main/resources/assets/hota/models/item/ent_spawn_egg.json",
-          "src/main/java/net/mcreator/ufd/client/renderer/EntRenderer.java"
+          "src/main/java/net/mcreator/ufd/entity/EntEntity.java"
         ]
       }
     },
@@ -1752,8 +1752,8 @@
       "registry_name": "entforest",
       "metadata": {
         "files": [
-          "src/main/resources/data/hota/worldgen/biome/entforest.json",
           "src/main/resources/data/hota/worldgen/placed_feature/entforest_tree.json",
+          "src/main/resources/data/hota/worldgen/biome/entforest.json",
           "src/main/resources/data/hota/worldgen/configured_feature/entforest_tree.json"
         ]
       }
@@ -1790,8 +1790,8 @@
       "registry_name": "heartent",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/heartent.json",
-          "src/main/java/net/mcreator/ufd/item/HeartentItem.java"
+          "src/main/java/net/mcreator/ufd/item/HeartentItem.java",
+          "src/main/resources/assets/hota/models/item/heartent.json"
         ]
       }
     },
@@ -1817,8 +1817,8 @@
       "registry_name": "splinterlosfolite",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/splinterlosfolite.json",
-          "src/main/java/net/mcreator/ufd/item/SplinterlosfoliteItem.java"
+          "src/main/java/net/mcreator/ufd/item/SplinterlosfoliteItem.java",
+          "src/main/resources/assets/hota/models/item/splinterlosfolite.json"
         ]
       }
     },
@@ -1831,13 +1831,13 @@
       "registry_name": "crystallosfolite",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/block/CrystallosfoliteBlock.java",
           "src/main/resources/assets/hota/models/item/crystallosfolite.json",
           "src/main/resources/assets/hota/models/block/crystallosfolite.json",
-          "src/main/resources/assets/hota/blockstates/crystallosfolite.json",
-          "src/main/resources/data/hota/worldgen/configured_feature/crystallosfolite.json",
           "src/main/resources/data/hota/worldgen/placed_feature/crystallosfolite.json",
-          "src/main/resources/data/hota/forge/biome_modifier/crystallosfolite_biome_modifier.json"
+          "src/main/resources/data/hota/forge/biome_modifier/crystallosfolite_biome_modifier.json",
+          "src/main/java/net/mcreator/ufd/block/CrystallosfoliteBlock.java",
+          "src/main/resources/data/hota/worldgen/configured_feature/crystallosfolite.json",
+          "src/main/resources/assets/hota/blockstates/crystallosfolite.json"
         ]
       }
     },
@@ -1998,8 +1998,8 @@
       "registry_name": "sandwich",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/sandwich.json",
-          "src/main/java/net/mcreator/ufd/item/SandwichItem.java"
+          "src/main/java/net/mcreator/ufd/item/SandwichItem.java",
+          "src/main/resources/assets/hota/models/item/sandwich.json"
         ]
       }
     },
@@ -2066,8 +2066,8 @@
       "registry_name": "losfolitepickaxe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/item/losfolitepickaxe.json",
-          "src/main/java/net/mcreator/ufd/item/LosfolitepickaxeItem.java"
+          "src/main/java/net/mcreator/ufd/item/LosfolitepickaxeItem.java",
+          "src/main/resources/assets/hota/models/item/losfolitepickaxe.json"
         ]
       }
     },
@@ -2177,8 +2177,8 @@
       "registry_name": "apsrsp",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/world/inventory/ApsrspMenu.java",
           "src/main/java/net/mcreator/ufd/network/ApsrspButtonMessage.java",
+          "src/main/java/net/mcreator/ufd/world/inventory/ApsrspMenu.java",
           "src/main/java/net/mcreator/ufd/client/gui/ApsrspScreen.java"
         ]
       }
@@ -2227,10 +2227,10 @@
       "registry_name": "sandbricks",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/ufd/block/SandbricksBlock.java",
           "src/main/resources/assets/hota/models/item/sandbricks.json",
           "src/main/resources/assets/hota/blockstates/sandbricks.json",
-          "src/main/resources/assets/hota/models/block/sandbricks.json",
-          "src/main/java/net/mcreator/ufd/block/SandbricksBlock.java"
+          "src/main/resources/assets/hota/models/block/sandbricks.json"
         ]
       }
     },
@@ -2243,8 +2243,8 @@
       "registry_name": "thundertrident",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/item/ThundertridentItem.java",
-          "src/main/resources/assets/hota/models/item/thundertrident.json"
+          "src/main/resources/assets/hota/models/item/thundertrident.json",
+          "src/main/java/net/mcreator/ufd/item/ThundertridentItem.java"
         ]
       }
     },
@@ -2257,9 +2257,9 @@
       "registry_name": "pharaoh",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/ufd/client/renderer/PharaohRenderer.java",
           "src/main/java/net/mcreator/ufd/entity/PharaohEntity.java",
-          "src/main/resources/assets/hota/models/item/pharaoh_spawn_egg.json",
-          "src/main/java/net/mcreator/ufd/client/renderer/PharaohRenderer.java"
+          "src/main/resources/assets/hota/models/item/pharaoh_spawn_egg.json"
         ]
       }
     },
@@ -2272,9 +2272,9 @@
       "registry_name": "crystal_log",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/block/crystal_log.json",
           "src/main/resources/assets/hota/blockstates/crystal_log.json",
           "src/main/java/net/mcreator/ufd/block/CrystalLogBlock.java",
-          "src/main/resources/assets/hota/models/block/crystal_log.json",
           "src/main/resources/assets/hota/models/item/crystal_log.json"
         ]
       }
@@ -2288,10 +2288,10 @@
       "registry_name": "crystal_planks",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/block/CrystalPlanksBlock.java",
-          "src/main/resources/assets/hota/models/block/crystal_planks.json",
+          "src/main/resources/assets/hota/models/item/crystal_planks.json",
           "src/main/resources/assets/hota/blockstates/crystal_planks.json",
-          "src/main/resources/assets/hota/models/item/crystal_planks.json"
+          "src/main/resources/assets/hota/models/block/crystal_planks.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalPlanksBlock.java"
         ]
       }
     },
@@ -2306,10 +2306,10 @@
         "files": [
           "src/main/resources/assets/hota/models/item/crystal_stairs.json",
           "src/main/resources/assets/hota/models/block/crystal_stairs_inner.json",
-          "src/main/resources/assets/hota/models/block/crystal_stairs_outer.json",
           "src/main/java/net/mcreator/ufd/block/CrystalStairsBlock.java",
-          "src/main/resources/assets/hota/models/block/crystal_stairs.json",
-          "src/main/resources/assets/hota/blockstates/crystal_stairs.json"
+          "src/main/resources/assets/hota/blockstates/crystal_stairs.json",
+          "src/main/resources/assets/hota/models/block/crystal_stairs_outer.json",
+          "src/main/resources/assets/hota/models/block/crystal_stairs.json"
         ]
       }
     },
@@ -2322,12 +2322,12 @@
       "registry_name": "crystal_slab",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/ufd/block/CrystalSlabBlock.java",
+          "src/main/resources/assets/hota/models/item/crystal_slab.json",
           "src/main/resources/assets/hota/models/block/crystal_slab_top.json",
-          "src/main/resources/assets/hota/models/block/crystal_slab.json",
           "src/main/resources/assets/hota/models/block/crystal_slab_full.json",
-          "src/main/resources/assets/hota/blockstates/crystal_slab.json",
-          "src/main/resources/assets/hota/models/item/crystal_slab.json"
+          "src/main/java/net/mcreator/ufd/block/CrystalSlabBlock.java",
+          "src/main/resources/assets/hota/models/block/crystal_slab.json",
+          "src/main/resources/assets/hota/blockstates/crystal_slab.json"
         ]
       }
     },
@@ -2340,12 +2340,12 @@
       "registry_name": "crystal_fence",
       "metadata": {
         "files": [
+          "src/main/resources/assets/hota/models/item/crystal_fence.json",
           "src/main/resources/assets/hota/blockstates/crystal_fence.json",
           "src/main/resources/assets/hota/models/block/crystal_fence.json",
-          "src/main/resources/assets/hota/models/item/crystal_fence.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_post.json",
           "src/main/resources/assets/hota/models/block/crystal_fence_inventory.json",
-          "src/main/java/net/mcreator/ufd/block/CrystalFenceBlock.java",
-          "src/main/resources/assets/hota/models/block/crystal_fence_post.json"
+          "src/main/java/net/mcreator/ufd/block/CrystalFenceBlock.java"
         ]
       }
     },
@@ -2358,13 +2358,13 @@
       "registry_name": "crystal_fence_gate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hota/models/block/crystal_fence_gate_open.json",
-          "src/main/resources/assets/hota/blockstates/crystal_fence_gate.json",
-          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall.json",
-          "src/main/java/net/mcreator/ufd/block/CrystalFenceGateBlock.java",
           "src/main/resources/assets/hota/models/item/crystal_fence_gate.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalFenceGateBlock.java",
+          "src/main/resources/assets/hota/blockstates/crystal_fence_gate.json",
           "src/main/resources/assets/hota/models/block/crystal_fence_gate.json",
-          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall_open.json"
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall_open.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_open.json",
+          "src/main/resources/assets/hota/models/block/crystal_fence_gate_wall.json"
         ]
       }
     },
@@ -2378,10 +2378,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/hota/blockstates/crystal_pressure_plate.json",
-          "src/main/resources/assets/hota/models/block/crystal_pressure_plate_down.json",
           "src/main/resources/assets/hota/models/block/crystal_pressure_plate.json",
-          "src/main/resources/assets/hota/models/item/crystal_pressure_plate.json",
-          "src/main/java/net/mcreator/ufd/block/CrystalPressurePlateBlock.java"
+          "src/main/resources/assets/hota/models/block/crystal_pressure_plate_down.json",
+          "src/main/java/net/mcreator/ufd/block/CrystalPressurePlateBlock.java",
+          "src/main/resources/assets/hota/models/item/crystal_pressure_plate.json"
         ]
       }
     },
@@ -4413,10 +4413,10 @@
       "item.hota.pharaoh_spawn_egg": "Яйцо спавна фараона",
       "block.upgrade.crystalleaves": "Crystalleaves",
       "item.minecraft.potion.effect.berry_power": "Potion of Berry Power",
-      "biome.hota.entforest": "Ent forest",
+      "biome.hota.entforest": "Лес Энта",
       "block.hota.crystal_fence": "Кристальный забор",
-      "item.hota.eye_spawn_egg": "Яйцо спавна глаза",
       "biome.upgrade.vampirebiome": "Vampirebiome",
+      "item.hota.eye_spawn_egg": "Яйцо спавна глаза",
       "effect.hj": "fire",
       "item.upgrade.infernalmetal": "Infernalmetal",
       "item.minecraft.lingering_potion.effect.firepotion": "Lingering Potion of Firepotion",
@@ -4434,9 +4434,9 @@
       "block.hota.crystal_pressure_plate": "Кристальная нажимная плита",
       "item.minecraft.lingering_potion.effect.berry_power": "Lingering Potion of Berry Power",
       "item.upgrade.darkmetalingot": "Darkmetalingot",
-      "block.hota.cherryfoliage": "Листва вишни",
-      "item.hota.losfolitepickaxe": "Топор из лосфолита",
       "block.hota.xy": "Vayf",
+      "item.hota.losfolitepickaxe": "Топор из лосфолита",
+      "block.hota.cherryfoliage": "Листва вишни",
       "subtitles.wasteland_of_the_ancients": "",
       "block.hota.crystal_button": "Кристальная кнопка",
       "item.upgrade.stickstonegth": "Stickstonegth",
@@ -4444,7 +4444,7 @@
       "block.hota.crystal_planks": "Кристальные доски",
       "biome.hota.plainsofabyss": "Plainsofabyss",
       "entity.upgrade.eye": "Eye",
-      "biome.hota.vampirebiome": "Vampire biome",
+      "biome.hota.vampirebiome": "Биом Вампира",
       "item.ufd.stickstonegth": "Stickstonegth",
       "enchantment.hota.godblood": "Кровь богов",
       "item.ufd.bluestrengthshovel": "Bluestrengthshovel",
@@ -4460,7 +4460,7 @@
       "item.hota.katanaof_death": "Катана смерти",
       "item.hota.heavenlyhammer": "Небесный молот",
       "item.hota.darkmetalhamer": "Молот из тёмной стали",
-      "biome.hota.enchantedforest": "Enchanted forest",
+      "biome.hota.enchantedforest": "Зачарованный Лес",
       "gui.hota.ukayv.button_cook": "Cook",
       "entity.upgrade.thedarkmonk": "Thedarkmonk",
       "block.hota.fdsfsiezhievika": "Vayf",
@@ -4469,7 +4469,7 @@
       "item.hota.blackberry": "Смородина",
       "block.hota.holy_planks": "Святые доски",
       "block.upgrade.crystalwood": "Crystal wood",
-      "advancements.theoldworld.descr": "Enter the ancient world",
+      "advancements.theoldworld.descr": "Зайти в древний мир",
       "item.hota.oldredstounsworld": "меч из древнего редстоуна",
       "biome.hota.coalbeach": "Qqq",
       "biome.hota.berryplain": "Berryplain",
@@ -4525,7 +4525,7 @@
       "item.upgrade.infernalsword": "Infernalsword",
       "item.hota.thestarofinfinitespace": "Звезда бесконечного космоса",
       "item.upgrade.flowerpickaxe": "Flowerpickaxe",
-      "biome.hota.crystalbiome": "Crystal biome",
+      "biome.hota.crystalbiome": "Кристальный биом",
       "item.hota.heartent": "Сердце энта",
       "item.hota.darkmetalingot": "слиток тёмной стали",
       "enchantment.hota.thewrathofhell": "Гнев ада",
@@ -4628,7 +4628,7 @@
       "item.upgrade.thedarkmonk_spawn_egg": "Thedarkmonk Spawn Egg",
       "item.upgrade.thestarofinfinitespace": "Thestarofinfinitespace",
       "item.upgrade.heavenlyhammer": "Heavenlyhammer",
-      "biome.hota.arp": "forest of the ancients",
+      "biome.hota.arp": "Древний лес",
       "item.hota.currant": "Черника",
       "itemGroup.tabrelics": "Реликвии",
       "item.upgrade.redstonestick": "Redstonestick",
@@ -4665,9 +4665,9 @@
       "item.ufd.stonegth": "Stonegth",
       "item.upgrade.oldredstounshovel": "Oldredstounshovel",
       "item.upgrade.fanofcelestialstars": "Fanofcelestialstars",
-      "advancements.thepowerofheaven.descr": "Get the heavenly metal",
+      "advancements.thepowerofheaven.descr": "Получить небесный металл",
       "item.upgrade.stonegth": "Stonegth",
-      "advancements.helloworld.descr": "Enter the world",
+      "advancements.helloworld.descr": "Зайти в созданный мир",
       "item.hota.heavenlysword": "Меч из небесного металла",
       "item.hota.infernalhammer": "Молот из адского металла",
       "block.hota.rustymetal": "Ржавый металл",
@@ -4762,7 +4762,7 @@
       "enchantment.hota.godblood": "god blood",
       "item.hota.infernalmetal": "Infernalmetal",
       "item.ufd.bluestrengthshovel": "Bluestrengthshovel",
-      "item.hota.chargedmetaloftheancients": "Chargedmetaloftheancients",
+      "item.hota.chargedmetaloftheancients": "§#18923Charged metal of the Ancients",
       "item.ufd.infernalmetal": "Infernalmetal",
       "entity.hota.ent": "Ent",
       "biome.upgrade.qqq": "Qqq",
@@ -4770,7 +4770,7 @@
       "biome.upgrade.arp": "forest of the ancients",
       "item.hota.stickstonegth": "Stickstonegth",
       "item.ufd.heavenlymetal": "Heavenlymetal",
-      "item.hota.katanaof_death": "Katana of Death",
+      "item.hota.katanaof_death": "§4Katana of Death",
       "item.hota.heavenlyhammer": "Heavenlyhammer",
       "item.hota.darkmetalhamer": "Darkmetalhammer",
       "biome.hota.enchantedforest": "Enchanted forest",
@@ -4819,7 +4819,7 @@
       "effect.bleeding": "bleeding",
       "biome.hota.ancientmounties": "Ancientmounties",
       "item.hota.vampire_spawn_egg": "Vampire Spawn Egg",
-      "item.hota.redstonestick": "Redstonestick",
+      "item.hota.redstonestick": "Redstone stick",
       "item.hota.losfoliteberry": "Losfoliteberry",
       "item.ufd.oldredstounhammer": "Oldredstounhammer",
       "item.upgrade.concertoftheancients": "Concertoftheancients",
@@ -4832,10 +4832,10 @@
       "item.upgrade.flowershovel": "Flowershovel",
       "item.minecraft.potion.effect.ancientwater": "Bottle of Ancient water",
       "item.ufd.bluestrengthsword": "Bluestrengthsword",
-      "painting.hota.working.author": "Unknown",
+      "painting.hota.working.author": "ZeMineProject",
       "item.upgrade.vampireblade": "Vampireblade",
       "item.upgrade.infernalsword": "Infernalsword",
-      "item.hota.thestarofinfinitespace": "Thestarofinfinitespace",
+      "item.hota.thestarofinfinitespace": "§6The star of §finfinite space",
       "item.upgrade.flowerpickaxe": "Flowerpickaxe",
       "biome.hota.crystalbiome": "Crystal biome",
       "item.hota.heartent": "Heart ent",
@@ -4848,7 +4848,7 @@
       "item.upgrade.floweraxe": "Flower axe",
       "item.upgrade.darkmetalsword": "Darkmetalsword",
       "item.upgrade.chargedmetaloftheancients": "Chargedmetaloftheancients",
-      "item.hota.thundertrident": "Thundertrident",
+      "item.hota.thundertrident": "Thunder trident",
       "item.hota.mossypig_spawn_egg": "Mossy pig Spawn Egg",
       "item_group.hota.relics": "Relics",
       "item.hota.edibleroots": "Edible roots",
@@ -4906,8 +4906,8 @@
       "advancements.helloworld.title": "Hello world!",
       "biome.upgrade.mechanizedwastelandoftheancients": "wasteland of the ancients",
       "item.upgrade.oldredstounhammer": "Oldredstounhammer",
-      "item.hota.fanofcelestialstars": "Fanofcelestialstars",
-      "item.hota.concertoftheancients": "Concertoftheancients",
+      "item.hota.fanofcelestialstars": "§9Fan of celestial stars",
+      "item.hota.concertoftheancients": "§eConcert of the Ancients",
       "item.ufd.darkmetalshovel": "Darkmetalshovel",
       "block.hota.holy_leaves": "Holy_ Leaves",
       "block.hota.mosscobblestone": "Mosscobblestone",
@@ -4916,7 +4916,7 @@
       "subtitles.zvuk_mshystogo_pokrova": "",
       "item.hota.oldredstoun": "Oldredstoun",
       "item.hota.stonegth": "Stonegth",
-      "item.hota.vampireblade": "Vampireblade",
+      "item.hota.vampireblade": "§cVampire blade",
       "biome.hota.mechanizedwastelandoftheancients": "wasteland of the ancients",
       "block.hota.vayf": "Vayf",
       "item.hota.ancientworld": "Ancientworld Portal Igniter",
@@ -4952,7 +4952,7 @@
       "enchantment.ufd.godblood": "god blood",
       "gui.hota.ukayv.label_beta": "BETA",
       "block.hota.holy_log": "Holy_ Log",
-      "item.hota.thedestroyerofnature": "The destroyer of nature",
+      "item.hota.thedestroyerofnature": "§aThe destroyer of nature",
       "block.hota.fsdfgholubika": "Vayf",
       "item.hota.ent_spawn_egg": "Ent Spawn Egg",
       "item.upgrade.thecoreofadyingstar": "Thecoreofadyingstar",
@@ -4968,7 +4968,7 @@
       "enchantment.upgrade.godblood": "god blood",
       "item.hota.boilededibleroots": "Boiled edible roots",
       "item.hota.mossy_horror_spawn_egg": "Mossy Horror Spawn Egg",
-      "item.hota.metaloftheancients": "Metaloftheancients",
+      "item.hota.metaloftheancients": "§#e48a0cMetal of the Ancients",
       "item.upgrade.stonegthshovel": "Stonegthshovel",
       "item.upgrade.berrysalad": "Berrysalad",
       "item.upgrade.flowersword": "Flowersword",
@@ -4995,7 +4995,7 @@
       "block.hota.sdfdfdsiezhievika": "Vayf",
       "block.hota.holy_fence": "Holy_ Fence",
       "block.hota.holy_fence_gate": "Holy_ Fence Gate",
-      "item.hota.thecoreofadyingstar": "Thecoreofadyingstar",
+      "item.hota.thecoreofadyingstar": "The core of a dying star",
       "entity.hota.swarmoffireflies": "Swarm of fireflies",
       "block.hota.crystal_stairs": "Crystal Stairs",
       "entity.hota.carnivorousflower": "Carnivorous flower",

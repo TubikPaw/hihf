@@ -8,7 +8,7 @@
     "texture": "3cb9a3ba9936afc1",
     "customModelName": "23f11714bee4b386:default",
     "blockingModelName": "Normal blocking",
-    "name": "Thundertrident",
+    "name": "Thunder trident",
     "specialInformation": {
       "fixedValue": []
     },
@@ -22,6 +22,9 @@
     "damageVsEntity": 4.0,
     "usageCount": 1000,
     "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
     "repairItems": [
       {
         "value": "Items.TRIDENT"

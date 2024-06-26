@@ -80,6 +80,9 @@
         "value": "Blocks.NETHER_GOLD_ORE"
       }
     ],
+    "glowCondition": {
+      "fixedValue": false
+    },
     "repairItems": [],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,

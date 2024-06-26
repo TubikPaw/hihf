@@ -8,7 +8,7 @@
     "texture": "sprite-0005",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
-    "name": "The destroyer of nature",
+    "name": "§aThe destroyer of nature",
     "specialInformation": {
       "fixedValue": []
     },
@@ -20,8 +20,11 @@
     "attackSpeed": 1.0,
     "enchantability": 1,
     "damageVsEntity": 4.5,
-    "usageCount": 10,
+    "usageCount": 1590,
     "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
     "repairItems": [],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,

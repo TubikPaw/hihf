@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Chargedmetaloftheancients",
+    "name": "§#18923Charged metal of the Ancients",
     "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:Relics"
@@ -37,6 +37,9 @@
     "inventoryStackSize": 64,
     "enableRanged": false,
     "shootConstantly": false,
+    "projectile": {
+      "value": "CUSTOM:TruewoodenswordProjectile"
+    },
     "isFood": false,
     "nutritionalValue": 4,
     "saturation": 0.3,

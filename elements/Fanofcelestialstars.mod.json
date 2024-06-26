@@ -8,7 +8,7 @@
     "texture": "c9844cf365703f26",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
-    "name": "Fanofcelestialstars",
+    "name": "§9Fan of celestial stars",
     "specialInformation": {
       "fixedValue": [
         "Звёздная сила обладающим этим орудием смерти... Надеюсь",
@@ -25,6 +25,9 @@
     "damageVsEntity": 50.0,
     "usageCount": 15920,
     "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
     "repairItems": [],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
