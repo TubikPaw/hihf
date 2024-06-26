@@ -4363,6 +4363,19 @@
           "src/main/resources/assets/hota/models/item/mossy_horror_spawn_egg.json"
         ]
       }
+    },
+    {
+      "name": "Ims",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ims",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hota/recipes/ims.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -4415,8 +4428,8 @@
       "item.minecraft.potion.effect.berry_power": "Potion of Berry Power",
       "biome.hota.entforest": "Ent forest",
       "block.hota.crystal_fence": "Кристальный забор",
-      "item.hota.eye_spawn_egg": "Яйцо спавна глаза",
       "biome.upgrade.vampirebiome": "Vampirebiome",
+      "item.hota.eye_spawn_egg": "Яйцо спавна глаза",
       "effect.hj": "fire",
       "item.upgrade.infernalmetal": "Infernalmetal",
       "item.minecraft.lingering_potion.effect.firepotion": "Lingering Potion of Firepotion",
@@ -4434,9 +4447,9 @@
       "block.hota.crystal_pressure_plate": "Кристальная нажимная плита",
       "item.minecraft.lingering_potion.effect.berry_power": "Lingering Potion of Berry Power",
       "item.upgrade.darkmetalingot": "Darkmetalingot",
-      "block.hota.cherryfoliage": "Листва вишни",
-      "item.hota.losfolitepickaxe": "Топор из лосфолита",
       "block.hota.xy": "Vayf",
+      "item.hota.losfolitepickaxe": "Топор из лосфолита",
+      "block.hota.cherryfoliage": "Листва вишни",
       "subtitles.wasteland_of_the_ancients": "",
       "block.hota.crystal_button": "Кристальная кнопка",
       "item.upgrade.stickstonegth": "Stickstonegth",
@@ -4726,11 +4739,11 @@
     "en_us": {
       "item.hota.pharaoh_spawn_egg": "Pharaoh Spawn Egg",
       "block.upgrade.crystalleaves": "Crystalleaves",
-      "biome.hota.entforest": "Entforest",
       "item.minecraft.potion.effect.berry_power": "Potion of Berry Power",
+      "biome.hota.entforest": "Entforest",
       "block.hota.crystal_fence": "Crystal Fence",
-      "biome.upgrade.vampirebiome": "Vampirebiome",
       "item.hota.eye_spawn_egg": "Eye Spawn Egg",
+      "biome.upgrade.vampirebiome": "Vampirebiome",
       "effect.hj": "fire",
       "item.upgrade.infernalmetal": "Infernalmetal",
       "item.minecraft.lingering_potion.effect.firepotion": "Lingering Potion of Firepotion",
@@ -4747,9 +4760,9 @@
       "block.hota.crystal_pressure_plate": "Crystal Pressure Plate",
       "item.minecraft.lingering_potion.effect.berry_power": "Lingering Potion of Berry Power",
       "item.upgrade.darkmetalingot": "Darkmetalingot",
-      "item.hota.losfolitepickaxe": "Losfolitepickaxe",
-      "block.hota.cherryfoliage": "Cherryfoliage",
       "block.hota.xy": "Vayf",
+      "block.hota.cherryfoliage": "Cherryfoliage",
+      "item.hota.losfolitepickaxe": "Losfolitepickaxe",
       "subtitles.wasteland_of_the_ancients": "",
       "block.hota.crystal_button": "Crystal Button",
       "item.upgrade.stickstonegth": "Stickstonegth",
