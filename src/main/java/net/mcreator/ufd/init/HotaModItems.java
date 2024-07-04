@@ -51,6 +51,7 @@ import net.mcreator.ufd.item.HeavenlyswordItem;
 import net.mcreator.ufd.item.HeavenlymetalItem;
 import net.mcreator.ufd.item.HeavenlyhammerItem;
 import net.mcreator.ufd.item.HeartentItem;
+import net.mcreator.ufd.item.GalaxyCutterItem;
 import net.mcreator.ufd.item.FlowerswordItem;
 import net.mcreator.ufd.item.FlowershovelItem;
 import net.mcreator.ufd.item.FlowerpickaxeItem;
@@ -199,6 +200,7 @@ public class HotaModItems {
 	public static final RegistryObject<Item> ABYSS = REGISTRY.register("abyss", () -> new AbyssItem());
 	public static final RegistryObject<Item> TRASHER = REGISTRY.register("trasher", () -> new TrasherItem());
 	public static final RegistryObject<Item> MOSSY_HORROR_SPAWN_EGG = REGISTRY.register("mossy_horror_spawn_egg", () -> new ForgeSpawnEggItem(HotaModEntities.MOSSY_HORROR, -16764160, -13421824, new Item.Properties()));
+	public static final RegistryObject<Item> GALAXY_CUTTER = REGISTRY.register("galaxy_cutter", () -> new GalaxyCutterItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

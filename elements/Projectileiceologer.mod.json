@@ -6,6 +6,21 @@
     "mobLabel": "",
     "mobModelName": "Modelsnaryad_ledologa",
     "mobModelTexture": "123.png",
+    "transparentModelCondition": {
+      "fixedValue": false
+    },
+    "isShakingCondition": {
+      "fixedValue": false
+    },
+    "solidBoundingBox": {
+      "fixedValue": false
+    },
+    "visualScale": {
+      "fixedValue": 1.0
+    },
+    "boundingBoxScale": {
+      "fixedValue": 1.0
+    },
     "modelLayers": [],
     "modelWidth": 0.4,
     "modelHeight": 0.7,
@@ -57,6 +72,9 @@
     "health": 1,
     "xpAmount": 0,
     "waterMob": false,
+    "breatheUnderwater": {
+      "fixedValue": false
+    },
     "pushedByFluids": {
       "fixedValue": true
     },

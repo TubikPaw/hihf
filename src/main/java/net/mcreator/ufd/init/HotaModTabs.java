@@ -100,6 +100,7 @@ public class HotaModTabs {
 				tabData.accept(HotaModItems.THEDESTROYEROFNATURE.get());
 				tabData.accept(HotaModItems.ABYSS.get());
 				tabData.accept(HotaModItems.TRASHER.get());
+				tabData.accept(HotaModItems.GALAXY_CUTTER.get());
 			}).withSearchBar().build());
 	public static final RegistryObject<CreativeModeTab> FEED = REGISTRY.register("feed",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.hota.feed")).icon(() -> new ItemStack(HotaModItems.BERRYSALAD.get())).displayItems((parameters, tabData) -> {
