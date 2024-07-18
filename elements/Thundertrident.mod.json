@@ -5,7 +5,7 @@
     "toolType": "Sword",
     "renderType": 1,
     "blockingRenderType": 0,
-    "texture": "3cb9a3ba9936afc1",
+    "texture": "8",
     "customModelName": "23f11714bee4b386:default",
     "blockingModelName": "Normal blocking",
     "name": "Thunder trident",
@@ -17,10 +17,10 @@
     },
     "harvestLevel": 1,
     "efficiency": 4.0,
-    "attackSpeed": 8.0,
+    "attackSpeed": 9.5,
     "enchantability": 2,
     "damageVsEntity": 4.0,
-    "usageCount": 1000,
+    "usageCount": 1564,
     "blocksAffected": [],
     "glowCondition": {
       "fixedValue": false

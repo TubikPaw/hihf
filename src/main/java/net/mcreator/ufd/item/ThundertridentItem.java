@@ -20,7 +20,7 @@ public class ThundertridentItem extends SwordItem {
 	public ThundertridentItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 1000;
+				return 1564;
 			}
 
 			public float getSpeed() {
@@ -42,7 +42,7 @@ public class ThundertridentItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.TRIDENT));
 			}
-		}, 3, 4f, new Item.Properties());
+		}, 3, 5.5f, new Item.Properties());
 	}
 
 	@Override
