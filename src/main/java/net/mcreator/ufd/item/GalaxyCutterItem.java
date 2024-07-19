@@ -24,7 +24,7 @@ public class GalaxyCutterItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 117775f;
+				return 2147483647f;
 			}
 
 			public int getLevel() {
