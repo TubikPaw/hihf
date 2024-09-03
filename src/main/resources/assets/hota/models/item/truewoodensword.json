@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "hota:item/gfodgkfdogkfdopkg"
+    "layer0": "hota:item/56"
   },
   "display": {
     "thirdperson_righthand": {
