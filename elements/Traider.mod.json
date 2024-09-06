@@ -1,0 +1,58 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 141,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lapvakshchzieknieu9apu0_1.png",
+          "use1Xscale": false,
+          "x": 142,
+          "y": 54
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "buy",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Luijkgfhasd"
+          },
+          "width": 25,
+          "height": 20,
+          "x": 136,
+          "y": 74
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

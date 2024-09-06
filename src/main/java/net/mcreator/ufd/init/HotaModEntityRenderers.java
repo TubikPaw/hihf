@@ -16,6 +16,7 @@ import net.mcreator.ufd.client.renderer.ThedarkmonkRenderer;
 import net.mcreator.ufd.client.renderer.SwarmoffirefliesRenderer;
 import net.mcreator.ufd.client.renderer.ProjectileiceologerRenderer;
 import net.mcreator.ufd.client.renderer.PharaohRenderer;
+import net.mcreator.ufd.client.renderer.OdditiesTraderRenderer;
 import net.mcreator.ufd.client.renderer.MossypigRenderer;
 import net.mcreator.ufd.client.renderer.MossyHorrorRenderer;
 import net.mcreator.ufd.client.renderer.MechanicaleyeRenderer;
@@ -42,5 +43,6 @@ public class HotaModEntityRenderers {
 		event.registerEntityRenderer(HotaModEntities.SPARKLINGSWORD_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.TRUEWOODENSWORD_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.MOSSY_HORROR.get(), MossyHorrorRenderer::new);
+		event.registerEntityRenderer(HotaModEntities.ODDITIES_TRADER.get(), OdditiesTraderRenderer::new);
 	}
 }

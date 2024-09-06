@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "hota:bluestrenght"
+    },
+    "title": {
+      "translate": "advancements.new_materials.title"
+    },
+    "description": {
+      "translate": "advancements.new_materials.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "new_materials": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "hota:helloworld"
+}

@@ -77,6 +77,7 @@ import net.mcreator.ufd.item.BloodyfragmentItem;
 import net.mcreator.ufd.item.BlackberryItem;
 import net.mcreator.ufd.item.BerrysaladItem;
 import net.mcreator.ufd.item.AncientworldItem;
+import net.mcreator.ufd.item.AncientCoinItem;
 import net.mcreator.ufd.item.AbyssItem;
 import net.mcreator.ufd.HotaMod;
 
@@ -201,6 +202,8 @@ public class HotaModItems {
 	public static final RegistryObject<Item> TRASHER = REGISTRY.register("trasher", () -> new TrasherItem());
 	public static final RegistryObject<Item> MOSSY_HORROR_SPAWN_EGG = REGISTRY.register("mossy_horror_spawn_egg", () -> new ForgeSpawnEggItem(HotaModEntities.MOSSY_HORROR, -16764160, -13421824, new Item.Properties()));
 	public static final RegistryObject<Item> GALAXY_CUTTER = REGISTRY.register("galaxy_cutter", () -> new GalaxyCutterItem());
+	public static final RegistryObject<Item> ANCIENT_COIN = REGISTRY.register("ancient_coin", () -> new AncientCoinItem());
+	public static final RegistryObject<Item> ODDITIES_TRADER_SPAWN_EGG = REGISTRY.register("oddities_trader_spawn_egg", () -> new ForgeSpawnEggItem(HotaModEntities.ODDITIES_TRADER, -16763905, -13312, new Item.Properties()));
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

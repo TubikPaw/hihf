@@ -13,7 +13,7 @@
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "CUSTOM:Relics"
+      "value": "No creative tab entry"
     },
     "harvestLevel": 0,
     "efficiency": 0.0,
@@ -28,6 +28,9 @@
     "repairItems": [],
     "immuneToFire": true,
     "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false
+    "damageOnCrafting": false,
+    "onItemInInventoryTick": {
+      "name": "Churkabliat"
+    }
   }
 }

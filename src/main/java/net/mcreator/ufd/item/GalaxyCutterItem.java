@@ -8,7 +8,10 @@ import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.entity.Entity;
 import net.minecraft.network.chat.Component;
+
+import net.mcreator.ufd.procedures.ChurkabliatProcedure;
 
 import java.util.List;
 
@@ -24,7 +27,7 @@ public class GalaxyCutterItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 2147483647f;
+				return 117789.7f;
 			}
 
 			public int getLevel() {
@@ -44,5 +47,11 @@ public class GalaxyCutterItem extends SwordItem {
 	@Override
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
+	}
+
+	@Override
+	public void inventoryTick(ItemStack itemstack, Level world, Entity entity, int slot, boolean selected) {
+		super.inventoryTick(itemstack, world, entity, slot, selected);
+		ChurkabliatProcedure.execute(entity);
 	}
 }

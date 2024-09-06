@@ -23,6 +23,7 @@ import net.mcreator.ufd.entity.SwarmoffirefliesEntity;
 import net.mcreator.ufd.entity.SparklingswordProjectileEntity;
 import net.mcreator.ufd.entity.ProjectileiceologerEntity;
 import net.mcreator.ufd.entity.PharaohEntity;
+import net.mcreator.ufd.entity.OdditiesTraderEntity;
 import net.mcreator.ufd.entity.MossypigEntity;
 import net.mcreator.ufd.entity.MossyHorrorEntity;
 import net.mcreator.ufd.entity.MechanicaleyeEntity;
@@ -87,6 +88,10 @@ public class HotaModEntities {
 			EntityType.Builder.<MossyHorrorEntity>of(MossyHorrorEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(MossyHorrorEntity::new)
 
 					.sized(0.6f, 2.3f));
+	public static final RegistryObject<EntityType<OdditiesTraderEntity>> ODDITIES_TRADER = register("oddities_trader",
+			EntityType.Builder.<OdditiesTraderEntity>of(OdditiesTraderEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(OdditiesTraderEntity::new)
+
+					.sized(0.6f, 1.8f));
 
 	private static <T extends Entity> RegistryObject<EntityType<T>> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
 		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(registryname));
@@ -107,6 +112,7 @@ public class HotaModEntities {
 			IceologerEntity.init();
 			ProjectileiceologerEntity.init();
 			MossyHorrorEntity.init();
+			OdditiesTraderEntity.init();
 		});
 	}
 
@@ -124,5 +130,6 @@ public class HotaModEntities {
 		event.put(ICEOLOGER.get(), IceologerEntity.createAttributes().build());
 		event.put(PROJECTILEICEOLOGER.get(), ProjectileiceologerEntity.createAttributes().build());
 		event.put(MOSSY_HORROR.get(), MossyHorrorEntity.createAttributes().build());
+		event.put(ODDITIES_TRADER.get(), OdditiesTraderEntity.createAttributes().build());
 	}
 }
