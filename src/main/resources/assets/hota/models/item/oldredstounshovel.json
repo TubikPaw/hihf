@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "hota:item/image_16"
+    "layer0": "hota:item/67"
   }
 }

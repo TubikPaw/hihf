@@ -5,7 +5,7 @@
     "toolType": "Pickaxe",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "2",
+    "texture": "7",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "name": "Heavenlyhammer",

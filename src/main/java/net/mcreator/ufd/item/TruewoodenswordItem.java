@@ -3,7 +3,6 @@ package net.mcreator.ufd.item;
 
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.Level;
-import net.minecraft.world.item.UseAnim;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ProjectileWeaponItem;
@@ -30,12 +29,12 @@ import com.google.common.collect.ImmutableMultimap;
 
 public class TruewoodenswordItem extends Item {
 	public TruewoodenswordItem() {
-		super(new Item.Properties().durability(1400).rarity(Rarity.COMMON));
+		super(new Item.Properties().durability(1456).rarity(Rarity.COMMON));
 	}
 
 	@Override
-	public UseAnim getUseAnimation(ItemStack itemstack) {
-		return UseAnim.BOW;
+	public int getEnchantmentValue() {
+		return 16;
 	}
 
 	@Override
@@ -45,7 +44,7 @@ public class TruewoodenswordItem extends Item {
 
 	@Override
 	public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
-		return 0f;
+		return 1.5f;
 	}
 
 	@Override

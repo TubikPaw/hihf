@@ -5,7 +5,7 @@
     "toolType": "Spade",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "image_16",
+    "texture": "67",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "name": "Old redstone shovel",
