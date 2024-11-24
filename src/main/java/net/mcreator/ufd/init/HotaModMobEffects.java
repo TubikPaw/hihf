@@ -4,12 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.effect.MobEffect;
-
 import net.mcreator.ufd.potion.HjMobEffect;
 import net.mcreator.ufd.potion.BleedingMobEffect;
 import net.mcreator.ufd.HotaMod;

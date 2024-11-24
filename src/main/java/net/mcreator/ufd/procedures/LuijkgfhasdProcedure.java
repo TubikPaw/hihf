@@ -1,10 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.inventory.Slot;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.Entity;
-
 import net.mcreator.ufd.network.HotaModVariables;
 import net.mcreator.ufd.init.HotaModItems;
 
@@ -24,7 +19,7 @@ public class LuijkgfhasdProcedure {
 				});
 			}
 			if (entity instanceof Player _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
-				ItemStack _setstack = new ItemStack(HotaModItems.ABYSS.get());
+				ItemStack _setstack = new ItemStack(HotaModItems.ABYSS.get()).copy();
 				_setstack.setCount(1);
 				((Slot) _slots.get(0)).set(_setstack);
 				_player.containerMenu.broadcastChanges();

@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "livingentity",
   "definition": {
     "mobName": "Vampire",
@@ -35,9 +35,11 @@
       "value": -65536,
       "falpha": 0.0
     },
-    "creativeTab": {
-      "value": "MISC"
-    },
+    "creativeTabs": [
+      {
+        "value": "MISC"
+      }
+    ],
     "isBoss": false,
     "bossBarColor": "PINK",
     "bossBarType": "PROGRESS",
@@ -139,6 +141,15 @@
         "value": "CUSTOM:Vampirebiome"
       }
     ],
-    "spawnInDungeons": false
+    "spawnInDungeons": false,
+    "raidSpawnsCount": [
+      4,
+      3,
+      3,
+      4,
+      4,
+      4,
+      2
+    ]
   }
 }

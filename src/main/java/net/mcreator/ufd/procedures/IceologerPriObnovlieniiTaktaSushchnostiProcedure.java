@@ -1,11 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.entity.MobSpawnType;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.server.level.ServerLevel;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.init.HotaModEntities;
 
 import java.util.Calendar;

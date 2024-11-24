@@ -15,7 +15,7 @@
     "hidden": false
   },
   "criteria": {
-    "who_needs_a_nezerite": {
+    "who_needs_a_nezerite_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [

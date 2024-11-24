@@ -1,14 +1,14 @@
 {
   "replace": false,
   "values": [
-    "minecraft:stone",
-    "minecraft:grass_block",
-    "minecraft:dirt",
-    "minecraft:coal_ore",
-    "minecraft:coarse_dirt",
-    "minecraft:bubble_column",
-    "minecraft:water",
     "minecraft:sculk",
-    "minecraft:sculk_sensor"
+    "minecraft:sculk_sensor",
+    "minecraft:bubble_column",
+    "minecraft:stone",
+    "minecraft:coal_ore",
+    "minecraft:water",
+    "minecraft:coarse_dirt",
+    "minecraft:dirt",
+    "minecraft:grass_block"
   ]
 }

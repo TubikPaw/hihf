@@ -4,14 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.item.alchemy.Potion;
-import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.effect.MobEffectInstance;
-
 import net.mcreator.ufd.HotaMod;
 
 public class HotaModPotions {

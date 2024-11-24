@@ -1,11 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.effect.MobEffectInstance;
-
 public class U9Procedure {
 	public static void execute(Entity sourceentity) {
 		if (sourceentity == null)

@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "block",
   "definition": {
     "texture": "crystal_log_top",
@@ -41,9 +41,11 @@
     "resistance": 3.0576595837437544,
     "hasGravity": false,
     "isWaterloggable": false,
-    "creativeTab": {
-      "value": "CUSTOM:Upgrademod"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgrademod"
+      }
+    ],
     "destroyTool": "axe",
     "customDrop": {
       "value": ""
@@ -100,7 +102,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 0,
+    "vanillaToolTier": "NONE",
     "isBonemealable": false,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",

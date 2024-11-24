@@ -1,6 +1,7 @@
 {
   "parent": "block/slab_top",
   "textures": {
+    "particle": "hota:block/crystal_planks",
     "bottom": "hota:block/crystal_planks",
     "top": "hota:block/crystal_planks",
     "side": "hota:block/crystal_planks"

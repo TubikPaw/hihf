@@ -1,6 +1,7 @@
 {
   "parent": "block/button_inventory",
   "textures": {
+    "particle": "hota:block/holy__planks",
     "texture": "hota:block/holy__planks"
   },
   "render_type": "solid"

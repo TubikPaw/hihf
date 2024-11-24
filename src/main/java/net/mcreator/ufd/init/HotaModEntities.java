@@ -4,18 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.event.entity.EntityAttributeCreationEvent;
-
-import net.minecraft.world.entity.MobCategory;
-import net.minecraft.world.entity.EntityType;
-import net.minecraft.world.entity.Entity;
-
 import net.mcreator.ufd.entity.VampireEntity;
 import net.mcreator.ufd.entity.TruewoodenswordProjectileEntity;
 import net.mcreator.ufd.entity.ThedarkmonkEntity;
@@ -78,11 +66,11 @@ public class HotaModEntities {
 			EntityType.Builder.<ProjectileiceologerEntity>of(ProjectileiceologerEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(1).setUpdateInterval(3).setCustomClientFactory(ProjectileiceologerEntity::new)
 
 					.sized(0.4f, 0.7f));
-	public static final RegistryObject<EntityType<SparklingswordProjectileEntity>> SPARKLINGSWORD_PROJECTILE = register("projectile_sparklingsword_projectile",
-			EntityType.Builder.<SparklingswordProjectileEntity>of(SparklingswordProjectileEntity::new, MobCategory.MISC).setCustomClientFactory(SparklingswordProjectileEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
-					.setUpdateInterval(1).sized(0.5f, 0.5f));
-	public static final RegistryObject<EntityType<TruewoodenswordProjectileEntity>> TRUEWOODENSWORD_PROJECTILE = register("projectile_truewoodensword_projectile",
+	public static final RegistryObject<EntityType<TruewoodenswordProjectileEntity>> TRUEWOODENSWORD_PROJECTILE = register("truewoodensword_projectile",
 			EntityType.Builder.<TruewoodenswordProjectileEntity>of(TruewoodenswordProjectileEntity::new, MobCategory.MISC).setCustomClientFactory(TruewoodenswordProjectileEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
+					.setUpdateInterval(1).sized(0.5f, 0.5f));
+	public static final RegistryObject<EntityType<SparklingswordProjectileEntity>> SPARKLINGSWORD_PROJECTILE = register("sparklingsword_projectile",
+			EntityType.Builder.<SparklingswordProjectileEntity>of(SparklingswordProjectileEntity::new, MobCategory.MISC).setCustomClientFactory(SparklingswordProjectileEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
 					.setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final RegistryObject<EntityType<MossyHorrorEntity>> MOSSY_HORROR = register("mossy_horror",
 			EntityType.Builder.<MossyHorrorEntity>of(MossyHorrorEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(MossyHorrorEntity::new)

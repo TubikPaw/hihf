@@ -1,15 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraftforge.items.IItemHandlerModifiable;
-import net.minecraftforge.common.capabilities.ForgeCapabilities;
-
-import net.minecraft.world.level.block.entity.BlockEntity;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.init.HotaModItems;
 
 import java.util.concurrent.atomic.AtomicReference;
@@ -252,7 +242,7 @@ public class IerknProcedure {
 				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
 				if (_ent != null) {
 					final int _slotid = 9;
-					final ItemStack _setstack = new ItemStack(HotaModItems.SANDWICH.get());
+					final ItemStack _setstack = new ItemStack(HotaModItems.SANDWICH.get()).copy();
 					_setstack.setCount((int) (new Object() {
 						public int getAmount(LevelAccessor world, BlockPos pos, int slotid) {
 							AtomicInteger _retval = new AtomicInteger(0);

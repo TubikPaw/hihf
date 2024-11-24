@@ -16,7 +16,7 @@
     "hidden": false
   },
   "criteria": {
-    "helloworld": {
+    "helloworld_0": {
       "trigger": "minecraft:tick"
     }
   },

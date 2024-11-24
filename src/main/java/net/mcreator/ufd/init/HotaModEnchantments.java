@@ -4,12 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.item.enchantment.Enchantment;
-
 import net.mcreator.ufd.enchantment.ThewrathofhellEnchantment;
 import net.mcreator.ufd.enchantment.ThewrathofheavenEnchantment;
 import net.mcreator.ufd.enchantment.GodbloodEnchantment;

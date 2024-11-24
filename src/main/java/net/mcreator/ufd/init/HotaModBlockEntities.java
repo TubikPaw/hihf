@@ -4,13 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.level.block.entity.BlockEntityType;
-import net.minecraft.world.level.block.Block;
-
 import net.mcreator.ufd.block.entity.TestBlockEntity;
 import net.mcreator.ufd.HotaMod;
 

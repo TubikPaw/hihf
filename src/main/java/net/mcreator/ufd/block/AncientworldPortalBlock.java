@@ -1,31 +1,6 @@
 
 package net.mcreator.ufd.block;
 
-import org.checkerframework.checker.units.qual.s;
-
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.world.level.material.PushReaction;
-import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.block.SoundType;
-import net.minecraft.world.level.block.NetherPortalBlock;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.level.Level;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.util.RandomSource;
-import net.minecraft.sounds.SoundSource;
-import net.minecraft.server.level.ServerLevel;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.resources.ResourceKey;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.core.particles.ParticleTypes;
-import net.minecraft.core.Direction;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.world.teleporter.AncientworldTeleporter;
 import net.mcreator.ufd.world.teleporter.AncientworldPortalShape;
 
@@ -37,7 +12,7 @@ public class AncientworldPortalBlock extends NetherPortalBlock {
 	}
 
 	@Override
-	public void randomTick(BlockState state, ServerLevel world, BlockPos pos, RandomSource random) {
+	public void randomTick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {
 	}
 
 	public static void portalSpawn(Level world, BlockPos pos) {
@@ -47,14 +22,7 @@ public class AncientworldPortalBlock extends NetherPortalBlock {
 		}
 	}
 
-	@Override
-	public BlockState updateShape(BlockState p_54928_, Direction p_54929_, BlockState p_54930_, LevelAccessor p_54931_, BlockPos p_54932_, BlockPos p_54933_) {
-		Direction.Axis direction$axis = p_54929_.getAxis();
-		Direction.Axis direction$axis1 = p_54928_.getValue(AXIS);
-		boolean flag = direction$axis1 != direction$axis && direction$axis.isHorizontal();
-		return !flag && !p_54930_.is(this) && !(new AncientworldPortalShape(p_54931_, p_54932_, direction$axis1)).isComplete() ? Blocks.AIR.defaultBlockState() : super.updateShape(p_54928_, p_54929_, p_54930_, p_54931_, p_54932_, p_54933_);
-	}
-
+	@Override /* failed to load code for net.minecraft.world.level.block.NetherPortalBlock */
 	@OnlyIn(Dist.CLIENT)
 	@Override
 	public void animateTick(BlockState state, Level world, BlockPos pos, RandomSource random) {

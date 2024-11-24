@@ -1,9 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.world.effect.MobEffectInstance;
-
 import net.mcreator.ufd.init.HotaModMobEffects;
 
 public class ThedarkmonkKoghdaSushchnostRanienaProcedure {

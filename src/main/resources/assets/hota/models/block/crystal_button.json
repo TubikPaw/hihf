@@ -1,6 +1,7 @@
 {
   "parent": "block/button",
   "textures": {
+    "particle": "hota:block/crystal_planks",
     "texture": "hota:block/crystal_planks"
   },
   "render_type": "solid"

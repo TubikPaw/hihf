@@ -1,9 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.Entity;
-
 import net.mcreator.ufd.init.HotaModItems;
 
 public class ChurkabliatProcedure {

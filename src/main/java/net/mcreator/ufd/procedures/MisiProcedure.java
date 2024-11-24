@@ -1,15 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraftforge.items.IItemHandlerModifiable;
-import net.minecraftforge.common.capabilities.ForgeCapabilities;
-
-import net.minecraft.world.level.block.entity.BlockEntity;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.init.HotaModItems;
 
 import java.util.concurrent.atomic.AtomicReference;
@@ -106,7 +96,7 @@ public class MisiProcedure {
 				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
 				if (_ent != null) {
 					final int _slotid = 2;
-					final ItemStack _setstack = new ItemStack(HotaModItems.CHARGEDMETALOFTHEANCIENTS.get());
+					final ItemStack _setstack = new ItemStack(HotaModItems.CHARGEDMETALOFTHEANCIENTS.get()).copy();
 					_setstack.setCount((int) (new Object() {
 						public int getAmount(LevelAccessor world, BlockPos pos, int slotid) {
 							AtomicInteger _retval = new AtomicInteger(0);
@@ -212,7 +202,7 @@ public class MisiProcedure {
 				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
 				if (_ent != null) {
 					final int _slotid = 2;
-					final ItemStack _setstack = new ItemStack(Items.MUSHROOM_STEW);
+					final ItemStack _setstack = new ItemStack(Items.MUSHROOM_STEW).copy();
 					_setstack.setCount((int) (new Object() {
 						public int getAmount(LevelAccessor world, BlockPos pos, int slotid) {
 							AtomicInteger _retval = new AtomicInteger(0);
@@ -318,7 +308,7 @@ public class MisiProcedure {
 				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
 				if (_ent != null) {
 					final int _slotid = 2;
-					final ItemStack _setstack = new ItemStack(Items.BEETROOT_SOUP);
+					final ItemStack _setstack = new ItemStack(Items.BEETROOT_SOUP).copy();
 					_setstack.setCount((int) (new Object() {
 						public int getAmount(LevelAccessor world, BlockPos pos, int slotid) {
 							AtomicInteger _retval = new AtomicInteger(0);

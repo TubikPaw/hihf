@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "tool",
   "definition": {
     "toolType": "Spade",
@@ -12,21 +12,23 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "creativeTab": {
-      "value": "CUSTOM:Upgrademod"
-    },
-    "harvestLevel": 3,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgrademod"
+      }
+    ],
     "efficiency": 7.0,
     "attackSpeed": 1.0,
     "enchantability": 4,
     "damageVsEntity": 4.0,
     "usageCount": 1350,
-    "blocksAffected": [],
     "glowCondition": {
       "fixedValue": false
     },
     "repairItems": [],
     "immuneToFire": false,
+    "blockDropsTier": "DIAMOND",
+    "blocksAffected": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

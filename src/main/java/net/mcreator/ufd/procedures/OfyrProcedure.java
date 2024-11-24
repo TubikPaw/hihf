@@ -1,13 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.server.level.ServerPlayer;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.advancements.AdvancementProgress;
-import net.minecraft.advancements.Advancement;
-
 import net.mcreator.ufd.init.HotaModItems;
 
 public class OfyrProcedure {

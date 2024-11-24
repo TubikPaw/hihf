@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "dimension",
   "definition": {
     "biomesInDimension": [
@@ -60,12 +60,15 @@
     },
     "enableIgniter": true,
     "igniterName": "Ancientworld Portal Igniter",
+    "igniterRarity": "COMMON",
     "specialInformation": {
       "fixedValue": []
     },
-    "igniterTab": {
-      "value": "TOOLS"
-    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
     "texture": "zaghruzhieno_1",
     "portalTexture": "nhuyigui",
     "enablePortal": true

@@ -15,7 +15,7 @@
     "hidden": false
   },
   "criteria": {
-    "theoldworld": {
+    "theoldworld_0": {
       "trigger": "minecraft:changed_dimension",
       "conditions": {
         "to": "hota:ancientworld"

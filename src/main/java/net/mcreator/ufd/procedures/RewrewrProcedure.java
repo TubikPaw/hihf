@@ -1,12 +1,5 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.item.ItemEntity;
-import net.minecraft.server.level.ServerLevel;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.init.HotaModItems;
 import net.mcreator.ufd.init.HotaModBlocks;
 

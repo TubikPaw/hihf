@@ -1,14 +1,16 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "musicdisc",
   "definition": {
     "name": "§eConcert of the Ancients",
     "rarity": "RARE",
     "texture": "the_plate_of_the_ancients",
     "description": "the concert of the ancients is recorded on this record",
-    "creativeTab": {
-      "value": "CUSTOM:Relics"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Relics"
+      }
+    ],
     "specialInformation": {
       "fixedValue": []
     },

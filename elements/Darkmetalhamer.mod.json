@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "tool",
   "definition": {
     "toolType": "Pickaxe",
@@ -12,15 +12,22 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "creativeTab": {
-      "value": "CUSTOM:Upgrademod"
-    },
-    "harvestLevel": 3,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgrademod"
+      }
+    ],
     "efficiency": 7.0,
     "attackSpeed": 1.0,
     "enchantability": 0,
     "damageVsEntity": 2.0,
     "usageCount": 1350,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "DIAMOND",
     "blocksAffected": [
       {
         "value": "Blocks.LOG"
@@ -77,11 +84,6 @@
         "value": "Blocks.NETHER_GOLD_ORE"
       }
     ],
-    "glowCondition": {
-      "fixedValue": false
-    },
-    "repairItems": [],
-    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "livingentity",
   "definition": {
     "mobName": "Swarm of fireflies",
@@ -25,6 +25,7 @@
       {
         "model": "Default",
         "texture": "oghvnu.png",
+        "disableHurtOverlay": false,
         "glow": true
       }
     ],
@@ -41,9 +42,11 @@
       "value": -1024,
       "falpha": 0.0
     },
-    "creativeTab": {
-      "value": "MISC"
-    },
+    "creativeTabs": [
+      {
+        "value": "MISC"
+      }
+    ],
     "isBoss": false,
     "bossBarColor": "PINK",
     "bossBarType": "PROGRESS",
@@ -145,6 +148,15 @@
         "value": "CUSTOM:Mossycover"
       }
     ],
-    "spawnInDungeons": false
+    "spawnInDungeons": false,
+    "raidSpawnsCount": [
+      4,
+      3,
+      3,
+      4,
+      4,
+      4,
+      2
+    ]
   }
 }

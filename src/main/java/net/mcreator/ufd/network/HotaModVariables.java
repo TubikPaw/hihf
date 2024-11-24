@@ -1,29 +1,6 @@
 package net.mcreator.ufd.network;
 
-import net.minecraftforge.network.PacketDistributor;
-import net.minecraftforge.network.NetworkEvent;
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.event.entity.player.PlayerEvent;
-import net.minecraftforge.event.AttachCapabilitiesEvent;
-import net.minecraftforge.common.util.LazyOptional;
-import net.minecraftforge.common.util.FakePlayer;
-import net.minecraftforge.common.capabilities.RegisterCapabilitiesEvent;
-import net.minecraftforge.common.capabilities.ICapabilitySerializable;
-import net.minecraftforge.common.capabilities.CapabilityToken;
-import net.minecraftforge.common.capabilities.CapabilityManager;
-import net.minecraftforge.common.capabilities.Capability;
-
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.server.level.ServerPlayer;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.nbt.Tag;
-import net.minecraft.nbt.CompoundTag;
-import net.minecraft.core.Direction;
-import net.minecraft.client.Minecraft;
 
 import net.mcreator.ufd.HotaMod;
 
@@ -116,8 +93,8 @@ public class HotaModVariables {
 			return nbt;
 		}
 
-		public void readNBT(Tag Tag) {
-			CompoundTag nbt = (CompoundTag) Tag;
+		public void readNBT(Tag tag) {
+			CompoundTag nbt = (CompoundTag) tag;
 			Old_money = nbt.getDouble("Old_money");
 		}
 	}

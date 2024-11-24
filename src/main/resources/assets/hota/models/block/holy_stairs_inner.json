@@ -1,6 +1,7 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
+    "particle": "hota:block/holy__planks",
     "bottom": "hota:block/holy__planks",
     "top": "hota:block/holy__planks",
     "side": "hota:block/holy__planks"

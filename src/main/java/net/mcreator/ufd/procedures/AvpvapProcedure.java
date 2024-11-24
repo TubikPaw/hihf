@@ -1,34 +1,11 @@
 package net.mcreator.ufd.procedures;
 
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
-import net.minecraftforge.event.entity.player.PlayerInteractEvent;
-
-import net.minecraft.world.level.Level;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.projectile.WitherSkull;
-import net.minecraft.world.entity.projectile.ThrownExperienceBottle;
-import net.minecraft.world.entity.projectile.ThrownEgg;
-import net.minecraft.world.entity.projectile.SpectralArrow;
-import net.minecraft.world.entity.projectile.Snowball;
-import net.minecraft.world.entity.projectile.Projectile;
-import net.minecraft.world.entity.projectile.LlamaSpit;
-import net.minecraft.world.entity.projectile.LargeFireball;
-import net.minecraft.world.entity.projectile.DragonFireball;
-import net.minecraft.world.entity.projectile.Arrow;
-import net.minecraft.world.entity.projectile.AbstractHurtingProjectile;
-import net.minecraft.world.entity.projectile.AbstractArrow;
-import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.entity.EntityType;
-import net.minecraft.world.entity.Entity;
 
 import net.mcreator.ufd.init.HotaModItems;
 import net.mcreator.ufd.init.HotaModEntities;
 import net.mcreator.ufd.entity.TruewoodenswordProjectileEntity;
 import net.mcreator.ufd.entity.SparklingswordProjectileEntity;
-
-import javax.annotation.Nullable;
 
 @Mod.EventBusSubscriber
 public class AvpvapProcedure {

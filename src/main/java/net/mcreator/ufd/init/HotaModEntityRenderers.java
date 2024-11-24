@@ -4,13 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.client.event.EntityRenderersEvent;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.client.renderer.entity.ThrownItemRenderer;
-
 import net.mcreator.ufd.client.renderer.VampireRenderer;
 import net.mcreator.ufd.client.renderer.ThedarkmonkRenderer;
 import net.mcreator.ufd.client.renderer.SwarmoffirefliesRenderer;
@@ -40,8 +33,8 @@ public class HotaModEntityRenderers {
 		event.registerEntityRenderer(HotaModEntities.SWARMOFFIREFLIES.get(), SwarmoffirefliesRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.ICEOLOGER.get(), IceologerRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.PROJECTILEICEOLOGER.get(), ProjectileiceologerRenderer::new);
-		event.registerEntityRenderer(HotaModEntities.SPARKLINGSWORD_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.TRUEWOODENSWORD_PROJECTILE.get(), ThrownItemRenderer::new);
+		event.registerEntityRenderer(HotaModEntities.SPARKLINGSWORD_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.MOSSY_HORROR.get(), MossyHorrorRenderer::new);
 		event.registerEntityRenderer(HotaModEntities.ODDITIES_TRADER.get(), OdditiesTraderRenderer::new);
 	}

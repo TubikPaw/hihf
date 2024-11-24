@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "tool",
   "definition": {
     "toolType": "Sword",
@@ -14,21 +14,23 @@
         "Улучшенная версия Вампирского клинка! Вы можете украсть жизнь врага. Если неправильно использовать это оружие смерти то вы моментально попращаетесь со своей жалкой жизью!"
       ]
     },
-    "creativeTab": {
-      "value": "CUSTOM:Relics"
-    },
-    "harvestLevel": 12,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Relics"
+      }
+    ],
     "efficiency": 0.0,
     "attackSpeed": 54.0,
     "enchantability": 2,
     "damageVsEntity": 50.0,
     "usageCount": 212,
-    "blocksAffected": [],
     "glowCondition": {
       "fixedValue": true
     },
     "repairItems": [],
     "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "onEntityHitWith": {

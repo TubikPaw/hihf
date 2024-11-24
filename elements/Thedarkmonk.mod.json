@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "livingentity",
   "definition": {
     "mobName": "Thedarkmonk",
@@ -35,9 +35,11 @@
       "value": -14413312,
       "falpha": 0.0
     },
-    "creativeTab": {
-      "value": "MISC"
-    },
+    "creativeTabs": [
+      {
+        "value": "MISC"
+      }
+    ],
     "isBoss": true,
     "bossBarColor": "PINK",
     "bossBarType": "NOTCHED_20",
@@ -145,6 +147,15 @@
         "value": "CUSTOM:Vampirebiome"
       }
     ],
-    "spawnInDungeons": false
+    "spawnInDungeons": false,
+    "raidSpawnsCount": [
+      4,
+      3,
+      3,
+      4,
+      4,
+      4,
+      2
+    ]
   }
 }

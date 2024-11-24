@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "dimension",
   "definition": {
     "biomesInDimension": [
@@ -33,12 +33,15 @@
     },
     "enableIgniter": true,
     "igniterName": "Totem of abyss",
+    "igniterRarity": "COMMON",
     "specialInformation": {
       "fixedValue": []
     },
-    "igniterTab": {
-      "value": "CUSTOM:Relics"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Relics"
+      }
+    ],
     "texture": "totem_of_abyss",
     "portalTexture": "portal_v_bezdnu",
     "enablePortal": true

@@ -1,21 +1,10 @@
 package net.mcreator.ufd.client.gui;
 
-import net.minecraft.world.level.Level;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.player.Inventory;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.network.chat.Component;
-import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
-import net.minecraft.client.gui.components.Button;
-import net.minecraft.client.gui.GuiGraphics;
-
 import net.mcreator.ufd.world.inventory.TraiderMenu;
 import net.mcreator.ufd.network.TraiderButtonMessage;
 import net.mcreator.ufd.HotaMod;
 
 import java.util.HashMap;
-
-import com.mojang.blaze3d.systems.RenderSystem;
 
 public class TraiderScreen extends AbstractContainerScreen<TraiderMenu> {
 	private final static HashMap<String, Object> guistate = TraiderMenu.guistate;
@@ -66,17 +55,7 @@ public class TraiderScreen extends AbstractContainerScreen<TraiderMenu> {
 	}
 
 	@Override
-	public void containerTick() {
-		super.containerTick();
-	}
-
-	@Override
 	protected void renderLabels(GuiGraphics guiGraphics, int mouseX, int mouseY) {
-	}
-
-	@Override
-	public void onClose() {
-		super.onClose();
 	}
 
 	@Override

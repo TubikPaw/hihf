@@ -1,39 +1,12 @@
 
 package net.mcreator.ufd.block;
 
-import net.minecraft.world.phys.shapes.VoxelShape;
-import net.minecraft.world.phys.shapes.Shapes;
-import net.minecraft.world.phys.shapes.CollisionContext;
-import net.minecraft.world.phys.HitResult;
-import net.minecraft.world.level.storage.loot.LootParams;
-import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.block.SoundType;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.Level;
-import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.TooltipFlag;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.util.RandomSource;
-import net.minecraft.server.level.ServerLevel;
-import net.minecraft.network.chat.Component;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.procedures.BliatProcedure;
 import net.mcreator.ufd.init.HotaModItems;
-
-import java.util.List;
-import java.util.Collections;
 
 public class LohmalinaBlock extends Block {
 	public LohmalinaBlock() {
 		super(BlockBehaviour.Properties.of().sound(SoundType.GRASS).strength(0.1f, 0.5f).noCollission().noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
-	}
-
-	@Override
-	public void appendHoverText(ItemStack itemstack, BlockGetter world, List<Component> list, TooltipFlag flag) {
-		super.appendHoverText(itemstack, world, list, flag);
 	}
 
 	@Override
@@ -54,14 +27,6 @@ public class LohmalinaBlock extends Block {
 	@Override
 	public ItemStack getCloneItemStack(BlockState state, HitResult target, BlockGetter world, BlockPos pos, Player player) {
 		return new ItemStack(HotaModItems.RASPBERRY.get());
-	}
-
-	@Override
-	public List<ItemStack> getDrops(BlockState state, LootParams.Builder builder) {
-		List<ItemStack> dropsOriginal = super.getDrops(state, builder);
-		if (!dropsOriginal.isEmpty())
-			return dropsOriginal;
-		return Collections.singletonList(new ItemStack(this, 1));
 	}
 
 	@Override

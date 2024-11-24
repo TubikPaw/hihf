@@ -4,13 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.sounds.SoundEvent;
-import net.minecraft.resources.ResourceLocation;
-
 import net.mcreator.ufd.HotaMod;
 
 public class HotaModSounds {

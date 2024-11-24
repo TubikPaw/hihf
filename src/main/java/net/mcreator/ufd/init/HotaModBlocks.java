@@ -4,12 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.level.block.Block;
-
 import net.mcreator.ufd.block.XyBlock;
 import net.mcreator.ufd.block.VcvxvgholubikaBlock;
 import net.mcreator.ufd.block.VayfBlock;
@@ -104,4 +98,6 @@ public class HotaModBlocks {
 	public static final RegistryObject<Block> SDFDFDSIEZHIEVIKA = REGISTRY.register("sdfdfdsiezhievika", () -> new SdfdfdsiezhievikaBlock());
 	public static final RegistryObject<Block> TEST = REGISTRY.register("test", () -> new TestBlock());
 	public static final RegistryObject<Block> ABYSS_PORTAL = REGISTRY.register("abyss_portal", () -> new AbyssPortalBlock());
+	// Start of user code block custom blocks
+	// End of user code block custom blocks
 }

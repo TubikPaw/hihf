@@ -1,28 +1,11 @@
 
 package net.mcreator.ufd.item;
 
-import net.minecraft.world.level.Level;
-import net.minecraft.world.item.context.UseOnContext;
-import net.minecraft.world.item.TooltipFlag;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.InteractionResult;
-import net.minecraft.network.chat.Component;
-import net.minecraft.core.BlockPos;
-
 import net.mcreator.ufd.block.AncientworldPortalBlock;
-
-import java.util.List;
 
 public class AncientworldItem extends Item {
 	public AncientworldItem() {
-		super(new Item.Properties().durability(64));
-	}
-
-	@Override
-	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
-		super.appendHoverText(itemstack, world, list, flag);
+		super(new Item.Properties().rarity(Rarity.COMMON).durability(64));
 	}
 
 	@Override

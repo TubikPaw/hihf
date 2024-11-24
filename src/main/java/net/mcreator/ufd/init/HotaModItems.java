@@ -4,15 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.common.ForgeSpawnEggItem;
-
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.BlockItem;
-
 import net.mcreator.ufd.item.VampirebladeItem;
 import net.mcreator.ufd.item.TruewoodenswordItem;
 import net.mcreator.ufd.item.TrasherItem;
@@ -84,37 +75,37 @@ import net.mcreator.ufd.HotaMod;
 public class HotaModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, HotaMod.MODID);
 	public static final RegistryObject<Item> DARKMETALINGOT = REGISTRY.register("darkmetalingot", () -> new DarkmetalingotItem());
-	public static final RegistryObject<Item> DARKMETALSWORD = REGISTRY.register("darkmetalsword", () -> new DarkmetalswordItem());
-	public static final RegistryObject<Item> DARKMETALSHOVEL = REGISTRY.register("darkmetalshovel", () -> new DarkmetalshovelItem());
-	public static final RegistryObject<Item> DARKMETALHAMER = REGISTRY.register("darkmetalhamer", () -> new DarkmetalhamerItem());
 	public static final RegistryObject<Item> OLDREDSTOUN = REGISTRY.register("oldredstoun", () -> new OldredstounItem());
+	public static final RegistryObject<Item> DARKMETALSWORD = REGISTRY.register("darkmetalsword", () -> new DarkmetalswordItem());
+	public static final RegistryObject<Item> DARKMETALHAMER = REGISTRY.register("darkmetalhamer", () -> new DarkmetalhamerItem());
+	public static final RegistryObject<Item> DARKMETALSHOVEL = REGISTRY.register("darkmetalshovel", () -> new DarkmetalshovelItem());
+	public static final RegistryObject<Item> INFERNALMETAL = REGISTRY.register("infernalmetal", () -> new InfernalmetalItem());
 	public static final RegistryObject<Item> OLDREDSTOUNSWORLD = REGISTRY.register("oldredstounsworld", () -> new OldredstounsworldItem());
 	public static final RegistryObject<Item> OLDREDSTOUNSHOVEL = REGISTRY.register("oldredstounshovel", () -> new OldredstounshovelItem());
 	public static final RegistryObject<Item> OLDREDSTOUNHAMMER = REGISTRY.register("oldredstounhammer", () -> new OldredstounhammerItem());
-	public static final RegistryObject<Item> BLUESTRENGHT = REGISTRY.register("bluestrenght", () -> new BluestrenghtItem());
 	public static final RegistryObject<Item> BLUESTRENGTHSWORD = REGISTRY.register("bluestrengthsword", () -> new BluestrengthswordItem());
 	public static final RegistryObject<Item> BLUESTRENGTHSHOVEL = REGISTRY.register("bluestrengthshovel", () -> new BluestrengthshovelItem());
 	public static final RegistryObject<Item> BLUESTRENGTHHAMMER = REGISTRY.register("bluestrengthhammer", () -> new BluestrengthhammerItem());
+	public static final RegistryObject<Item> HEAVENLYMETAL = REGISTRY.register("heavenlymetal", () -> new HeavenlymetalItem());
+	public static final RegistryObject<Item> BLUESTRENGHT = REGISTRY.register("bluestrenght", () -> new BluestrenghtItem());
 	public static final RegistryObject<Item> STONEGTH = REGISTRY.register("stonegth", () -> new StonegthItem());
 	public static final RegistryObject<Item> STICKSTONEGTH = REGISTRY.register("stickstonegth", () -> new StickstonegthItem());
 	public static final RegistryObject<Item> STONEGTHHAMMER = REGISTRY.register("stonegthhammer", () -> new StonegthhammerItem());
 	public static final RegistryObject<Item> STONEGTHSWORD = REGISTRY.register("stonegthsword", () -> new StonegthswordItem());
 	public static final RegistryObject<Item> STONEGTHSHOVEL = REGISTRY.register("stonegthshovel", () -> new StonegthshovelItem());
-	public static final RegistryObject<Item> HEAVENLYMETAL = REGISTRY.register("heavenlymetal", () -> new HeavenlymetalItem());
 	public static final RegistryObject<Item> HEAVENLYSWORD = REGISTRY.register("heavenlysword", () -> new HeavenlyswordItem());
 	public static final RegistryObject<Item> HEAVENLYHAMMER = REGISTRY.register("heavenlyhammer", () -> new HeavenlyhammerItem());
-	public static final RegistryObject<Item> INFERNALMETAL = REGISTRY.register("infernalmetal", () -> new InfernalmetalItem());
 	public static final RegistryObject<Item> INFERNALSWORD = REGISTRY.register("infernalsword", () -> new InfernalswordItem());
 	public static final RegistryObject<Item> INFERNALHAMMER = REGISTRY.register("infernalhammer", () -> new InfernalhammerItem());
-	public static final RegistryObject<Item> FLOWERSWORD = REGISTRY.register("flowersword", () -> new FlowerswordItem());
-	public static final RegistryObject<Item> FLOWERSHOVEL = REGISTRY.register("flowershovel", () -> new FlowershovelItem());
-	public static final RegistryObject<Item> FLOWERPICKAXE = REGISTRY.register("flowerpickaxe", () -> new FlowerpickaxeItem());
-	public static final RegistryObject<Item> FLOWERAXE = REGISTRY.register("floweraxe", () -> new FloweraxeItem());
 	public static final RegistryObject<Item> CONCERTOFTHEANCIENTS = REGISTRY.register("concertoftheancients", () -> new ConcertoftheancientsItem());
 	public static final RegistryObject<Item> RUSTYMETAL = block(HotaModBlocks.RUSTYMETAL);
 	public static final RegistryObject<Item> RUSTYMETAL_2 = block(HotaModBlocks.RUSTYMETAL_2);
 	public static final RegistryObject<Item> VAMPIREBLADE = REGISTRY.register("vampireblade", () -> new VampirebladeItem());
 	public static final RegistryObject<Item> KATANAOF_DEATH = REGISTRY.register("katanaof_death", () -> new KatanaofDeathItem());
+	public static final RegistryObject<Item> FLOWERAXE = REGISTRY.register("floweraxe", () -> new FloweraxeItem());
+	public static final RegistryObject<Item> FLOWERPICKAXE = REGISTRY.register("flowerpickaxe", () -> new FlowerpickaxeItem());
+	public static final RegistryObject<Item> FLOWERSHOVEL = REGISTRY.register("flowershovel", () -> new FlowershovelItem());
+	public static final RegistryObject<Item> FLOWERSWORD = REGISTRY.register("flowersword", () -> new FlowerswordItem());
 	public static final RegistryObject<Item> METALOFTHEANCIENTS = REGISTRY.register("metaloftheancients", () -> new MetaloftheancientsItem());
 	public static final RegistryObject<Item> CHARGEDMETALOFTHEANCIENTS = REGISTRY.register("chargedmetaloftheancients", () -> new ChargedmetaloftheancientsItem());
 	public static final RegistryObject<Item> FANOFCELESTIALSTARS = REGISTRY.register("fanofcelestialstars", () -> new FanofcelestialstarsItem());
@@ -202,9 +193,11 @@ public class HotaModItems {
 	public static final RegistryObject<Item> TRASHER = REGISTRY.register("trasher", () -> new TrasherItem());
 	public static final RegistryObject<Item> MOSSY_HORROR_SPAWN_EGG = REGISTRY.register("mossy_horror_spawn_egg", () -> new ForgeSpawnEggItem(HotaModEntities.MOSSY_HORROR, -16764160, -13421824, new Item.Properties()));
 	public static final RegistryObject<Item> GALAXY_CUTTER = REGISTRY.register("galaxy_cutter", () -> new GalaxyCutterItem());
-	public static final RegistryObject<Item> ANCIENT_COIN = REGISTRY.register("ancient_coin", () -> new AncientCoinItem());
 	public static final RegistryObject<Item> ODDITIES_TRADER_SPAWN_EGG = REGISTRY.register("oddities_trader_spawn_egg", () -> new ForgeSpawnEggItem(HotaModEntities.ODDITIES_TRADER, -16763905, -13312, new Item.Properties()));
+	public static final RegistryObject<Item> ANCIENT_COIN = REGISTRY.register("ancient_coin", () -> new AncientCoinItem());
 
+	// Start of user code block custom items
+	// End of user code block custom items
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
 	}

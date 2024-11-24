@@ -15,7 +15,7 @@
     "hidden": false
   },
   "criteria": {
-    "thelandofmoss": {
+    "thelandofmoss_0": {
       "trigger": "minecraft:location",
       "conditions": {
         "player": [

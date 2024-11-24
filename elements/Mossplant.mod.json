@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "plant",
   "definition": {
     "renderType": 12,
@@ -32,9 +32,11 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "creativeTab": {
-      "value": "CUSTOM:Upgrademod"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgrademod"
+      }
+    ],
     "hardness": 0.1,
     "resistance": 0.5,
     "luminance": 0,

@@ -4,13 +4,6 @@
  */
 package net.mcreator.ufd.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.common.extensions.IForgeMenuType;
-
-import net.minecraft.world.inventory.MenuType;
-
 import net.mcreator.ufd.world.inventory.UkayvMenu;
 import net.mcreator.ufd.world.inventory.TraiderMenu;
 import net.mcreator.ufd.world.inventory.ApsrspMenu;

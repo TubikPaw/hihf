@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "tool",
   "definition": {
     "toolType": "Sword",
@@ -12,21 +12,23 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "creativeTab": {
-      "value": "CUSTOM:Upgrademod"
-    },
-    "harvestLevel": 6,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgrademod"
+      }
+    ],
     "efficiency": 4.0,
     "attackSpeed": 1.0,
     "enchantability": 2,
     "damageVsEntity": 23.0,
     "usageCount": 5000,
-    "blocksAffected": [],
     "glowCondition": {
       "fixedValue": false
     },
     "repairItems": [],
     "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }
